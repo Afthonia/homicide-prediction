@@ -1,0 +1,336 @@
+DATA DICTIONARY FOR EVERY ATTRIBUTES
+
+
+STATE (State)
+
+Alabama : 0
+Alaska : 1
+Arizona : 2
+Arkansas : 3
+California : 4
+Colorado : 5
+Connecticut : 6
+Delaware : 7
+District of Columbia : 8
+Florida : 9
+Georgia : 10
+Hawaii : 11
+Idaho : 12
+Illinois : 13
+Indiana : 14
+Iowa : 15
+Kansas : 16
+Kentucky : 17
+Louisiana : 18
+Maine : 19
+Maryland : 20
+Massachusetts : 21
+Michigan : 22
+Minnesota : 23
+Mississippi : 24
+Missouri : 25
+Montana : 26
+Nebraska : 27
+Nevada : 28
+New Hampshire : 29
+New Jersey : 30
+New Mexico : 31
+New York : 32
+North Carolina : 33
+North Dakota : 34
+Ohio : 35
+Oklahoma : 36
+Oregon : 37
+Pennsylvania : 38
+Rhodes Island : 39
+South Carolina : 40
+South Dakota : 41
+Tennessee : 42
+Texas : 43
+Utah : 44
+Vermont : 45
+Virginia : 46
+Washington : 47
+West Virginia : 48
+Wisconsin : 49
+Wyoming : 50
+
+
+
+
+
+AGENT TYPE (Agentype -> AgentType)
+
+County police : 0
+Municipal police : 1
+Primary federal LE : 2
+Primary state LE : 3
+Regional police : 4
+Sheriff : 5
+Special police : 6
+Tribal : 7
+
+
+
+
+
+SOURCE (Source)
+
+FBI : 0
+MAP : 1
+
+
+
+
+
+SOLVED (Solved)
+
+No : 0
+Yes : 1
+
+
+
+
+
+YEAR (Year - YearInterval)
+
+1976-1995 : 0
+1996-2010 : 1
+2011-2022 : 2
+
+
+
+
+
+MONTH (Month -> Season)
+
+
+           December,
+           January,
+           February : 0
+
+           
+           March,
+           April,
+           May : 1
+
+           
+           June,
+           July,
+           August : 2
+
+           
+           September,
+           October,
+           November : 3
+
+           
+
+
+
+
+ACTION TYPE (ActionType)
+
+Normal update : 0
+Adjustment : 1
+
+
+
+
+
+HOMICIDE (Homicide)
+
+
+Manslaughter by negligence : 0
+Murder and non-negligent manslaughter : 1
+
+
+
+
+
+SITUATION (Situation)
+
+Single victim/single offender : 0
+Single victim/multiple offenders : 1
+Single victim/unknown offender(s) : 2
+Multiple victims/unknown offender(s) : 3
+Multiple victims/single offender : 4
+Multiple victims/multiple offenders : 5
+
+
+
+
+
+VICTIM SEX (VicSex)
+
+Unknown : 0
+Female : 1
+Male : 2
+
+
+
+
+
+VICTIM RACE (VicRace)
+
+American Indian or Alaskan Native : 0
+Asian : 1
+Black : 2
+Native Hawaiian or Pacific Islander : 3
+Unknown : 4
+White : 5
+
+
+
+
+
+VICTIM ETHNIC (VicEthnic)
+
+Unknown or not reported : 0
+Not of Hispanic origin : 1
+Hispanic origin : 2
+
+
+
+
+
+OFFENDER SEX (OffSex)
+
+
+Unknown : 0
+Female : 1
+Male : 2
+
+
+
+
+
+OFFENDER RACE (OffRace)
+
+American Indian or Alaskan Native : 0
+Asian : 1
+Black : 2
+Native Hawaiian or Pacific Islander : 3
+Unknown : 4
+White : 5
+
+
+
+
+
+OFFENDER ETHNIC (OffEthnic)
+
+Unknown or not reported : 0
+Not of Hispanic origin : 1
+Hispanic origin : 2
+
+
+
+
+
+WEAPON (Weapon)
+
+
+Other or type unknown,
+Weapon Not Reported : 0
+
+Asphyxiation - includes death by gas : 1
+Blunt object - hammer, club, etc : 2
+Drowning : 3
+Explosives : 4
+Fire : 5
+Firearm, type not stated : 6
+Handgun - pistol, revolver, etc : 7
+Knife or cutting instrument : 8
+Narcotics or drugs, sleeping pills : 9
+Other gun : 10
+Personal weapons, includes beating : 11
+Poison - does not include gas : 12
+Pushed or thrown out window : 13
+Rifle : 14
+Shotgun : 15
+Strangulation - hanging : 16
+
+
+
+
+
+CIRCUMSTANCE (Circumstance)
+
+Abortion : 0
+All other manslaughter by negligence : 1
+All suspected felony type : 2
+Argument over money or property : 3
+Arson : 4
+Brawl due to influence of alcohol : 5
+Brawl due to influence of narcotics : 6
+Burglary : 7
+Child killed by babysitter : 8
+Children playing with gun : 9
+Circumstances undetermined : 10
+Felon killed by police : 11
+Felon killed by private citizen : 12
+Gambling : 13
+Gangland killings : 14
+Gun-cleaning death - other than self : 15
+Institutional killings : 16
+Juvenile gang killings : 17
+Larceny : 18
+Lovers triangle : 19
+Motor vehicle theft : 20
+Narcotic drug laws : 21
+Other : 22
+Other - not specified : 23
+Other arguments : 24
+Other negligent handling of gun : 25
+Other sex offense : 26
+Prostitution and commercialized vice : 27
+Rape : 28
+Robbery : 29
+Sniper attack : 30
+Victim shot in hunting accident : 31
+
+
+
+
+
+RELATIONSHIP - TARGET ATTRIBUTE (Relationship)
+
+
+
+ Husband,
+ Acquaintance,
+ Wife,
+ Brother,
+ Friend,
+ In-law,
+ Stepfather,
+ Boyfriend,
+ Father,
+ Neighbor,
+ Common-law husband,
+ Other family,
+ Ex-husband,
+ Stepson,
+ Homosexual relationship,
+ Daughter,
+ Common-law wife,
+ Other - known to victim,
+ Son,
+ Girlfriend,
+ Sister,
+ Ex-wife,
+ Mother,
+ Employee,
+ Stepdaughter,
+ Employer,
+ Stepmother : 0
+
+Stranger,
+Relationship not determined : 1
+
+
+
+
+
+

@@ -1,0 +1,9862 @@
+State Troopers: 748
+Birmingham: 3933
+Fairfield: 453
+Leeds: 39
+Mobile: 1744
+Prichard: 463
+Montgomery County: 996
+Montgomery: 1339
+Baldwin County: 162
+Anniston: 355
+Piedmont: 30
+Ozark: 78
+Fort Payne: 21
+Gadsden: 247
+Fayette: 17
+Hale County: 43
+Florence: 329
+Lee County: 1216
+Huntsville: 725
+Monroe County: 484
+Perry County: 80
+Marion: 266
+Russell County: 138
+Phenix City: 191
+St. Clair County: 147
+Sumter County: 432
+Alexander City: 79
+Winston County: 36
+Ashley County: 73
+Boone County: 168
+Van Buren: 70
+Hot Springs: 252
+Mississippi County: 89
+Nevada County: 140
+Ouachita County: 239
+Phillips County: 65
+Helena: 170
+Little Rock: 1943
+Benton: 51
+Woodruff County: 18
+Flagstaff: 110
+Maricopa County: 893
+Chandler: 225
+El Mirage: 53
+Glendale: 914
+Mesa: 787
+Phoenix: 7689
+Tucson: 2104
+Prescott: 80
+Yuma: 228
+Alameda County: 312
+Alameda: 90
+Oakland: 5482
+Contra Costa County: 573
+Antioch: 331
+Richmond: 5092
+San Pablo: 217
+Fresno County: 951
+Fresno: 2419
+Huron: 49
+Humboldt County: 246
+Brawley: 67
+Kern County: 1627
+Los Angeles County: 7064
+Baldwin Park: 308
+Bell Gardens: 242
+Compton: 2275
+El Monte: 432
+Inglewood: 1328
+Long Beach: 2884
+Los Angeles: 28848
+Norwalk: 513
+Pasadena: 928
+Pico Rivera: 323
+Sierra Madre: 13
+West Covina: 196
+Carson: 485
+Merced County: 337
+Monterey: 55
+Salinas: 713
+Orange County: 2223
+Anaheim: 746
+Fullerton: 169
+Huntington Beach: 183
+San Clemente: 50
+Santa Ana: 1450
+Irvine: 82
+Sacramento County: 1924
+Sacramento: 2395
+San Bernardino County: 1762
+Fontana: 422
+San Bernardino: 2226
+San Diego County: 1276
+El Cajon: 183
+Oceanside: 434
+San Diego: 3790
+San Francisco: 3935
+San Joaquin County: 670
+Stockton: 1993
+San Luis Obispo County: 158
+San Mateo County: 210
+San Mateo: 107
+Santa Clara County: 257
+San Jose: 1839
+Santa Clara: 141
+Vallejo: 599
+Sonoma County: 301
+Stanislaus County: 528
+Modesto: 582
+Tulare County: 799
+Ventura County: 248
+Yolo County: 141
+Davis: 35
+Commerce City: 110
+Logan County: 160
+Sterling: 24
+Denver: 3307
+Bridgeport: 1334
+Waterbury: 385
+Washington: 9439
+Wilmington: 1152
+State Police: New Castle County: 197
+Bay County: 152
+Panama City: 155
+Brevard County: 342
+Cocoa: 113
+Melbourne: 167
+Broward County: 692
+Fort Lauderdale: 1079
+Hallandale: 146
+Pembroke Pines: 113
+Collier County: 442
+Miami-Dade: 5306
+Hialeah: 463
+Miami: 4263
+Miami Beach: 401
+South Miami: 42
+Jacksonville: 4920
+Escambia County: 760
+Quincy: 169
+Hillsborough County: 1401
+Tampa: 1865
+Madison: 352
+Marion County: 1218
+Ocala: 233
+Palm Beach County: 1193
+Palm Beach: 10
+West Palm Beach: 799
+Lake Park: 35
+Zephyrhills: 19
+Pinellas County: 382
+Clearwater: 241
+St. Petersburg: 1035
+Polk County: 1109
+Lake Alfred: 8
+Lakeland: 296
+Winter Haven: 97
+Fort Pierce: 407
+Seminole County: 327
+Volusia County: 370
+Baker County: 57
+Milledgeville: 64
+Savannah: 1338
+Forest Park: 136
+Austell: 15
+Decatur: 428
+Dekalb County Police Department: 2954
+Elbert County: 43
+Rome: 210
+East Point: 281
+Harris County: 3847
+Warner Robins: 174
+Columbus: 5480
+Pike County: 175
+Augusta: 316
+Spalding County: 71
+Terrell County: 39
+Vidalia: 76
+Sandersville: 28
+Atlanta: 7048
+Honolulu County: 1341
+Boone: 18
+Henry County: 452
+Iowa City: 44
+Cedar Rapids: 142
+Hiawatha: 7
+Marshall County: 181
+Pottawattamie County: 18
+Nampa: 104
+Champaign County: 52
+Cook County: 160
+Chicago Heights: 133
+Cicero: 130
+Des Plaines: 21
+Harvey: 137
+Northbrook: 2
+Riverdale: 93
+Elmhurst: 17
+Lisle: 4
+Kewanee: 8
+Aurora: 1123
+Kankakee County: 54
+Waukegan: 152
+Bloomington: 200
+Alton: 118
+Venice: 23
+Alorton: 20
+Cahokia: 35
+East St. Louis: 832
+Sangamon County: 38
+Danville: 424
+Winnebago County: 84
+Chicago: 29934
+Daviess County: 51
+Elkhart County: 51
+New Albany: 76
+Gary: 2782
+Noble County: 31
+Parke County: 9
+Rockville: 2
+Mishawaka: 67
+South Bend: 666
+Tipton County: 49
+Indianapolis: 5260
+Liberal: 56
+Stanton County: 11
+Kansas City: 6393
+State Police: Anderson County: 12
+Glasgow: 23
+State Police: Bell County: 71
+State Police: Boone County: 10
+State Police: Bourbon County: 23
+State Police: Breathitt County: 63
+State Police: Bullitt County: 20
+State Police: Christian County: 16
+Winchester: 106
+Owensboro: 91
+Lexington: 990
+State Police: Harlan County: 110
+Jefferson County Police Department: 328
+Louisville: 1267
+State Police: Knott County: 33
+State Police: Knox County: 106
+State Police: Larue County: 12
+State Police: Logan County: 22
+State Police: Marion County: 99
+State Police: Owen County: 19
+State Police: Perry County: 179
+State Police: Rockcastle County: 41
+State Police: Taylor County: 11
+Cadiz: 4
+State Police: Whitley County: 72
+Bossier County: 87
+Shreveport: 2070
+Claiborne County: 160
+Concordia County: 44
+East Carroll County: 51
+Jefferson County: 3118
+Lafourche County: 221
+Alexandria: 787
+Red River County: 44
+Richland County: 1035
+St. Charles County: 232
+St. John The Baptist County: 193
+St. Martin County: 96
+St. Martinville: 10
+St. Tammany County: 336
+Tangipahoa County: 332
+Houma: 209
+Farmerville: 22
+Vernon County: 142
+Bogalusa: 149
+New Orleans: 9891
+Yarmouth: 18
+Williamstown: 4
+New Bedford: 196
+Salem: 413
+Chicopee: 50
+Westfield: 37
+Belmont: 53
+Framingham: 32
+Braintree: 19
+Canton: 477
+Weymouth: 27
+Boston: 3200
+Webster: 41
+Anne Arundel County Police Department: 603
+Baltimore County Police Department: 1495
+Sykesville: 2
+Charles County: 217
+Frederick: 129
+Montgomery County Police Department: 905
+Prince George's County Police Department: 4047
+Easton: 86
+Baltimore: 12656
+State Police: Somerset County: 161
+Benton Harbor: 190
+Flint: 1963
+Michigan State Police: 1
+Jackson: 3166
+Grand Rapids: 811
+Sterling Heights: 71
+Warren: 492
+Berkley: 6
+Bloomfield Township: 16
+Milford: 96
+Saginaw: 902
+Port Huron: 59
+Shiawassee: 22
+Tuscola: 25
+Washtenaw: 200
+Wayne: 92
+Detroit: 21877
+Ecorse: 87
+Highland Park: 601
+Redford Township: 69
+Romulus: 107
+Becker County: 19
+Crow Wing County: 28
+Eagan: 30
+Minneapolis: 2193
+Itasca County: 28
+Lake County: 532
+St. Joseph: 178
+De Kalb County: 85
+Lawrence County: 234
+Morgan County: 176
+Sedalia: 38
+St. Louis: 8455
+University City: 138
+Woodson Terrace: 12
+Cleveland: 6425
+Calhoun County: 196
+Clarksdale: 102
+Covington County: 53
+Harrison County: 385
+Gulfport: 336
+Jackson County: 709
+Moss Point: 76
+Leflore County: 46
+Mccomb: 56
+Rankin County: 75
+Warren County: 296
+Yazoo City: 47
+Falls City: 1
+Bertie County: 89
+Bladen County: 137
+Buncombe County: 198
+Concord: 390
+Catawba County: 185
+Whiteville: 56
+Columbus County Rural Pd: 20
+Duplin County: 183
+Durham County: 114
+Durham: 1179
+Winston-Salem: 954
+Bessemer City: 16
+Gastonia: 351
+Greensboro: 1242
+High Point: 478
+Halifax County: 335
+Ahoskie: 52
+Statesville: 105
+Sanford: 316
+Lenoir County: 83
+Kinston: 201
+Charlotte-Mecklenburg: 3513
+Mecklenburg: 110
+Pitt County: 164
+Robeson County: 648
+Eden: 60
+Sampson County: 172
+Vance County: 143
+Goldsboro: 307
+Wilkes County: 186
+Williams County: 21
+Cheshire County: 4
+Jaffrey: 3
+Cheshire State Police: 19
+Riverton: 37
+Camden: 1697
+Montclair: 216
+Orange: 531
+Deptford Township: 38
+Jersey City: 1242
+Kearny: 41
+Trenton: 899
+New Brunswick: 179
+Asbury Park: 131
+Long Branch: 73
+Dover: 150
+Lakewood Township: 91
+Passaic: 180
+Paterson: 875
+Elizabeth: 533
+Plainfield: 296
+Newark County: 4498
+Albuquerque: 2460
+Roswell: 343
+Las Cruces: 218
+Mckinley County: 31
+Las Vegas Metro Police Department: 5356
+Reno: 599
+Buffalo: 2269
+Cheektowaga Town: 43
+Rochester: 2037
+East Rochester Village: 4
+Freeport Village: 86
+New York: 47229
+Syracuse: 749
+Newburgh: 178
+Fallsburg Town: 13
+Yonkers: 478
+Otsego State Police: 1
+Hamilton: 265
+Clark County: 313
+Springfield: 1851
+Columbiana County: 39
+East Cleveland: 166
+Cambridge: 199
+Norwood: 63
+Springfield Township: 92
+Newark: 127
+Lorain: 163
+Toledo: 1591
+Mahoning County: 10
+Youngstown: 1305
+Dayton: 1991
+Kettering: 35
+Cincinnati: 2567
+El Reno: 53
+Cherokee County: 476
+Norman: 120
+Coal County: 13
+Hughes County: 18
+Oklahoma City: 3397
+Henryetta: 22
+Seminole: 41
+Sallisaw: 16
+Tulsa County: 167
+Tulsa: 2385
+Woodward County: 11
+Lane County: 107
+Multnomah County: 122
+Gresham: 147
+Portland: 1983
+Sp: Yamhill County: 6
+Bellevue: 145
+Mckees Rocks: 44
+Sewickley: 5
+Scott Township: 12
+Aliquippa: 75
+State Police: Butler County: 76
+Johnstown: 112
+Palmerton: 6
+West Chester: 35
+State Police: Clearfield County: 46
+Titusville: 120
+Harrisburg: 525
+Chester: 802
+Collingdale: 17
+Darby: 44
+Tinicum Township: 18
+Upper Darby Township: 148
+Erie: 271
+State Police: Erie County: 61
+Chambersburg: 39
+West Pittston: 3
+State Police: Warren County: 97
+State Police: Westmoreland County: 153
+Philadelphia: 17121
+Pittsburgh: 2275
+Providence: 831
+Aiken County: 388
+Anderson: 335
+Bamberg County: 43
+Barnwell County: 47
+North Charleston: 708
+Colleton County: 211
+Fairfield County: 128
+Georgetown: 144
+Greenville County: 962
+Hampton County: 42
+Myrtle Beach: 161
+Marlboro County: 155
+Oconee County: 164
+Seneca: 31
+Orangeburg County: 472
+Orangeburg: 80
+York County: 317
+Cheatham County: 33
+Nashville: 3899
+Fayette County: 231
+Fentress County: 27
+Greeneville: 24
+Hamilton County: 404
+Chattanooga: 1009
+Hardeman County: 71
+Paris: 170
+Knoxville: 1101
+Athens: 130
+Maury County: 75
+Murfreesboro: 157
+Kingsport: 108
+Gallatin: 70
+Johnson City: 131
+Memphis: 7846
+Bastrop County: 117
+Elgin: 137
+Bexar County: 598
+Freeport: 101
+Collingsworth County: 6
+Carrollton: 198
+Garland: 420
+Ector County: 174
+El Paso: 1324
+Fort Bend County: 350
+Galveston: 472
+League City: 75
+Longview: 486
+Guadalupe County: 76
+Big Spring: 122
+Nederland: 24
+Cleburne: 54
+Stamford: 226
+Kerrville: 53
+Lamb County: 22
+Liberty: 63
+Lubbock: 906
+Shallowater: 3
+Mclennan County: 96
+Waco: 658
+Madison County: 675
+Bay City: 145
+Midland: 335
+Corpus Christi: 1260
+Robstown: 56
+Parker County: 114
+San Saba County: 18
+Starr County: 164
+Fort Worth: 4235
+Haltom City: 91
+Travis County: 276
+Austin: 1844
+Walker County: 194
+Wichita Falls: 454
+Dallas: 12155
+Houston: 17684
+San Antonio: 6772
+Arlington County Police Department: 216
+Buchanan County: 105
+Campbell County: 183
+Chesterfield: 422
+Fairfax County Police Department: 730
+Goochland County: 42
+Greene County: 398
+Henrico County Police D: 664
+Nelson County: 57
+Pittsylvania County: 184
+Charlottesville: 141
+Chesapeake: 528
+Clifton Forge: 7
+Hampton: 627
+Martinsville: 124
+Norfolk: 2182
+Norton: 32
+Portsmouth: 1056
+Roanoke: 603
+Virginia Beach: 831
+Richland: 43
+Port Angeles: 28
+King County: 673
+Tukwila: 63
+Kitsap County: 137
+Lewis County: 119
+Pierce County: 703
+Spokane County: 211
+Walla Walla: 53
+Yakima: 302
+Seattle: 1983
+Manitowoc: 22
+Racine County: 43
+Racine: 302
+Sheboygan: 41
+Menomonee Falls: 18
+Brooke County: 12
+Brooke State Police: 2
+Huntington: 248
+Kanawha County: 241
+Kanawha State Police: 58
+Bluefield: 65
+Beckley: 84
+Wetzel State Police: 8
+Wood State Police: 13
+Wyoming State Police: 13
+Casper: 84
+Milwaukee: 5245
+Bessemer: 354
+Adamsville: 14
+Butler County: 132
+Clanton: 24
+Crenshaw County: 50
+Dallas County: 188
+Elmore County: 137
+St. Florian: 1
+Wilcox County: 85
+Columbia County: 327
+Crittenden County: 156
+Independence County: 72
+Pine Bluff: 601
+Miller County: 75
+Brinkley: 30
+Poinsett County: 33
+Pulaski County: 532
+Sherwood: 38
+Avondale: 106
+Mohave County: 246
+Pima County: 881
+Casa Grande: 97
+Eloy: 41
+Fremont: 226
+Hayward: 394
+Bakersfield: 1259
+Bell: 166
+Burbank: 173
+Gardena: 279
+Hermosa Beach: 19
+La Puente: 222
+La Verne: 25
+Monrovia: 101
+Monterey Park: 116
+Santa Monica: 280
+San Rafael: 54
+Mendocino County: 218
+Ukiah: 31
+Monterey County: 341
+Napa County: 70
+Napa: 62
+Garden Grove: 328
+Stanton: 112
+Yorba Linda: 28
+Riverside County: 1777
+Hemet: 165
+Chino: 115
+National City: 220
+Burlingame: 39
+Santa Barbara: 138
+Campbell: 38
+Los Altos: 13
+Sunnyvale: 129
+Petaluma: 44
+Porterville: 146
+Oxnard: 569
+Santa Paula: 83
+Marysville: 95
+Adams County: 421
+Brighton: 51
+Englewood: 122
+Littleton: 47
+Arvada: 78
+Fort Collins: 101
+Pueblo: 390
+Teller County: 31
+Darien: 18
+State Police: Sussex County: 235
+Alachua County: 188
+High Springs: 8
+Panama City Beach: 39
+Deerfield Beach: 138
+Hollywood: 395
+Cooper City: 14
+Charlotte County: 146
+Clay County: 330
+Coral Gables: 87
+Dixie County: 43
+Pensacola: 211
+Flagler County: 60
+Mount Dora: 26
+Tallahassee: 457
+Manatee County: 450
+Orlando: 1078
+Osceola County: 224
+Riviera Beach: 366
+Jupiter: 33
+Haines City: 56
+Lake Hamilton: 6
+Lake Wales: 35
+Putnam County: 325
+Sarasota: 218
+Suwannee County: 56
+Ormond Beach: 26
+Holly Hill: 40
+Macon: 755
+Athens-Clarke County: 233
+Cobb County Police Department: 545
+Newnan: 66
+Albany: 1018
+Floyd County Police Department: 106
+College Park: 262
+Hall County: 195
+Gainesville: 355
+Perry: 95
+Stephens County: 60
+Toccoa: 32
+Walton County: 150
+Hawaii Police Department County: 233
+Maui Police Department County: 155
+Burlington: 341
+Dubuque: 40
+Des Moines: 619
+Ada County: 80
+Champaign: 122
+Berwyn: 34
+Ford Heights: 12
+Elmwood Park: 19
+Summit: 27
+Hanover Park: 12
+West Chicago: 10
+Hardin County: 111
+Macoupin County: 5
+Benld: 1
+Granite City: 50
+East Peoria: 18
+Will County: 124
+Rockford: 590
+Allen County: 170
+Muncie: 183
+Greenwood: 451
+Hammond: 550
+Speedway: 38
+Tell City: 7
+Starke County: 27
+Knox: 7
+Vanderburgh County: 33
+Indiana State Police: 205
+Junction City: 73
+Overland Park: 85
+Shawnee County: 30
+Ballard County: 5
+Ashland: 99
+Newport: 184
+Hopkinsville: 131
+Radcliff: 47
+Cumberland: 59
+Covington: 267
+Kenton County Police Department: 27
+Paducah: 128
+Pendleton County: 4
+Caddo County: 238
+Calcasieu County: 246
+Baton Rouge: 2767
+Lafayette: 639
+Thibodaux: 42
+Tallulah: 55
+Morehouse County: 50
+Rapides County: 147
+Opelousas: 100
+Slidell: 45
+Brockton: 290
+Winthrop: 17
+State Police: Charles County: 13
+Alpena: 14
+Barry: 37
+Clare: 48
+Lansing: 549
+Kalamazoo: 367
+Mason: 44
+Southfield: 164
+Ottawa: 95
+Saginaw Township: 34
+White Pigeon: 2
+Ramsey: 18
+Dunklin County: 29
+Franklin County: 876
+Independence: 312
+Berkeley: 455
+Alcorn County: 3
+Corinth: 44
+Oxford: 118
+Senatobia: 2
+Waynesboro: 131
+Billings: 174
+Fairbury: 2
+Lincoln: 303
+Nance County: 1
+Scottsbluff: 23
+Anson County: 98
+Avery County: 29
+Kannapolis: 91
+Caswell County: 93
+Hickory: 185
+Cleveland County: 177
+Cumberland County: 702
+Fayetteville: 1029
+Manteo: 2
+Thomasville: 157
+Edgecombe County: 147
+Gaston County Police Department: 254
+Guilford County: 168
+Hertford County: 78
+Lincoln County: 488
+Pender County: 60
+Randolph County: 264
+Richmond County: 205
+Rutherford County: 188
+Surry County: 115
+Wake County: 295
+Raleigh: 812
+Mount Olive: 32
+Wilson County: 197
+Ward County: 29
+Nashua: 78
+Atlantic City: 486
+Alpine: 16
+Burlington Township: 17
+Florence Township: 12
+Vineland: 129
+West Orange: 44
+Franklin Township: 34
+North Bergen Township: 76
+Union City: 345
+Lawrence Township: 30
+Woodbridge Township: 73
+Carney's Point Township: 12
+Somerville: 127
+Rahway: 34
+New Jersey State Police, Headquarters: 154
+Bernalillo County: 377
+Hobbs: 146
+Gallup: 135
+New Mexico State Police: 556
+Olean: 7
+West Seneca Town: 18
+Nassau County: 811
+Hempstead Village: 256
+Nyack Village: 6
+Saratoga County: 33
+Scotia Village: 5
+Suffolk County Police Department: 1264
+Southampton Town: 28
+White Plains: 55
+Westchester Parkway Poli: 2
+Allegany State Police: 3
+Chemung State Police: 1
+Cortland State Police: 1
+Oneida State Police: 4
+Onondaga State Police: 5
+Orange State Police: 9
+Yates State Police: 1
+Lima: 227
+Galion: 6
+Brecksville: 9
+Cleveland Heights: 75
+Euclid: 98
+Strongsville: 19
+Sharonville: 15
+Elyria: 108
+Summit County: 58
+Akron: 1053
+Newton Falls: 1
+Orrville: 13
+Elk City: 25
+Canadian County: 24
+Comanche County: 67
+Mcclain County: 39
+Muskogee County: 80
+Muskogee: 203
+Osage County: 103
+Sequoyah County: 88
+Rainier: 4
+Pendleton: 26
+Clairton: 20
+East Deer Township: 2
+Ross Township: 11
+Exeter Township: 14
+Reading: 506
+Altoona: 74
+State Police: Cambria County: 61
+State Police: Chester County: 132
+State Police: Clinton County: 52
+Luzerne Township: 1
+State Police: Luzerne County: 219
+Abington Township: 37
+Norristown: 179
+State Police: Schuylkill County: 99
+State Police: Susquehanna County: 59
+Canonsburg: 14
+Monessen: 21
+Northern York Regional: 37
+Scituate: 7
+Charleston Police Depart: 167
+Chester County: 140
+Chesterfield County: 136
+Hartsville: 72
+Dorchester County: 185
+Horry County Police Department: 610
+Lancaster County: 213
+Lexington County: 409
+Columbia: 1114
+Saluda: 16
+Sumter: 202
+Custer County: 57
+Crossville: 18
+Humboldt: 46
+Lawrenceburg: 36
+Shelby County: 465
+Beeville: 37
+Killeen: 470
+Bryan: 193
+Brooks County: 31
+Carson County: 15
+Cass County: 172
+Plano: 193
+Mesquite: 253
+Lewisville: 106
+Odessa: 437
+Texas City: 224
+Grayson County: 123
+Grimes County: 46
+Plainview: 54
+Baytown: 279
+San Marcos: 124
+Mcallen: 212
+Hill County: 81
+Hopkins County: 55
+Greenville: 1162
+Nacogdoches County: 66
+Corsicana: 82
+Panola County: 93
+Rusk County: 138
+Somervell County: 10
+Swisher County: 12
+Tarrant County: 139
+Blue Mound: 6
+Richland Hills: 7
+Abilene: 325
+Victoria County: 87
+Carbon County: 43
+Davis County: 26
+Emery County: 14
+Salt Lake County: 383
+Amherst County: 74
+Botetourt County: 52
+Altavista: 6
+Caroline County: 63
+Carroll County: 229
+Culpeper: 15
+State Police: King and Queen County: 9
+King George County: 40
+Prince George County: 19
+Rockingham County: 214
+State Police: Russell County: 27
+Wise County: 116
+St. Paul: 918
+Wythe County: 32
+Fredericksburg: 81
+Lynchburg: 257
+Newport News: 1037
+Petersburg: 424
+Suffolk County: 300
+Vermont State Police: 152
+Vancouver: 187
+Island County: 31
+Bremerton: 71
+Tacoma: 871
+Tumwater: 11
+Bellingham: 81
+Dane County: 64
+Menominee County: 9
+Clay State Police: 15
+Fayette State Police: 43
+Logan State Police: 59
+Mason County: 122
+Pendleton State Police: 8
+Webster State Police: 23
+Wyoming County: 44
+Sheridan: 45
+Anchorage: 927
+Bethel: 58
+Blount County: 137
+Oneonta: 4
+Choctaw County: 96
+Tuscumbia: 17
+Conecuh County: 21
+Selma: 352
+Dothan: 236
+Lauderdale County: 191
+Macon County: 142
+Tuskegee: 119
+Marengo County: 45
+Benton County: 267
+Marked Tree: 11
+North Little Rock: 527
+Yavapai County: 181
+Glenn County: 40
+Lassen County: 46
+Bellflower: 220
+El Segundo: 24
+Hawaiian Gardens: 94
+Huntington Park: 298
+Irwindale: 36
+Lakewood: 496
+Pomona: 1057
+San Fernando: 80
+Placer County: 179
+Indio: 250
+Perris: 159
+San Jacinto: 82
+Ontario: 615
+Lodi: 125
+Watsonville: 116
+Santa Rosa: 215
+Yuba City: 103
+Visalia: 334
+Colorado Springs: 998
+Golden: 14
+Bloomfield: 65
+Hartford: 1312
+New Haven: 840
+South Windsor: 12
+Windsor: 61
+Connecticut State Police: 436
+Delmar: 4
+Laurel: 193
+Lauderhill: 198
+Homestead: 227
+North Miami Beach: 132
+Hardee County: 40
+Highlands County: 143
+Leesburg: 97
+Fort Myers: 463
+Cape Coral: 108
+Bradenton: 175
+Boynton Beach: 194
+Pasco County: 547
+Santa Rosa County: 145
+Deland: 75
+Statesboro: 54
+Chatham County Police Department: 125
+Chattooga County: 33
+Elberton: 29
+Gwinnett County Police Department: 753
+Fort Madison: 7
+Boise: 168
+Dolton: 14
+Wood Dale: 2
+Effingham County: 26
+Geneva: 39
+La Salle County: 63
+Wood River: 11
+Olney: 14
+Rock Island County: 10
+Centreville: 84
+Fort Wayne: 1094
+Crown Point: 12
+East Chicago: 341
+Merrillville: 75
+Porter County: 37
+Vigo County: 26
+Great Bend: 24
+Wichita: 1075
+Topeka: 445
+Stevens County: 77
+State Police: Edmonson County: 12
+State Police: Floyd County: 98
+State Police: Greenup County: 23
+State Police: Leslie County: 62
+State Police: Lyon County: 16
+State Police: Martin County: 30
+State Police: Mercer County: 33
+State Police: Nelson County: 24
+Bowling Green: 173
+State Police: Wolfe County: 26
+Bienville County: 34
+De Soto County: 50
+Iberia County: 47
+Ruston: 63
+St. Mary County: 103
+Vermilion County: 70
+Barnstable: 55
+Lawrence: 305
+Ware: 8
+Maynard: 4
+Leominster: 28
+State Police: Worcester County: 47
+State Police: Frederick County: 61
+State Police: Wicomico County: 90
+Frankfort: 72
+Battle Creek Township: 3
+Genesee: 39
+Oscoda Township: 13
+Monroe: 681
+Muskegon: 199
+Muskegon Heights: 100
+Ferndale: 44
+Pontiac: 483
+St. Clair: 79
+Sanilac: 26
+Durand: 1
+Dearborn: 140
+Hamtramck: 149
+Wyandotte: 29
+Anoka County: 28
+Blaine: 36
+Coon Rapids: 23
+Carlton County: 17
+Goodhue County: 9
+Hennepin County: 13
+Crystal: 24
+Christian County: 84
+St. Charles: 74
+Natchez: 108
+Coahoma County: 48
+Hattiesburg: 232
+Pascagoula: 120
+Lamar County: 97
+Tippah County: 20
+Vicksburg: 210
+Washington County: 923
+Wilkinson County: 21
+Ogallala: 5
+Scotts Bluff County: 13
+Wadesboro: 68
+Beaufort County: 345
+Asheville: 319
+Beaufort: 56
+Newton: 90
+Chatham County: 105
+Lowell: 202
+Scotland Neck: 16
+Martin County: 234
+Nash County: 167
+Northampton County: 135
+Onslow County: 152
+Carrboro: 22
+Pasquotank County: 30
+Person County: 91
+Cherokee Tribal: 8
+Plymouth: 91
+Wilson: 275
+Mclean County: 17
+Cherry Hill Township: 43
+Glassboro: 26
+Guttenberg: 18
+West New York: 69
+Hamilton Township: 117
+Middletown Township: 47
+Union Township: 61
+Chaves County: 55
+Socorro County: 7
+Taos: 17
+North Las Vegas: 678
+Poughkeepsie: 173
+Greece Town: 57
+Niagara Falls: 171
+Highland Falls Village: 3
+Troy: 307
+Spring Valley Village: 64
+Ramapo Town: 27
+Peekskill: 39
+Mount Vernon: 364
+Mount Kisco Village: 10
+Albany State Police: 1
+Dutchess State Police: 5
+Tioga State Police: 1
+Wayne State Police: 46
+Warrensville Heights: 37
+Whitehall: 60
+Eastlake: 21
+Ironton: 17
+Lorain County: 48
+Vandalia: 18
+Zanesville: 65
+Ross County: 36
+Lebanon: 178
+Wood County: 125
+Lawton: 406
+Pittsburg County: 66
+State Police: Klamath County: 44
+Mckeesport: 167
+Penn Hills: 118
+Braddock: 24
+State Police: Blair County: 44
+State Police: Bradford County: 57
+Bensalem Township: 93
+Butler: 32
+Tredyffrin Township: 6
+Haverford Township: 21
+Ridley Township: 29
+Chester Township: 28
+Millcreek Township: 44
+Brockway: 1
+Allentown: 424
+Whitehall Township: 19
+Southwestern Mercer County Regional: 28
+Greensburg: 22
+State Police: Wyoming County: 42
+York: 389
+State Police: York County: 111
+Johnston: 46
+Aiken: 98
+Anderson County: 645
+Charleston: 894
+Clarendon County: 140
+Darlington County: 269
+Florence County: 362
+Lake City: 128
+Laurens County: 227
+Clinton: 240
+Spartanburg County: 622
+Union County: 428
+Union: 54
+Fort Mill: 19
+Rock Hill: 222
+Sisseton: 2
+Dyersburg: 71
+Knox County: 355
+Temple: 189
+Bowie County: 94
+Pittsburg: 340
+Collin County: 85
+Denton: 150
+Ellis County: 93
+Beaumont: 785
+Port Arthur: 422
+Conroe: 140
+Oldham County: 11
+Potter County: 44
+Robertson County: 97
+Schleicher County: 4
+Tyler: 393
+Del Rio: 59
+Salt Lake City: 701
+Ogden: 217
+State Police: Accomack County: 22
+State Police: Fairfax County: 13
+Mecklenburg County: 109
+Powhatan County: 28
+Shenandoah County: 15
+Franklin: 192
+Westmoreland County: 47
+Pasco: 135
+Skagit County: 78
+Everett: 215
+Eau Claire: 43
+Forest County: 22
+Langlade County: 11
+Hales Corners: 3
+Janesville: 48
+Sawyer County: 35
+Washburn County: 14
+Jefferson State Police: 27
+Lincoln State Police: 33
+Mcdowell State Police: 101
+Fairmont: 95
+Mason State Police: 16
+Albany County: 21
+Cheyenne: 99
+Sweetwater County: 39
+Ketchikan: 23
+Spenard Service District: 1
+Fairhope: 18
+Chambers County: 177
+Auburn: 294
+Marianna: 64
+Blytheville: 246
+Navajo County: 50
+Colusa County: 35
+Imperial County: 127
+El Centro: 92
+Kings County: 125
+Commerce: 154
+Downey: 228
+Lawndale: 107
+Lynwood: 653
+Maywood: 287
+Madera County: 200
+Marin County: 118
+Fort Bragg: 16
+Seaside: 138
+St. Helena: 4
+Costa Mesa: 145
+Newport Beach: 71
+Placentia: 61
+Riverside: 970
+Coronado: 21
+Daly City: 145
+Cupertino: 27
+Palo Alto: 39
+Santa Cruz County: 240
+Sutter County: 96
+Tuolumne County: 64
+Federal Heights: 21
+El Paso County: 458
+Garfield County: 44
+Durango: 23
+Cortez: 25
+Citrus County: 153
+Eustis: 30
+Leon County: 168
+Key West: 88
+Belle Glade: 160
+Lake Worth: 212
+Treasure Island: 12
+St. Johns County: 181
+Sarasota County: 233
+Chamblee: 46
+Fulton County Police Department: 493
+Glynn County Police Department: 137
+Lowndes County: 197
+Forsyth: 12
+Cuthbert: 8
+Lagrange: 150
+Muscatine: 27
+Shelley: 2
+Urbana: 54
+Wheaton: 7
+Kankakee: 127
+Fox Lake: 5
+Metropolis: 3
+Rock Island: 74
+Tazewell County: 72
+Jeffersonville: 50
+Elkhart: 195
+La Porte County: 47
+Spencer County: 5
+Evansville: 382
+Graham County: 28
+State Police: Boyle County: 14
+Murray: 74
+State Police: Clay County: 114
+State Police: Green County: 7
+Henderson: 528
+State Police: Mccreary County: 32
+State Police: Pike County: 193
+Gonzales: 80
+Arcadia: 108
+Cameron County: 226
+East Baton Rouge County: 603
+Lafayette County: 274
+Abbeville: 104
+Franklinton: 28
+Fall River: 145
+Holyoke: 117
+Malden: 63
+Chelsea: 83
+Worcester: 362
+State Police: Caroline County: 44
+Buchanan: 4
+Battle Creek: 277
+Isabella: 14
+Lenawee: 26
+Macomb: 82
+Royal Oak Township: 9
+Ypsilanti: 129
+Freeborn County: 5
+Golden Valley: 16
+Pine County: 25
+Hannibal: 27
+Jefferson Davis County: 69
+Hollandale: 22
+Wayne County: 411
+Flathead County: 62
+Missoula: 64
+Kearney: 20
+Dodge County: 68
+Omaha: 839
+Otoe County: 6
+Alamance County: 171
+Brunswick County: 171
+Burke County: 204
+Caldwell County: 221
+New Bern: 101
+Rose Hill: 11
+Warsaw: 23
+Rocky Mount: 404
+Granville County: 82
+Harnett County: 289
+Henderson County: 287
+Hoke County: 117
+Iredell County: 161
+Southern Pines: 59
+Elizabeth City: 93
+Reidsville: 79
+East Spencer: 26
+North Kannapolis: 28
+Forest City: 31
+Scotland County: 117
+Cary: 44
+State Police: Coos County: 18
+Rockingham State Police: 30
+Willingboro Township: 59
+Berlin Township: 4
+Gloucester City: 19
+East Orange: 526
+Union Beach: 5
+Brick Township: 33
+Clifton: 75
+Clovis: 161
+San Juan County: 127
+Fallon: 9
+Sparks: 154
+Colonie Town: 26
+Jamestown: 58
+Dutchess County: 21
+Brighton Town: 12
+Brown County: 100
+Garfield Heights: 73
+Maple Heights: 22
+Delaware: 19
+Medina County: 80
+Barberton: 50
+Trumbull County: 50
+Garvin County: 44
+Mccurtain County: 134
+Pawnee County: 34
+Clackamas County: 268
+Milwaukie: 15
+Klamath County: 85
+Glassport: 4
+Shaler Township: 14
+Franklin Park: 12
+Philipsburg: 1
+East Whiteland Township: 5
+Kennett Square: 9
+Meadville: 20
+Sharon Hill: 13
+State Police: Greene County: 73
+New Castle: 126
+State Police: Lawrence County: 91
+Plains Township: 11
+Williamsport: 79
+State Police: Mckean County: 11
+State Police: Montour County: 7
+New Kensington: 30
+Scottdale: 8
+Hempfield Township: 9
+Hanahan: 43
+Cheraw: 44
+Society Hill: 1
+Dillon: 55
+Conway: 165
+Pennington County: 40
+Bradley County: 93
+Bells: 4
+Giles County: 60
+Hawkins County: 48
+Stewart County: 21
+Austin County: 42
+Texarkana: 337
+Comanche: 15
+Grand Prairie: 369
+Irving: 417
+Dimmit County: 41
+Ennis: 58
+Marshall: 193
+Jasper: 94
+Johnson County: 254
+Kleberg County: 23
+Mexia: 38
+Bellmead: 34
+Maverick County: 27
+Mineral Wells: 37
+Fort Stockton: 20
+Amarillo: 758
+Snyder: 35
+Forest Hill: 57
+Victoria: 191
+Zavala County: 27
+Augusta County: 111
+Bedford County: 98
+State Police: Bedford County: 72
+Essex County: 35
+State Police: Hanover County: 8
+State Police: Powhatan County: 8
+Roanoke County: 34
+Front Royal: 18
+Fairfax City: 14
+Hopewell: 125
+Radford: 18
+State Police: Roanoke: 8
+Snohomish County: 280
+Spokane: 594
+Cudahy: 134
+Shorewood: 7
+Beloit: 96
+Walworth County: 37
+Morgantown: 32
+Ritchie State Police: 14
+Mobile County: 284
+Florala: 9
+Tallapoosa County: 74
+Tuscaloosa County: 123
+Sierra Vista: 56
+Scottsdale: 253
+Yuma County: 164
+Hawthorne: 402
+Rosemead: 194
+Merced: 263
+Buena Park: 116
+Blythe: 48
+Palm Springs: 212
+Carlsbad: 183
+Santa Barbara County: 166
+Santa Maria: 177
+Oakdale: 38
+Ventura: 163
+Grand County: 30
+Walsenburg: 9
+Trinidad: 38
+Rocky Hill: 14
+Bridgeville: 6
+Oakland Park: 129
+Coral Springs: 50
+West Miami: 8
+Glades County: 29
+Hernando County: 208
+Plant City: 95
+Groveland: 9
+Boca Raton: 81
+Palm Beach Gardens: 37
+Pinellas Park: 70
+Taylor County: 111
+Coweta County: 102
+Brunswick: 145
+Haralson County: 39
+Valdosta: 253
+Griffin: 175
+Whitfield County: 83
+Dalton: 82
+Chickasaw County: 61
+Dubuque County: 5
+Jasper County: 273
+Davenport: 246
+Pocatello: 56
+Idaho Falls: 51
+Twin Falls County: 21
+Cairo: 53
+Broadview: 9
+Elk Grove Village: 10
+Markham: 25
+Du Page County: 45
+North Chicago: 52
+Ogle County: 4
+Crawfordsville: 8
+Riley County Police Department: 57
+State Police: Adair County: 22
+Mayfield: 21
+State Police: Graves County: 9
+State Police: Hopkins County: 45
+State Police: Lewis County: 9
+State Police: Magoffin County: 32
+State Police: Mason County: 5
+State Police: Union County: 44
+Acadia County: 82
+Rayne: 19
+Lake Charles: 368
+Kenner: 271
+Livingston County: 212
+Morgan City: 39
+Webster County: 134
+West Carroll County: 19
+Weston: 31
+State Police: Middlesex County: 6
+Takoma Park: 38
+State Police: Cecil County: 73
+State Police: Androscoggin County: 20
+State Police: Hancock County: 28
+Benton Township: 77
+Leslie: 2
+Kalkaska: 14
+Walker: 29
+Mount Clemens: 48
+Inkster: 286
+Lincoln Park: 87
+Beltrami County: 36
+Carver County: 28
+New Hope: 21
+Stearns County: 26
+Cole County: 35
+Bridgeton: 169
+Wellston: 60
+Grenada: 83
+Meridian: 328
+Pontotoc County: 50
+Mineral County: 27
+Douglas County: 513
+Kimball: 1
+Alexander County: 88
+Morganton: 45
+Craven County: 91
+Benson: 28
+New Hanover County: 91
+Hillsborough: 30
+Salisbury: 305
+Yadkin County: 50
+Cliffside Park: 15
+Montvale: 8
+Maple Shade Township: 26
+Woolwich Township: 6
+Bradley Beach: 7
+Wall Township: 9
+Roselle: 30
+Artesia: 98
+Jal: 3
+Espanola: 21
+Elko: 56
+Storey County: 17
+Onondaga County: 69
+Corning: 30
+New Rochelle: 100
+Pelham Village: 7
+Broome State Police: 2
+Cattaraugus State Police: 3
+Steuben State Police: 3
+Parma: 47
+Atoka County: 23
+Le Flore County: 75
+Tillman County: 13
+State Police: Clatsop County: 11
+Coos County: 53
+Carnegie: 17
+Mount Lebanon: 11
+Crafton: 3
+Bristol Township: 92
+Lansdowne: 10
+Lancaster: 801
+Hermitage: 15
+Sharon: 56
+Lansdale: 12
+Narberth: 3
+Denmark: 32
+Cayce: 38
+Pickens County: 166
+Saluda County: 49
+Lead: 3
+Pulaski: 65
+Lewisburg: 22
+Clarksville: 424
+Palestine: 86
+Aransas Pass: 58
+Terrell Hills: 13
+Cooke County: 46
+University Park: 39
+Duval County: 184
+Hidalgo County: 740
+Alamo: 27
+Alice: 69
+Smith County: 263
+Mount Pleasant: 151
+Upshur County: 91
+Albemarle County: 33
+Alleghany County: 39
+Dinwiddie County: 111
+State Police: Fauquier County: 12
+Hanover County: 106
+Bridgewater: 3
+Buena Vista: 15
+Staunton: 39
+Brattleboro: 14
+Edmonds: 26
+Lynnwood: 28
+Yakima County: 300
+Kenosha County: 59
+Greenbrier State Police: 25
+Mingo State Police: 55
+Randolph State Police: 18
+Taylor State Police: 12
+Sullivan State Police: 11
+Dermott: 24
+Crawford County: 129
+Fort Smith: 248
+South Tucson: 88
+Butte County: 267
+El Dorado County: 207
+Taft: 16
+Azusa: 134
+Manhattan Beach: 27
+Madera: 194
+Sausalito: 6
+Coachella: 114
+San Luis Obispo: 38
+Milpitas: 65
+Shasta County: 225
+Newman: 13
+Boulder: 75
+Montezuma County: 22
+La Junta: 26
+Naples: 45
+Opa Locka: 323
+Avon Park: 30
+Sebring: 58
+Florida St University: Tallahassee: 7
+Liberty County: 208
+Candler County: 7
+Mcdonough: 19
+West Point: 49
+Waterloo: 148
+Keokuk County: 6
+Bonneville County: 49
+Canyon County: 56
+Minidoka County: 14
+Evanston: 102
+Chicago Transit Authorit: 2
+Orland Hills: 1
+Kane County: 25
+Moline: 17
+Bolingbrook: 30
+Joliet: 302
+Scottsville: 5
+State Police: Boyd County: 10
+Breckinridge County: 10
+Elizabethtown: 73
+State Police: Hardin County: 35
+Mccracken County: 31
+State Police: Monroe County: 160
+State Police: Shelby County: 29
+Pointe Coupee County: 44
+Leesville: 45
+West Feliciana County: 26
+Westborough: 7
+State Police: Berkshire County: 4
+Cecil County: 47
+Harford County: 158
+Howard County Police Department: 201
+St. Mary's County: 107
+State Police: Calvert County: 45
+State Police: Washington County: 272
+Elk Rapids: 1
+Arenac: 10
+Berrien: 52
+Howard Township: 2
+Mount Morris: 2
+Eastpointe: 59
+Madison Heights: 36
+Buena Vista Township: 72
+Ann Arbor: 81
+River Rouge: 79
+Taylor: 180
+Duluth: 132
+Belton: 76
+St. Francois County: 43
+St. John: 23
+Bolivar County: 59
+Brookhaven: 55
+Granite County: 3
+Silver Bow County: 27
+Elon: 4
+Gibsonville: 8
+Dunn: 55
+Ridgefield Park: 10
+Eastampton Township: 2
+Middle Township: 19
+Irvington: 550
+Vaughn: 3
+Sandoval County: 33
+Santa Fe: 141
+Taos County: 25
+Los Lunas: 15
+Lovelock: 2
+Hamburg Town: 14
+Dansville Village: 3
+Clarkstown Town: 37
+Schenectady: 190
+Lloyd Harbor Village: 2
+Monticello Village: 27
+Greenburgh Town: 27
+Warsaw Village: 1
+Schuyler State Police: 1
+Ulster State Police: 2
+Ashland County: 36
+Belmont County: 39
+Westlake: 10
+Painesville: 10
+Ottawa County: 47
+Scioto County: 50
+Fostoria: 3
+Kiowa County: 21
+Ada: 44
+Pottawatomie County: 82
+Rogers County: 59
+Upper Southampton Township: 8
+State Police: Bucks County: 56
+Valley Township: 2
+State Police: Cumberland County: 147
+Media: 13
+Benzinger Township: 2
+Orwigsburg: 2
+Latrobe: 8
+Berkeley County: 387
+St. Stephen: 13
+Greenwood County: 137
+Kershaw County: 127
+Spartanburg: 325
+White County: 139
+Lufkin: 146
+Brazoria County: 241
+Lockhart: 16
+Lamesa: 38
+Gladewater: 22
+Hunt County: 74
+Navarro County: 63
+San Augustine County: 33
+San Augustine: 9
+San Jacinto County: 49
+Arlington: 780
+Terry County: 12
+Sanpete County: 6
+Orem: 47
+Provo: 56
+Weber County: 22
+Herndon: 22
+State Police: New Kent County: 13
+Patrick County: 39
+Prince William County Police Department: 405
+Chelan County: 64
+Port of Seattle: 7
+Beaver Dam: 9
+Grant County: 252
+South Milwaukee: 16
+Outagamie County: 26
+Coconino County: 98
+Nome: 21
+Pleasant Grove: 12
+Roosevelt City: 1
+Bayou La Batre: 21
+Coffee County: 118
+Cullman: 16
+Rainsville: 3
+Wetumpka: 21
+West Memphis: 298
+Ashdown: 12
+Booneville: 11
+El Dorado: 179
+Pinal County: 317
+Lakeport: 12
+Claremont: 55
+Montebello: 185
+South Pasadena: 24
+Vernon: 80
+Livingston: 96
+Grass Valley: 15
+Los Alamitos: 17
+Brisbane: 10
+Redding: 142
+Solano County: 117
+Yuba County: 152
+Wheat Ridge: 40
+Middletown: 241
+Trumbull: 11
+West Hartford: 31
+West Haven: 63
+Waldo: 2
+Punta Gorda: 15
+Atlantic Beach: 31
+Gadsden County: 121
+Gilchrist County: 19
+Gulf County: 18
+Levy County: 44
+Kissimmee: 112
+Cartersville: 40
+Barnesville: 17
+Mcintosh County: 85
+Paulding County: 90
+Scott County: 186
+Sioux City: 117
+Burley: 12
+Hoffman Estates: 11
+Oak Park: 82
+Palatine: 25
+Carbondale: 57
+Howard County: 85
+Tippecanoe County: 25
+North Manchester: 2
+Hays: 16
+Ford County: 20
+Hodgeman County: 2
+Prairie Village: 8
+Sedgwick County: 96
+State Police: Caldwell County: 13
+Christian County Police Department: 6
+State Police: Clark County: 17
+State Police: Jackson County: 157
+Ludlow: 15
+Fort Mitchell: 5
+State Police: Letcher County: 48
+Hazard: 14
+Ascension County: 198
+Assumption County: 54
+Beauregard County: 47
+De Ridder: 17
+Jeanerette: 8
+Plaquemine: 51
+Gretna: 87
+West Monroe: 40
+Kentwood: 47
+Minden: 52
+Marshfield: 19
+State Police: Baltimore County: 16
+State Police: Dorchester County: 24
+Bangor: 65
+Albion: 41
+Hancock: 5
+Lapeer: 47
+Erie Township: 4
+Holland: 23
+Southgate: 30
+Anoka: 12
+Brooklyn Park: 76
+Roseau County: 7
+Chariton County: 2
+Joplin: 126
+Laclede County: 27
+Overland: 40
+Richmond Heights: 31
+Sunflower County: 41
+Great Falls: 95
+Mebane: 8
+Hendersonville: 91
+Johnston County: 242
+Fuquay-Varina: 21
+Merrimack State Police: 26
+Hammonton: 15
+Ventnor City: 20
+Leonia: 10
+Pemberton Township: 48
+Pennsauken Township: 56
+Belleville: 63
+West Caldwell Township: 1
+Hoboken: 93
+South Amboy: 7
+South River: 11
+Freehold: 19
+Little Falls Township: 3
+Colfax County: 5
+Ruidoso: 17
+Cuba: 4
+Grants: 23
+Washoe County: 170
+Binghamton: 119
+Tonawanda Town: 49
+Lockport: 33
+Southampton Village: 4
+Glens Falls: 11
+Newark Village: 7
+Columbia State Police: 1
+Niagara State Police: 1
+Oswego State Police: 4
+Seneca State Police: 1
+Ashtabula: 15
+Coshocton: 2
+Mentor-on-the-Lake: 5
+Lucas County: 50
+Oakwood: 6
+Muskingum County: 55
+Mansfield: 219
+Stark County: 91
+Watts: 2
+Edmond: 74
+Okmulgee County: 47
+Okmulgee: 79
+Drain: 1
+Klamath Falls: 64
+Eugene: 133
+State Police: Adams County: 62
+Bethel Park: 7
+State Police: Beaver County: 48
+West Goshen Township: 21
+State Police: Clarion County: 35
+Uniontown: 50
+State Police: Fulton County: 43
+State Police: Indiana County: 73
+State Police: Lackawanna County: 61
+Hazleton: 44
+Mifflin County Regional: 7
+Cheltenham Township: 48
+York Area Regional: 24
+Allendale County: 16
+Dillon County: 208
+Georgetown County: 110
+Fountain Inn: 30
+Mullins: 35
+Bennettsville: 76
+Newberry: 44
+Yankton County: 6
+Oak Ridge: 53
+Andrews: 34
+Pleasanton: 50
+West Columbia: 66
+Copperas Cove: 38
+Addison: 48
+Yorktown: 3
+Marlin: 19
+La Marque: 88
+Denison: 80
+Gregg County: 129
+Kendall County: 39
+Lubbock County: 90
+Nacogdoches: 101
+Newton County: 306
+Nolan County: 9
+Sweetwater: 53
+Reagan County: 8
+River Oaks: 12
+Sansom Park Village: 14
+Uvalde County: 35
+Webb County: 63
+Laredo: 580
+Young County: 12
+State Police: Charles City County: 3
+State Police: Fluvanna County: 2
+Isle of Wight County: 53
+Louisa: 3
+Rockbridge County: 32
+St. Albans: 24
+Neillsville: 3
+Fond Du Lac: 34
+Ripon: 8
+La Crosse: 50
+Marinette County: 33
+Delavan Town: 5
+Neenah: 13
+Hancock State Police: 2
+Mercer County: 113
+Monongalia State Police: 29
+Raleigh State Police: 35
+Valdez: 3
+Colbert County: 54
+Dale County: 34
+Geneva County: 43
+Scottsboro: 29
+Magnolia: 61
+Cross County: 35
+Tempe: 328
+Kingsburg: 9
+Novato: 37
+Tustin: 78
+Folsom: 28
+Chula Vista: 287
+Santa Cruz: 115
+Patterson: 31
+Turlock: 127
+Tulare: 179
+Fillmore: 22
+Kit Carson County: 3
+Leadville: 3
+Las Animas County: 13
+Otero County: 39
+Greeley: 171
+Cheshire: 8
+Stonington: 10
+Wolcott: 11
+State Police: Kent County: 180
+Cocoa Beach: 23
+Green Cove Springs: 13
+Florida City: 82
+Miami Springs: 25
+Indian River County: 156
+Okaloosa County: 173
+Safety Harbor: 11
+St. Augustine: 44
+Barrow County: 52
+Smyrna: 131
+Rabun County: 18
+Troup County: 56
+Van Buren County: 47
+Shoshone County: 17
+Edwardsville: 22
+Pekin: 26
+Dubois County: 2
+Tipton: 6
+Terre Haute: 126
+Garden City: 144
+Trego County: 3
+State Police: Ballard County: 3
+Prestonsburg: 3
+State Police: Franklin County: 152
+State Police: Gallatin County: 11
+State Police: Grayson County: 23
+State Police: Harrison County: 30
+State Police: Johnson County: 56
+State Police: Laurel County: 54
+State Police: Menifee County: 8
+Owsley County: 1
+Monticello: 82
+Catahoula County: 16
+Jonesville: 12
+Ferriday: 8
+Natchitoches: 84
+Plaquemines County: 71
+Agawam: 15
+Leicester: 5
+State Police: Harford County: 54
+Boyne City: 2
+Bath Township: 13
+Center Line: 10
+Montcalm: 45
+West Bloomfield Township: 27
+Livonia: 55
+Wexford: 10
+Lino Lakes: 4
+Brooklyn Center: 67
+St. Louis Park: 16
+North Mankato: 3
+Northfield: 22
+Babbitt: 3
+Savage: 4
+Pacific: 27
+Platte County: 45
+Amory: 15
+Miles City: 9
+Sarpy County: 26
+Forsyth County: 218
+Erwin: 26
+Hyde County: 17
+Biscoe: 10
+Lumberton: 184
+Red Springs: 29
+Stanly County: 57
+Mount Airy: 29
+Windham: 17
+Fort Lee: 34
+Washington Township: 47
+Stratford: 59
+Lower Township: 28
+Greenwich Township: 6
+Dunellen: 1
+Rumson: 3
+Alamogordo: 61
+Winnemucca: 26
+Riverhead Town: 49
+Herkimer State Police: 1
+Schoharie State Police: 1
+Clinton County: 43
+Brook Park: 13
+Fulton County: 74
+Kent: 278
+Sandusky County: 6
+Perry Township: 25
+Blaine County: 30
+Anadarko: 39
+Del City: 103
+Pushmataha County: 38
+North Versailles Township: 15
+Bristol: 160
+State Police: Elizabethville: 51
+State Police: Delaware County: 44
+State Police: Fayette County: 207
+State Police: Juniata County: 26
+State Police: Lehigh County: 73
+State Police: Lycoming County: 37
+Pottstown: 56
+Whitpain Township: 11
+Bethlehem: 96
+State Police: Tioga County: 36
+Springettsbury Township: 21
+Warwick: 73
+Allendale: 59
+Gaffney: 68
+North Myrtle Beach: 41
+Maryville: 35
+Hamblen County: 64
+Morristown: 76
+Brownsville: 411
+Cookeville: 37
+Angelina County: 97
+Luling: 20
+San Benito: 29
+Dimmitt: 7
+Comal County: 68
+Gonzales County: 42
+Seguin: 86
+Sulphur Springs: 37
+Hudspeth County: 14
+Pecos County: 35
+Euless: 53
+San Angelo: 212
+Mineola: 12
+American Fork: 12
+Frederick County: 136
+Gloucester County: 51
+Greensville County: 37
+Loudoun County: 95
+Lunenburg County: 32
+Middlesex County: 24
+Spotsylvania County: 117
+Abingdon: 14
+Colonial Beach: 16
+Williamsburg: 36
+Kennewick: 99
+Sunnyside: 54
+Bayfield County: 17
+West Allis: 70
+Shawano County: 16
+Trempealeau County: 11
+Hampshire State Police: 18
+Converse County: 17
+Fairbanks: 160
+Hueytown: 40
+Autauga County: 48
+Houston County: 222
+Sylacauga: 42
+Tuscaloosa: 320
+Haleyville: 8
+Harrison: 50
+Mcgehee: 18
+Sebastian County: 21
+Cochise County: 136
+South Lake Tahoe: 57
+Hanford: 74
+Susanville: 22
+Redondo Beach: 89
+Redlands: 111
+Rialto: 330
+Adelanto: 73
+Live Oak: 36
+Trinity County: 103
+Simi Valley: 111
+Clear Creek County: 16
+Co St Univ: Fort Collins: 1
+Montrose: 15
+Weld County: 100
+South Bethany: 1
+Pompano Beach: 326
+Wilton Manors: 39
+Delray Beach: 170
+South Daytona: 24
+Waverly: 25
+Clarke County: 87
+Marshalltown: 30
+Council Bluffs: 97
+Bannock County: 21
+Mountain Home: 24
+Jerome County: 12
+Kootenai County: 86
+Kellogg: 8
+Robinson: 21
+Bradley: 4
+Park City: 14
+Streator: 12
+Illinois State University: 2
+Peoria County: 19
+Washington Park: 47
+Angola: 5
+Coffey County: 4
+Middlesboro: 27
+Wilder: 4
+State Police: Fleming County: 12
+Harlan County: 5
+State Police: Morgan County: 34
+Whitley County: 7
+Dubach: 2
+Denham Springs: 22
+Bastrop: 74
+Terrebonne County: 171
+West Springfield: 32
+State Police: Allegany County: 47
+Calhoun: 66
+Gladwin: 17
+Houghton: 11
+Menominee: 16
+Independence Township: 6
+Norman County: 3
+Waseca County: 8
+Breckenridge Hills: 22
+Simpson County: 51
+Leland: 22
+Gallatin County: 24
+Mooresville: 38
+Mcdowell County: 147
+Farmville: 36
+Rowan County: 151
+Watauga County: 51
+Mandan: 19
+Clayton: 74
+Bayonne: 76
+Edison Township: 49
+Piscataway Township: 50
+Howell Township: 20
+Luna County: 28
+Tucumcari: 23
+Aztec: 7
+Farmington: 185
+Socorro: 23
+Utica: 232
+Medina Village: 8
+Schuyler County: 17
+Erie State Police: 2
+Westchester State Police: 5
+Clermont County: 48
+Beavercreek: 20
+Blue Ash: 7
+Logan: 32
+Willowick: 3
+Amherst: 20
+Miamisburg: 16
+Northampton Township: 16
+Moore: 65
+Weatherford: 35
+Kay County: 19
+Idabel: 61
+Tecumseh: 22
+Owasso: 26
+Wagoner County: 66
+Coraopolis: 8
+West Mifflin: 29
+Ambridge: 18
+Pawtucket: 116
+Fall River County: 4
+Mcnairy County: 14
+Weakley County: 38
+Desoto: 83
+Eastland County: 18
+Pampa: 57
+Rockdale: 15
+Nueces County: 65
+Perryton: 9
+Wharton County: 75
+Wichita County: 25
+Tremonton: 6
+Accomack County: 120
+Buckingham County: 45
+Dickenson County: 56
+James City County: 13
+Louisa County: 65
+Stafford County: 132
+Cowlitz County: 51
+Kenosha: 190
+Sauk County: 27
+Grant State Police: 5
+Muscle Shoals: 16
+Daleville: 12
+Brewton: 14
+Opelika: 151
+Stuttgart: 51
+Craighead County: 49
+Emeryville: 45
+Oroville: 67
+Calaveras County: 121
+Beverly Hills: 64
+Duarte: 41
+Hollister: 57
+Colton: 244
+Foster City: 18
+Sierra County: 27
+Ceres: 56
+Thornton: 142
+Archuleta County: 15
+Fountain: 32
+Davie: 95
+Desoto County: 104
+Holmes: 4
+Okeechobee County: 100
+Belleair Beach: 2
+Milton: 52
+Summerville: 54
+Adel: 26
+Tifton: 64
+Palo Alto County: 3
+Urbandale: 14
+Caldwell: 64
+Calumet Park: 14
+Grundy County: 40
+Round Lake Beach: 11
+Mchenry County: 18
+Princeton: 74
+Bourbon County: 6
+Fort Scott: 14
+Shawnee: 118
+Miami County: 45
+Highland Heights: 5
+State Police: Estill County: 24
+Shively: 64
+State Police: Jessamine County: 18
+Homer: 13
+Sabine County: 69
+St. Bernard County: 51
+West Baton Rouge County: 67
+Winn County: 23
+Wareham: 20
+Aberdeen: 122
+Hyattsville: 37
+State Police: Howard County: 29
+State Police: Queen Anne's County: 22
+Falmouth: 20
+State Police: Kennebec County: 28
+Norway: 6
+Piscataquis County: 3
+St. Joseph Township: 8
+Royal Oak: 41
+White Lake Township: 15
+Algonac: 4
+Covert Township: 15
+South St. Paul: 14
+Albert Lea: 17
+Otter Tail County: 30
+Prior Lake: 8
+Webb City: 8
+Arnold: 46
+Oktibbeha County: 27
+Nebraska State Patrol: 7
+Polkton: 3
+Cabarrus County: 102
+Kings Mountain: 42
+Shelby: 170
+Spring Lake: 42
+Jones County: 126
+Ayden: 25
+Swain County: 18
+Dickey County: 4
+Manchester: 206
+Margate City: 7
+Evesham Township: 17
+Lumberton Township: 10
+Wildwood: 43
+Millville: 86
+Ewing Township: 45
+Perth Amboy: 92
+South Plainfield: 13
+Denville Township: 7
+Ocean Gate: 4
+West Milford Township: 12
+Penns Grove: 31
+Hillsborough Township: 16
+Watertown: 79
+Clay Town: 2
+Cornwall Town: 2
+Mechanicville: 4
+Briarcliff Manor Village: 7
+Franklin State Police: 2
+Madison State Police: 2
+Montgomery State Police: 1
+Orleans State Police: 1
+Auglaize County: 7
+Bucyrus: 13
+Ardmore: 118
+Midwest City: 138
+Mcloud: 9
+Baker City: 9
+Deschutes County: 54
+State Police: Grant County: 24
+State Police: Harney County: 3
+Medford: 115
+Josephine County: 117
+Amity Township: 5
+Richland Township: 14
+Spring City: 6
+East Providence: 28
+Blackville: 25
+Edgefield County: 56
+Estill: 22
+Williamsburg County: 168
+Aransas County: 32
+Clute: 17
+Cochran County: 4
+Coleman: 9
+Crockett County: 44
+Stafford: 57
+Freestone County: 36
+Kenedy: 7
+Live Oak County: 22
+North Richland Hills: 44
+Titus County: 43
+Lehi: 7
+State Police: Bland County: 14
+Fluvanna County: 32
+State Police: Tazewell County: 11
+Wytheville: 15
+Camas: 4
+Okanogan County: 63
+Price County: 10
+Rock County: 30
+Weirton: 15
+Mineral State Police: 9
+Gillette: 25
+Homewood: 42
+Enterprise: 84
+Etowah County: 63
+Limestone County: 111
+Pelham: 29
+Dadeville: 18
+Winslow: 52
+Imperial: 11
+Palmdale: 311
+Paramount: 338
+Whittier: 164
+Cypress: 35
+Fountain Valley: 36
+Broadmoor: 12
+Ordway: 2
+Gilpin County: 15
+Craig: 14
+East Windsor: 18
+Newington: 20
+Holmes County: 78
+Largo: 110
+Bartow: 54
+St. Lucie County: 158
+Daytona Beach: 375
+Camden County: 88
+Fort Oglethorpe: 10
+Peach County: 25
+Ottumwa: 31
+Bonner County: 42
+Jerome: 9
+Power County: 8
+Buhl: 8
+Twin Falls: 62
+Arlington Heights: 26
+Calumet City: 77
+Jennings County: 15
+Cedar Lake: 13
+Michigan City: 130
+Merriam: 20
+State Police: Barren County: 24
+State Police: Carter County: 21
+State Police: Lincoln County: 49
+State Police: Muhlenberg County: 22
+Versailles: 10
+Avoyelles County: 52
+New Iberia: 69
+Jennings: 113
+St. Helena County: 49
+Andover: 9
+Gloucester: 10
+Peabody: 31
+Mendon: 1
+Lewiston: 104
+Gorham: 14
+Bridgton: 2
+Jay: 9
+Rockland: 9
+Somerset County: 8
+Flint Township: 80
+Novi: 32
+South Lyon: 10
+Oscoda: 11
+Presque Isle: 19
+Blue Earth County: 16
+Inver Grove Heights: 14
+Red Wing: 14
+Audrain County: 16
+Mexico: 21
+West Plains: 23
+Nodaway County: 12
+Hancock County: 102
+Humphreys County: 37
+Belzoni: 19
+Deer Lodge: 22
+Cheyenne County: 10
+South Sioux City: 13
+Conover: 19
+Louisburg: 16
+Weldon: 23
+Chapel Hill: 49
+Pamlico County: 23
+China Grove: 8
+Albemarle: 60
+Hackensack: 54
+Wood-Ridge: 2
+Pitman: 10
+West Deptford Township: 17
+Woodbury: 38
+East Hanover Township: 5
+Rockaway Township: 11
+Portales: 26
+Carson City County: 39
+Amherst Town: 44
+Dewitt Town: 14
+Holley Village: 1
+Ontario State Police: 1
+Long Island RailRoad - Nassau County: 11
+Bedford: 110
+Delaware County: 133
+Uhrichsville: 7
+Sapulpa: 45
+Coweta: 15
+Woodward: 17
+State Police: Clackamas County: 13
+State Police: Lane County: 51
+Aumsville: 1
+La Grande: 12
+Churchill: 3
+Economy: 4
+Coatesville: 69
+Trainer: 6
+Scranton: 69
+Manheim Township: 20
+State Police: Lebanon County: 34
+North Providence: 31
+Foster: 1
+Pageland: 29
+Sioux Falls: 150
+Decatur County: 70
+East Ridge: 30
+Windcrest: 13
+Alvin: 41
+Brazos County: 37
+Borger: 30
+San Patricio County: 36
+Upton County: 15
+Waller County: 60
+Culpeper County: 40
+Highland County: 26
+State Police: Northampton County: 65
+Rutland County: 2
+Walla Walla County: 24
+Oshkosh: 41
+Calhoun State Police: 13
+Bullock County: 10
+Cleburne County: 63
+Elba: 14
+Fort Deposit: 4
+Sipsey: 1
+Chicot County: 38
+Apache County: 21
+Coalinga: 12
+Orange Cove: 19
+Eureka: 110
+Alhambra: 148
+Culver City: 107
+San Dimas: 46
+Santa Fe Springs: 117
+South El Monte: 124
+San Juan Capistrano: 36
+Corona: 195
+Los Altos Hills: 2
+Siskiyou County: 92
+Bent County: 8
+Grand Junction: 111
+Pueblo County: 68
+Ault: 3
+Berlin: 37
+Miramar: 148
+Jacksonville Beach: 59
+Clermont: 17
+Villa Rica: 19
+Ware County: 47
+Kauai Police Department County: 74
+Clearwater County: 15
+Fremont County: 90
+Kimberly: 4
+Tinley Park: 4
+Rochelle: 9
+St. Joseph County: 88
+Chautauqua County: 32
+Coffeyville: 36
+Council Grove: 2
+Wallace County: 1
+Boone County Police Department: 12
+Bossier City: 224
+Lake Providence: 14
+Springhill: 11
+North Adams: 16
+Revere: 63
+Spencer: 53
+Fruitland: 13
+State Police: Anne Arundel County: 45
+South Portland: 8
+State Police: Oxford County: 29
+Antrim: 8
+Branch: 11
+Emmett Township: 18
+Cheboygan: 13
+Manistee: 15
+Auburn Hills: 19
+Fillmore County: 12
+Mound: 6
+Olmsted County: 25
+Holt County: 8
+St. Louis County Police Department: 846
+Saline County: 126
+Ocean Springs: 23
+Tunica County: 51
+Cascade County: 21
+Lewis and Clark County: 28
+Ashe County: 33
+Davidson County: 152
+Tarboro: 22
+Williamston: 44
+North Wilkesboro: 10
+Garfield: 27
+Bordentown: 2
+Gloucester Township: 58
+Nutley Township: 14
+Middlesex: 10
+Green Brook Township: 4
+Lea County: 41
+Chenango County: 17
+Irondequoit Town: 29
+Oswego County: 27
+Steuben County: 35
+Cayuga State Police: 2
+Warren State Police: 1
+Shaker Heights: 32
+Cleveland Metro Park District: 11
+Upper Arlington: 18
+Alliance: 53
+Massillon: 35
+Marietta: 198
+Bryan County: 79
+Durant: 32
+Creek County: 94
+Bartlesville: 63
+Curry County: 41
+State Police: Josephine County: 39
+State Police: Carbon County: 33
+Phoenixville: 9
+Caln Township: 5
+Berwick: 29
+Mechanicsburg: 5
+Manor Township: 12
+Shenango Township: 3
+Montgomery Township: 18
+Hatfield Township: 12
+Woonsocket: 56
+State Police: Chepachet: 14
+Edgefield: 12
+Easley: 49
+New Braunfels: 57
+Fannin County: 82
+Jacinto City: 20
+Eagle Pass: 31
+Sinton: 22
+Grapevine: 42
+Brownfield: 31
+Graham: 44
+Beaver County: 23
+Hillsville: 9
+Charles City County: 15
+Christiansburg: 30
+Rappahannock County: 12
+Puyallup: 40
+Green County: 8
+Fort Atkinson: 5
+Oconto: 5
+Boone State Police: 18
+Mercer State Police: 42
+Raleigh County: 146
+Tucker State Police: 11
+Kenova: 7
+Cullman County: 58
+Monroeville: 68
+Montevallo: 8
+Conway County: 45
+Little River County: 24
+Gila County: 46
+Safford: 9
+Holbrook: 20
+Coolidge: 43
+Pleasant Hill: 32
+San Anselmo: 3
+Soledad: 44
+Roseville: 178
+Banning: 137
+Upland: 146
+Woodland: 75
+Haxtun: 2
+Meriden: 87
+Winter Park: 38
+Port Richey: 8
+Ben Hill County: 25
+Charlton County: 15
+Clayton County Police Department: 710
+Heard County: 13
+Thomson: 17
+Meriwether County: 49
+Worth County: 35
+Cassia County: 37
+Payette: 12
+Bensenville: 9
+Iroquois County: 7
+Collinsville: 30
+Peoria: 436
+Dupo: 4
+Swansea: 19
+Fairview Heights: 12
+Connersville: 13
+Portage: 90
+Winfield: 28
+Ellsworth County: 5
+Dodge City: 56
+Geary County: 16
+Harvey County: 15
+Campbell County Police Department: 23
+Madisonville: 56
+Crowley: 73
+State Police: Essex County: 13
+State Police: Norfolk County: 12
+Garrett County: 13
+Niles Township: 4
+Mount Morris Township: 123
+St. Clair Shores: 38
+Allen Park: 15
+Detroit Lakes: 3
+Sauk Rapids: 6
+Faribault County: 7
+Raytown: 79
+Brentwood: 68
+Normandy: 34
+Stoddard County: 15
+Tupelo: 65
+Keith County: 5
+Lenoir: 61
+Mocksville: 11
+Roanoke Rapids: 74
+Smithfield: 72
+West Fargo: 11
+Londonderry: 10
+Midland Park: 3
+Mount Holly Township: 23
+Matawan: 2
+Mount Olive Township: 9
+Las Vegas: 59
+Gloversville: 16
+Tioga County: 13
+Ellenville Village: 11
+Ossining Village: 19
+State Police: Clinton County (B): 58
+State Police: Greene County (F): 43
+State Police: Orange County (F): 126
+State Police: Rensselaer County (G): 31
+Miami Township: 35
+Middleburg Heights: 5
+Parma Heights: 6
+Darke County: 25
+Steubenville: 68
+Kingfisher County: 8
+Guymon: 19
+Grants Pass: 40
+Hermiston: 21
+State Police: Armstrong County: 33
+County Detectives: Chester County: 49
+State Police: Jefferson County: 62
+Kane: 1
+Stroudsburg: 3
+East Norriton Township: 8
+Upper Moreland Township: 16
+Shamokin: 18
+Mcadoo: 2
+Abbeville County: 40
+Barnwell: 26
+Greer: 57
+Newberry County: 77
+Day County: 4
+Bandera County: 30
+Bell County: 124
+Harker Heights: 60
+Hidalgo: 12
+Pharr: 115
+Winkler County: 11
+Zapata County: 21
+Lawrenceville: 46
+Falls Church: 16
+Hoquiam: 20
+Rice Lake: 9
+Caledonia: 18
+Clarksburg: 36
+Charles Town: 8
+Morgan State Police: 15
+Summers State Police: 12
+Buckhannon: 4
+Goshen County: 10
+Irondale: 22
+Warrior: 4
+Bay Minette: 27
+Eufaula: 62
+Chilton County: 38
+Flomaton: 9
+Earle: 3
+Livermore: 55
+San Gabriel: 78
+South Gate: 350
+Redwood City: 100
+Mountain View: 75
+Saratoga: 16
+Weed: 9
+Inverness: 7
+Port St. Joe: 1
+Apopka: 68
+New Smyrna Beach: 29
+Cordele: 74
+Millen: 21
+Camilla: 21
+Chatsworth: 5
+Eatonton: 16
+Talbot County: 18
+Thomas County: 43
+Turner County: 7
+Ashburn: 11
+Bingham County: 24
+Mount Prospect: 12
+Park Forest: 20
+River Grove: 8
+De Witt County: 2
+Charlestown: 4
+Vincennes: 16
+Munster: 16
+Wabash County: 12
+Hutchinson: 52
+Rice County: 23
+Mccreary County: 6
+State Police: Oldham County: 17
+Evangeline County: 38
+Harahan: 15
+Pineville: 38
+Many: 13
+Winnfield: 19
+Fairhaven: 18
+Lakeville: 11
+Hagerstown: 103
+State Police: St. Mary's County: 39
+Eaton: 54
+Michigan State University: 4
+Marquette: 18
+Sturgis: 14
+South Haven: 11
+Willmar: 13
+Cape Girardeau: 100
+Copiah County: 25
+Biloxi: 102
+Stone County: 54
+Wiggins: 14
+Yellowstone County: 40
+Belhaven: 11
+Davie County: 39
+Carolina Beach: 12
+Rockingham: 78
+Epping: 4
+Helmetta: 1
+Franklin Township (Somerset County): 53
+Mountainair: 1
+Milan: 43
+Cattaraugus County: 24
+Westfield Village: 1
+Fishkill Village: 1
+Lackawanna: 18
+Canajoharie Village: 1
+State Police: Dutchess County (K): 82
+State Police: Erie County (A): 35
+Chickasha: 67
+Pryor: 14
+Jenks: 12
+Beaverton: 46
+Duquesne: 74
+Avalon: 7
+Emsworth: 2
+Downingtown: 9
+State Police: Elk County: 20
+State Police: Huntingdon County: 54
+Hanover Township: 13
+State Police: Skippack: 42
+Goose Creek: 40
+Duncan: 53
+Hartsville-Trousdale County: 12
+Harlingen: 128
+Coryell County: 17
+Falls County: 32
+Fisher County: 10
+Garza County: 13
+San Juan: 58
+Hockley County: 18
+Terrell: 107
+Brady: 9
+Milam County: 36
+Montague County: 26
+Hearne: 30
+Fauquier County: 78
+Page County: 34
+Harrisonburg: 63
+Fond Du Lac County: 26
+Whitewater: 5
+Berkeley State Police: 15
+Marshall State Police: 23
+Wheeling: 84
+Gardendale: 17
+Prattville: 57
+Hobson City: 2
+Heflin: 9
+Atmore: 46
+Talladega County: 60
+Talladega: 77
+Batesville: 30
+Industry: 76
+Atwater: 60
+Westminster: 315
+Morgan Hill: 31
+Dorris: 3
+Boulder County: 56
+Evans: 21
+Torrington: 20
+Wethersfield: 16
+University of Florida: 2
+Hendry County: 134
+Mangonia Park: 21
+Pahokee: 23
+Tequesta: 4
+North Port: 46
+Clinch County: 25
+Jeff Davis County: 25
+Dublin: 103
+Polk County Police Department: 32
+Hilo: 53
+Cedar Falls: 16
+Mason City: 29
+Pocahontas County: 14
+Salmon: 8
+Schaumburg: 26
+Northlake: 14
+Lake Forest: 31
+Salina: 60
+Fredonia: 9
+State Police: Lee County: 31
+State Police: Simpson County: 7
+Bourne: 17
+Easthampton: 10
+Boonsboro: 2
+State Police: Aroostook County: 38
+Bay: 25
+Niles: 44
+Sault Ste. Marie: 12
+Hillsdale: 59
+Ingham: 40
+Oceana: 30
+Owosso: 10
+Harper Woods: 29
+Westland: 108
+St. Louis County: 42
+Rowland: 18
+Stokes County: 68
+Bismarck: 47
+Merrimack: 9
+Pembroke: 29
+Egg Harbor Township: 65
+Pine Hill: 26
+Atlantic Highlands: 4
+Deming: 31
+Elmira: 72
+Beacon: 22
+Ilion Village: 3
+State Police: Cattaraugus County (A): 25
+State Police: Rockland County (F): 25
+State Police: Sullivan County (F): 71
+State Police: Westchester County (K): 63
+Mayfield Heights: 14
+Sandusky: 52
+Fairborn: 40
+New Boston: 12
+Dennison: 2
+Tahlequah: 23
+Stillwater: 62
+Roger Mills County: 7
+Carroll Township: 9
+North Kingstown: 12
+Rhode Island State Police Headquarters: 37
+Mccormick County: 27
+Lyman County: 3
+Bellville: 7
+Kirby: 11
+Burleson County: 33
+Erath County: 33
+Granbury: 13
+Moore County: 137
+Rockwall County: 22
+Van Zandt County: 75
+Floyd County: 45
+Sp: King George County: 3
+Manassas: 58
+State Police: Rockbridge County: 11
+Iron County: 42
+Lake Geneva: 6
+Waupaca County: 21
+Barbour State Police: 5
+Man: 4
+Roane State Police: 14
+Ojai: 6
+Vestavia Hills: 11
+Foley: 32
+Eclectic: 4
+Baxter County: 42
+Beebe: 9
+East Bay Regional Parks: Alameda County: 31
+Martinez: 39
+Shafter: 33
+Walnut: 44
+Laguna Beach: 28
+Lompoc: 83
+Farmersville: 39
+Pagosa Springs: 3
+Montrose County: 20
+Wallingford: 23
+Lauderdale Lakes: 86
+North Miami: 241
+Brooksville: 28
+South Bay: 23
+Edgewater: 39
+Bainbridge: 49
+Mcduffie County: 32
+Augusta-Richmond County: 792
+Telfair County: 7
+Idaho County: 21
+Melrose Park: 26
+Girard: 15
+State Police: Hart County: 24
+State Police: Madison County: 49
+State Police: Montgomery County: 66
+State Police: Ohio County: 20
+State Police: Powell County: 22
+State Police: Rowan County: 19
+State Police: Spencer County: 16
+State Police: Trigg County: 11
+Bunkie: 3
+Somerset: 30
+Stoughton: 27
+Fitchburg: 79
+Forest Heights: 9
+Topsham: 4
+Laurium: 2
+Harrisonville: 9
+Grandview: 90
+Hazelwood: 67
+Hinds County: 124
+Winona: 46
+Valley: 25
+Blair: 2
+Currituck County: 28
+Raeford: 20
+Mitchell County: 53
+Hillsborough County State Police: 24
+Linwood: 6
+Little Ferry: 10
+Lyndhurst Township: 10
+Essex County Police Department: 59
+Weehawken Township: 24
+Bridgewater Township: 14
+New Windsor Town: 15
+State Police: Onondaga County (D): 43
+State Police: Putnam County (K): 17
+State Police: Ulster County (F): 101
+State Police: Wayne County (E): 26
+Athens County: 20
+Berea: 22
+Mentor: 15
+Meigs County: 36
+Madison Township: 41
+West Carrollton: 30
+Craig County: 40
+Tishomingo: 9
+State Police: Malheur County: 7
+Sp: Morrow County: 2
+State Police: Umatilla County: 21
+Moon Township: 19
+Muncy: 2
+East Stroudsburg: 5
+Upper Nazareth Township: 1
+Travelers Rest: 14
+Ware Shoals: 6
+Mccoll: 10
+Rapid City: 143
+Tullahoma: 31
+Mcminn County: 62
+Atascosa County: 96
+Balch Springs: 61
+Llano County: 26
+Morris County: 35
+Sutton County: 6
+El Campo: 25
+Roy: 29
+Mathews County: 19
+Smyth County: 66
+Sussex County: 35
+Grays Harbor County: 67
+Marquette County: 10
+Greenfield: 111
+Baraboo: 8
+Waukesha: 42
+Kodiak: 11
+Desha County: 23
+Stephens: 1
+Ca St Un: East Bay: 2
+Walnut Creek: 44
+Los Banos: 57
+Needles: 27
+Escondido: 225
+Pacifica: 26
+Port Hueneme: 60
+Arapahoe County: 103
+Monte Vista: 16
+Danbury: 73
+Plainville: 19
+Simsbury: 12
+New Castle County Police Department: 348
+Sanibel: 6
+Bartow County: 43
+Bulloch County: 31
+Irwin County: 11
+Lanier County: 14
+Fort Valley: 31
+Toombs County: 32
+Bellwood: 33
+Bridgeview: 5
+Sauk Village: 16
+Flossmoor: 1
+Skokie: 31
+Zion: 38
+Woodstock: 19
+South Jacksonville: 1
+Bartholomew County: 17
+Kokomo: 139
+Beech Grove: 19
+Chesterton: 1
+Wichita State University: 3
+State Police: Daviess County: 18
+State Police: Marshall County: 19
+Vinton: 22
+Haynesville: 16
+Zachary: 30
+Rayville: 9
+Southeastern Louisiana University: 3
+Tensas County: 19
+Waterproof: 1
+Natick: 11
+Abington: 8
+Biddeford: 27
+Delta: 22
+Dearborn Heights: 61
+Todd County: 25
+Poplar Bluff: 54
+Rolla: 19
+St. Ann: 19
+George County: 18
+Picayune: 29
+Nebraska City: 15
+Morehead City: 20
+Haywood County: 61
+Laconia: 16
+Lee: 3
+Pleasantville: 97
+Bergenfield: 12
+Emerson: 9
+Saddle Brook Township: 7
+Fairfield Township: 14
+Ogdensburg: 13
+Berkeley Heights Townshi: 2
+Linden: 55
+Lovington: 25
+Torrance County: 17
+Southold Town: 2
+State Police: Allegany County (A): 24
+State Police: Steuben County (E): 31
+Lockland: 22
+Cuyahoga Falls: 34
+Broken Arrow: 72
+Bend: 45
+Wilkinsburg: 115
+State Police: Tionesta: 13
+South Strabane Township: 4
+Jeannette: 11
+Newberry Township: 8
+Laurens: 51
+Clemson: 16
+Angleton: 42
+College Station: 69
+Dalhart: 17
+Richardson: 115
+Dawson County: 46
+Silsbee: 26
+Deer Park: 28
+Donna: 38
+Hutchinson County: 15
+Kingsville: 71
+Benbrook: 51
+Uvalde: 42
+Pleasant Grove/Lindon: 15
+State Police: Mecklenburg County: 11
+Northumberland County: 22
+State Police: Richmond: 20
+Wausau: 46
+Appleton: 41
+Ozaukee County: 11
+Stevens Point: 15
+Shawano: 9
+Sheboygan County: 11
+Martinsburg: 37
+Parkersburg: 76
+Citronelle: 15
+Russellville: 48
+Walnut Ridge: 2
+Globe: 21
+Pinole: 38
+Mariposa County: 40
+Calistoga: 5
+Plumas County: 55
+Larimer County: 102
+Shelton: 42
+Bradford County: 25
+Stuart: 30
+Palatka: 66
+Atkinson County: 8
+Bowdon: 3
+Upson County: 39
+Estherville: 4
+Boise County: 20
+Du Quoin: 10
+Loves Park: 11
+Leavenworth County: 21
+State Police: Bath County: 15
+Calloway County: 13
+State Police: Henry County: 53
+Amite: 7
+Waltham: 29
+Avon: 13
+Northborough: 3
+State Police: Penobscot County: 55
+Clinton Township: 112
+Frankenmuth: 3
+Jefferson City: 78
+Pine Lawn: 35
+Meagher County: 5
+La Vista: 10
+Black Mountain: 13
+Bryson City: 4
+Derry: 20
+Rutherford: 11
+Haddon Township: 11
+Lawnside: 9
+East Brunswick Township: 13
+North Brunswick Township: 25
+Randolph Township: 4
+Bloomingdale: 21
+Eddy County: 41
+Lordsburg: 3
+North Tonawanda: 19
+State Police: Chenango County (C): 16
+Bellefontaine: 13
+Huber Heights: 29
+Cimarron County: 8
+Grady County: 67
+Mayes County: 52
+Okfuskee County: 30
+Burns Flat: 3
+Roseburg: 27
+Rankin: 7
+Cumru Township: 8
+Spp: Nockamixon: 2
+Glenolden: 7
+Point Township: 2
+Dickson County: 34
+Williamson County: 148
+Castle Hills: 12
+Pearland: 45
+La Porte: 87
+South Houston: 68
+Hood County: 43
+Karnes County: 15
+Palo Pinto County: 37
+King William County: 12
+Manassas Park: 9
+Southampton County: 64
+Klickitat County: 35
+La Crosse County: 16
+Ohio County: 18
+Laramie County: 40
+Courtland: 2
+De Witt: 11
+Jonesboro: 186
+Palos Verdes Estates: 9
+Torrance: 183
+San Benito County: 42
+Manitou Springs: 8
+Central City: 9
+New Canaan: 4
+Willimantic: 13
+Dania: 128
+Tavares: 20
+Dougherty County Police Department: 28
+Henry County Police Department: 133
+Hogansville: 3
+Stone Park: 6
+Oak Lawn: 13
+Prospect Heights: 8
+Monmouth: 13
+Arkansas City: 16
+Osborne County: 3
+Boyd County: 5
+Estill County: 1
+Maysville: 9
+Trigg County: 3
+East Feliciana County: 34
+Westwego: 31
+St. Landry County: 142
+Townsend: 3
+Bay Transist Authority: Norfolk County: 2
+Paxton: 1
+Ocean City: 34
+Saco: 15
+Kalamazoo Township: 39
+Caro: 4
+Hastings: 33
+Mille Lacs County: 29
+Webster Groves: 18
+Ste. Genevieve County: 29
+Forest: 7
+Walthall County: 20
+Butte-Silver Bow: 10
+Enfield: 61
+Laurinburg: 132
+Newmarket: 3
+Beverly: 33
+Cedar Grove Township: 7
+Oceanport: 4
+Seaside Heights: 7
+Lower Alloways Creek Tow: 2
+Valencia County: 66
+Ontario County: 28
+Rockland County: 2
+Scarsdale Village: 2
+Mount Pleasant Town: 16
+State Police: Chemung County (E): 23
+State Police: St Lawrence County (B): 29
+South Euclid: 16
+Piqua: 23
+Adair County: 71
+Vinita: 16
+Love County: 21
+Nowata County: 8
+State Police: Wasco County: 8
+Hopewell Township: 18
+Falls Township: 23
+Tullytown: 6
+Aston Township: 11
+State Police: Lancaster County: 90
+State Police: Wayne County: 257
+Tiverton: 13
+Timmonsville: 12
+Bailey County: 8
+Bee County: 27
+South Padre Island: 19
+Missouri City: 72
+Rosenberg: 96
+Navasota: 29
+Hansford County: 2
+Tomball: 16
+Haskell: 16
+Kaufman County: 127
+Reeves County: 16
+Center: 59
+Appomattox County: 34
+Bath County: 11
+State Police: Campbell County: 19
+State Police: Dickenson County: 9
+Damascus: 1
+Oconto County: 34
+River Falls: 8
+Portage County: 76
+Jemison: 6
+Rogers: 42
+Faulkner County: 72
+Searcy County: 11
+Kensett: 8
+Page: 13
+Alpine County: 7
+Fortuna: 10
+San Francisco County: 12
+Morro Bay: 15
+Gilroy: 78
+Capitola: 16
+Camarillo: 41
+Hinsdale County: 7
+Chattahoochee: 12
+Belleair: 5
+Banks County: 15
+Fitzgerald: 39
+Moultrie: 109
+Lumpkin County: 36
+Payette County: 12
+Hobart: 32
+Cloud County: 7
+Manhattan: 16
+Bullitt Police Department: 6
+Burkesville: 2
+State Police: Todd County: 14
+Sulphur: 30
+Westport: 21
+Brookline: 27
+Cohasset: 5
+Caribou: 8
+Belfast: 6
+Lansing Township: 29
+Ogemaw: 13
+Oak Grove: 20
+Vinita Park: 59
+Columbia Falls: 3
+Surf City: 3
+Oaklyn: 2
+Sayreville: 22
+Eatontown: 18
+Hackettstown: 6
+Mansfield Township: 14
+Bosque Farms: 3
+Erie County: 53
+Harrison Town: 31
+State Police: Genesee County (A): 6
+State Police: Wyoming County (A): 19
+Conneaut: 18
+Broadview Heights: 4
+Findlay: 25
+Plum: 6
+Baden: 1
+State Police: Crawford County: 76
+Ambler: 5
+Ninety Six: 3
+Mccormick: 8
+Galveston County: 137
+Gillespie County: 17
+Wharton: 29
+Luray: 4
+Galax: 26
+Marinette: 7
+Oconomowoc: 7
+Gilmer State Police: 5
+Hardy State Police: 17
+Pocahontas State Police: 15
+Barbour County: 41
+Lonoke County: 67
+Springdale: 61
+Delano: 174
+Wasco: 9
+Covina: 101
+Modoc County: 16
+Nevada City: 5
+Barstow: 128
+Woodlake: 19
+Conejos County: 12
+Southington: 20
+West Des Moines: 28
+Owyhee County: 11
+Schiller Park: 9
+Crest Hill: 19
+Kingsford Heights: 1
+Mission Woods: 1
+Lyon County: 77
+Emporia: 71
+State Police: Casey County: 20
+State Police: Garrard County: 12
+State Police: Nicholas County: 5
+De Quincy: 6
+Ville Platte: 24
+Norfolk Met District Commission: 8
+Millbury: 10
+State Police: Carroll County: 84
+Cassopolis: 3
+Ontwa Township - Edwardsburg: 4
+Wyoming: 85
+Waterford Township: 59
+Moorhead: 28
+Kirksville: 18
+Brookfield: 29
+Wentzville: 17
+Maplewood: 55
+Kemper County: 8
+Stillwater County: 6
+Crete: 6
+Spindale: 7
+Pilot Mountain: 5
+Ronda: 1
+Hasbrouck Heights: 12
+Moorestown Township: 4
+Hillside Township: 38
+Lakewood-Busti: 1
+Niagara County: 32
+Oneonta City: 7
+Ithaca: 30
+Loudonville: 3
+Brooklyn Heights: 2
+Pine-Marshall-Bradford Woods: 8
+Tarentum: 8
+State Police: Berks County: 94
+State Police: Columbia County: 45
+East Pennsboro Township: 18
+Hellertown: 4
+Conewago Township: 2
+Central Falls: 46
+Williston: 57
+Walterboro: 49
+Bishopville: 22
+Gallaway: 1
+Roane County: 72
+Brownwood: 33
+Waxahachie: 60
+Sherman: 88
+Kerr County: 55
+West Lake Hills: 2
+State Police: Buchanan County: 28
+New Richmond: 9
+Saraland: 13
+Northport: 36
+Izard County: 12
+Del Norte County: 64
+Lomita: 36
+Menlo Park: 58
+Rohnert Park: 39
+Canon City: 28
+Mesa County: 91
+New London: 91
+Palm Bay: 135
+Parkland: 19
+Bay Harbor Islands: 1
+Medley: 14
+Port Orange: 46
+Hinesville: 85
+Dawson: 18
+Pope County: 71
+Donaldsonville: 11
+State Police: Prince George's County: 11
+Swartz Creek: 4
+Farmington Hills: 42
+White Bear Lake: 5
+Kosciusko: 36
+Hazlehurst: 25
+Rosebud County: 8
+Murphy: 12
+Perquimans County: 16
+Yancey County: 17
+Riverside Township: 3
+Neptune Township: 64
+Dona Ana County: 111
+Hudson Falls Village: 4
+Elmsford Village: 4
+State Police: Niagara County (A): 10
+State Police: Schenectady County (G): 9
+Maumee: 3
+Sayre: 13
+Wynnewood: 7
+Sp: Gilliam County: 1
+The Dalles: 19
+Findlay Township: 4
+Lower Southampton Township: 9
+State Police: Mifflin County: 22
+Blacksburg: 28
+Darlington: 56
+Shelbyville: 64
+Ripley: 43
+Castro County: 14
+Duncanville: 63
+Farmers Branch: 49
+Deaf Smith County: 7
+Cisco: 7
+Presidio County: 26
+Marfa: 2
+Asotin County: 11
+Kelso: 31
+Renton: 118
+Ellensburg: 18
+Oneida County: 54
+Cabell State Police: 9
+Harrison State Police: 22
+Monroe State Police: 18
+Green River: 13
+Uinta County: 17
+Greenlee County: 7
+La Habra: 94
+Idaho Springs: 3
+Saguache County: 16
+Winter Garden: 51
+American Falls: 5
+Mattoon: 15
+Barrington Hills: 6
+Oak Forest: 11
+Winthrop Harbor: 1
+Kildeer: 1
+State Police: Cass County: 24
+State Police: Miami County: 15
+Phillipsburg: 24
+State Police: Livingston County: 63
+Pittsfield: 55
+Haverhill: 56
+Wakefield: 17
+Lisbon: 4
+Allegan: 47
+Bedford Township: 10
+Emmet: 11
+South Range: 1
+Ionia: 32
+Little Canada: 4
+Virginia: 12
+Sibley County: 3
+Barry County: 24
+Bollinger County: 16
+Valley County: 14
+Gage County: 5
+Mcadenville: 1
+Stutsman County: 8
+Belknap State Police: 8
+Mahwah Township: 6
+Winslow Township: 43
+Red Bank: 32
+Fulton City: 8
+Rensselaer City: 5
+State Police: Essex County (B): 23
+State Police: Herkimer County (D): 30
+State Police: Saratoga County (G): 31
+State Police: Tompkins County (C): 16
+State Police: Washington County (G): 21
+Beckham County: 25
+Hugo: 45
+Enid: 105
+Haskell County: 31
+Altus: 53
+Payne County: 28
+State Police: Tillamook County: 13
+Coal Township: 10
+Hamlin: 7
+Carthage: 50
+Tulia: 14
+White Settlement: 35
+Grundy: 6
+Wetzel County: 5
+Coosa County: 38
+Arkadelphia: 19
+England: 9
+El Cerrito: 24
+Marina: 34
+Lindsay: 42
+Glenwood Springs: 9
+Crystal River: 11
+Maitland: 25
+Savanna: 3
+South Elgin: 6
+State Police: Mccracken County: 10
+State Police: Webster County: 11
+Golden Meadow: 1
+Natchitoches County: 86
+Breaux Bridge: 6
+Adrian: 37
+West St. Paul: 16
+Koochiching County: 3
+Atchison County: 8
+Linn County: 109
+Moberly: 19
+Ferguson: 109
+Sikeston: 75
+Indianola: 49
+Toole County: 4
+Bellmawr: 4
+Brielle: 1
+Ocean Township: 17
+Bernardsville: 2
+Guilderland Town: 7
+Mohawk Village: 1
+Massena Village: 10
+North Randall: 2
+Reynoldsburg: 32
+Willoughby: 10
+Perrysburg: 2
+Malheur County: 18
+Blawnox: 1
+Hampden Township: 8
+La Feria: 11
+Cottle County: 5
+Crosby County: 18
+Mart: 6
+Colorado City: 12
+Randall County: 34
+Yoakum County: 4
+Strasburg: 4
+Door County: 12
+Marion State Police: 5
+Sheffield: 42
+Eudora: 19
+Calipatria: 5
+Mcfarland: 23
+Seal Beach: 41
+Tracy: 71
+Sonora: 17
+Palmetto: 56
+Eatonville: 24
+Berrien County: 18
+Brantley County: 18
+Americus: 83
+Waycross: 99
+Jesup: 23
+Burnham: 7
+Richton Park: 5
+Lombard: 8
+Menard County: 9
+Silvis: 4
+West Lafayette: 6
+State Police: Jennings County: 13
+Leavenworth: 77
+Bonner Springs: 10
+Sp: Robertson County: 2
+Campbellsville: 18
+Taunton: 57
+Edgartown: 1
+Lynn: 201
+Topsfield: 4
+Escanaba: 7
+Ironwood: 3
+Traverse City: 10
+South Rockwood: 2
+Grosse Pointe Woods: 4
+Melvindale: 17
+Long Lake: 1
+Neosho: 15
+Phelps County: 15
+Havelock: 16
+Ramseur: 3
+Dover Township: 64
+Catron County: 10
+Bayard: 1
+Gouverneur Village: 6
+Rye: 4
+State Police: Otsego County (C): 25
+Ashtabula County: 41
+East Liverpool: 15
+Howland Township: 4
+Myrtle Point: 5
+Swissvale: 23
+New Britain Township: 3
+Royersford: 3
+North Augusta: 52
+Centerville: 25
+Blanco: 2
+Mckinney: 85
+Denton County: 71
+Sugar Land: 45
+Humble: 42
+Stonewall County: 8
+Merkel: 6
+Sp: Lee County: 8
+State Police: Stafford County: 10
+Colonial Heights: 32
+Thurston County: 126
+Whatcom County: 67
+Barron County: 28
+Buffalo County: 17
+Nitro: 6
+Lewis State Police: 9
+Mingo County: 39
+Juneau: 42
+Sitka: 6
+Graysville: 4
+Chickasaw: 12
+Crossett: 22
+Garland County: 79
+St. Francis County: 59
+Forrest City: 119
+Chico: 78
+Cerritos: 79
+Twin Cities: 7
+Tehama County: 98
+Alamosa County: 14
+New Britain: 153
+Orange Park: 15
+Auburndale: 23
+Gulf Breeze: 6
+Winter Springs: 17
+Clarke Police Department: 27
+Taliaferro County P Dept: 1
+Tift County: 85
+Blackfoot: 22
+Rosemont: 10
+Olathe: 72
+Morton County: 12
+State Police: Elliott County: 19
+State Police: Scott County: 46
+Stoneham: 8
+Annapolis: 157
+Sagadahoc County: 4
+Clio: 17
+Burton: 56
+Huron Township: 20
+Nicollet County: 2
+Petal: 17
+Red Lodge: 4
+Fargo: 77
+Broome County: 25
+Marlborough Town: 4
+Clyde Village: 1
+Dobbs Ferry Village: 7
+Loveland: 57
+Preble County: 49
+North Baltimore: 5
+Ponca City: 50
+Purcell: 12
+State Police: Deschutes County: 17
+Port of Portland: 3
+Newberg: 12
+Morrisville: 19
+Willistown Township: 3
+Lower Paxton Township: 32
+Prospect Park: 12
+South Connellsville Boro: 4
+Wilkes-Barre: 114
+Fallowfield Township: 2
+Cranston: 48
+Winnsboro: 25
+Kingstree: 18
+Winner: 2
+Sealy: 11
+Smithville: 21
+Van Horn: 3
+Hereford: 23
+Hitchcock: 18
+Kilgore: 71
+Levelland: 27
+Groves: 22
+Cache County: 12
+Tooele County: 31
+Cabell County: 35
+Drew County: 25
+Bald Knob: 3
+Imperial Beach: 27
+San Bruno: 37
+East Hartford: 93
+Indialantic: 2
+North Bay Village: 14
+Cochran: 9
+Cobb County: 1
+Emanuel County: 43
+Beardstown: 2
+North Riverside: 7
+Eldorado: 5
+Garrard County: 1
+State Police: Pulaski County: 34
+Baker: 36
+Baraga: 1
+New Buffalo: 1
+Shelby Township: 38
+Norton Shores: 19
+Gasconade County: 6
+Florissant: 68
+Texas County: 52
+Crystal Springs: 3
+Issaquena County: 2
+Roosevelt County: 28
+Kill Devil Hills: 16
+La Grange: 24
+Lincolnton: 35
+Moonachie: 5
+Pequannock Township: 3
+Jackson Township: 51
+Ship Bottom: 2
+University of Nevada: Reno: 3
+Cohoes: 15
+Tonawanda: 4
+Gates Town: 33
+Kent Town: 8
+Suny: Amherst: 1
+State Police: Chautauqua County (A): 14
+Boardman: 17
+Waurika: 3
+Blackwell: 14
+Scappoose: 4
+Hood River: 6
+Elizabeth Township: 5
+Beaver Falls: 25
+Newville: 1
+Vidor: 32
+Woodville: 7
+Millard County: 21
+Pearisburg: 3
+Middleburg: 3
+Town of Madison: 24
+Green Lake County: 8
+Wellsburg: 5
+Vienna: 15
+University of California: Berkeley: 7
+Moraga: 6
+East Bay Regional Park: Contra Costa: 18
+Sanger: 78
+Brea: 34
+South San Francisco: 70
+Suisun City: 45
+Alamosa: 33
+Milliken: 1
+Fort Walton Beach: 45
+Okeechobee: 16
+Dade City: 27
+Catoosa County: 50
+Norridge: 5
+Glen Ellyn: 10
+Edgar County: 2
+Woodford County: 9
+Wabash: 10
+New Roads: 10
+Suffolk Met District Commission: 10
+Dexter: 11
+Dickinson: 49
+Lake: 24
+Green Oak Township: 7
+Pipestone County: 1
+Noxubee County: 5
+Gordon: 13
+Siler City: 39
+Swansboro: 4
+Somersworth: 12
+Teaneck Township: 38
+Manchester Township: 27
+Glen Cove: 22
+Haverstraw Town: 15
+Madeira: 6
+Middleport: 1
+Rossford: 2
+Konawa: 9
+Astoria: 9
+State Police: Douglas County: 19
+Steelton: 18
+Salisbury Township: 12
+Bushkill Township: 3
+North Huntingdon Township: 18
+Calhoun Falls: 5
+Gaston: 1
+Elizabethton: 11
+Dyer County: 10
+Germantown: 27
+Dickens County: 5
+Spur: 7
+Hays County: 68
+Hewitt: 11
+Matagorda County: 64
+Ochiltree County: 6
+Juab County: 7
+Steilacoom: 6
+Moundsville: 12
+Rock Springs: 47
+Tarrant City: 38
+Tallassee: 28
+Gordo: 6
+Cordova: 6
+Paragould: 29
+Pima: 1
+Gridley: 14
+Colusa: 9
+Bishop: 7
+Mill Valley: 5
+North Haven: 15
+Bunnell: 13
+Doraville: 23
+Oglethorpe County: 18
+South Holland: 16
+De Kalb: 30
+Jersey County: 3
+Batavia: 21
+Oglesby: 2
+State Police: La Porte County: 30
+State Police: Rush County: 4
+State Police: Pendleton County: 7
+Eunice: 44
+Baldwin: 4
+Montague: 11
+Sp: Montgomery County: 1
+Kennebunkport: 3
+Summit Township: 5
+Blackman Township: 30
+Saline: 2
+Pearl: 20
+Magee: 9
+Chase County: 4
+Carteret County: 52
+Pittsboro: 9
+Minot: 49
+Old Bridge Township: 36
+Chemung County: 15
+Bedford Town: 9
+State Police: Albany County (G): 22
+North Royalton: 7
+Kenton: 14
+Richfield: 37
+Yukon: 13
+Warner: 2
+Prineville: 7
+Sp: Crook County: 1
+West Homestead: 6
+Bloomsburg Town: 6
+Loudon County: 43
+Sullivan County: 159
+Andrews County: 17
+Port Isabel: 8
+Lampasas County: 21
+Lavaca County: 21
+Port Aransas: 15
+Nottoway County: 31
+Summers County: 6
+Sublette County: 23
+Kingman: 65
+Parker: 25
+Mendota: 22
+Signal Hill: 34
+Rio Grande County: 11
+Crestview: 36
+Ocoee: 36
+Black Hawk County: 4
+Rexburg: 10
+Seward County: 13
+Owen County: 2
+Morganfield: 7
+Grambling: 1
+Dennis: 7
+Kingston: 59
+Worcester County: 22
+Waveland: 22
+Mccook: 8
+Drexel: 3
+Asheboro: 56
+Bedminster Township: 3
+Cranford Township: 6
+Lopatcong Township: 5
+Port Washington: 12
+State Police: Jefferson County (D): 26
+Columbiana: 8
+Xenia: 34
+Crescent: 3
+Sandy: 55
+Harney County: 4
+Wasco County: 27
+Summerton: 8
+Rockport: 20
+Cockrell Hill: 12
+Frio County: 18
+Mission: 60
+Raymondville: 22
+State Police: Brunswick County: 5
+Sp: Giles County: 4
+Waukesha County: 23
+Greenbrier County: 10
+Daphne: 25
+Union Springs: 27
+San Leandro: 139
+Reedley: 48
+Mono County: 8
+Dixon: 24
+North Lauderdale: 55
+Neptune Beach: 15
+Bacon County: 6
+Alma: 29
+Dade County: 28
+Dooly County: 10
+Douglasville: 47
+Lyons: 37
+Warren County Police Dpt: 1
+Mills County: 7
+Wapello County: 10
+Blue Island: 21
+Normal: 20
+Kosciusko County: 16
+State Police: Gibson County: 10
+State Police: Kosciusko County: 13
+State Police: Orange County: 29
+Cowley County: 6
+State Police: Mclean County: 5
+Westwood: 9
+State Police: Baltimore City: 8
+Parma-Sandstone: 1
+Missaukee: 6
+Clawson: 9
+Roscommon: 16
+East Grand Forks: 13
+Owatonna: 5
+Wabasha County: 5
+Bates County: 22
+Ray County: 15
+Northwoods: 12
+Gates County: 24
+Garwood: 3
+Newburgh Town: 24
+State Police: Ontario County (E): 9
+North Olmsted: 9
+Bexley: 15
+Leipsic: 3
+Tiffin: 7
+Alfalfa County: 4
+Warr Acres: 26
+Claremore: 19
+Mccandless: 8
+Brackenridge: 3
+Carlisle: 48
+Catasauqua: 4
+Coventry: 22
+Clover: 10
+Caryville: 1
+Kaufman: 17
+Pecos: 42
+Scurry County: 11
+Box Elder County: 14
+Payson: 25
+Amelia County: 27
+State Police: Loudoun County: 8
+Blackstone: 18
+Sparta: 27
+Cedar Bluff: 7
+Andalusia: 34
+Prairie County: 17
+University of Arkansas: Fayetteville: 5
+Gilbert: 74
+Tolleson: 24
+City of Angels: 4
+Inyo County: 36
+Tehachapi: 9
+Glendora: 32
+Calif St Police Sacramento: 3
+Exeter: 30
+Thousand Oaks: 68
+Paonia: 4
+Groton Town: 20
+Century: 5
+Umatilla: 10
+Longboat Key: 7
+Mulberry: 7
+Bleckley County: 13
+Douglas: 69
+Rockmart: 19
+Southern Il U:Edwardsvil: 1
+Greendale: 6
+State Police: Benton County: 6
+State Police: Dearborn County: 21
+State Police: White County: 11
+State Police: Crittenden County: 5
+State Police: Metcalfe County: 9
+Iberville County: 58
+Port Allen: 31
+Billerica: 9
+Sp: Franklin County: 1
+Kent County: 15
+Barry Township: 3
+Petoskey: 4
+Ham Lake: 2
+Kanabec County: 14
+Ravalli County: 13
+Frontier County: 2
+Creedmoor: 4
+Grafton: 11
+Millburn Township: 4
+Geauga County: 15
+Hocking County: 29
+Mcalester: 46
+Krebs: 6
+Pleasant Hills: 5
+Lower Allen Township: 7
+Pittston Township: 2
+Lower Moreland Township: 8
+Lower Providence Township: 15
+Whitemarsh Township: 6
+Watsontown: 4
+Unicoi County: 14
+Lake Jackson: 25
+Burnet: 9
+Childress County: 7
+Royse City: 9
+Throckmorton County: 8
+Sp: James City County: 3
+Othello: 14
+Oak Harbor: 12
+Ilwaco: 2
+Chippewa Falls: 14
+Dunn County: 13
+Marathon County: 28
+Milwaukee County: 19
+Mequon: 11
+Sauk Prairie: 3
+Muskego: 6
+Lanett: 54
+Millbrook: 20
+Osceola: 62
+Hazen: 5
+Yell County: 41
+Nogales: 30
+Rolling Hills Estates: 6
+Sand City: 7
+Prowers County: 8
+Lamar: 18
+Greenwich: 20
+Lynn Haven: 10
+Cerro Gordo County: 7
+Litchfield: 7
+State Police: Porter County: 5
+Atchison: 18
+Labette County: 9
+St. James County: 56
+Longmeadow: 4
+Melrose: 2
+Crawford: 7
+Iron Mountain: 5
+Flushing: 5
+Hazel Park: 39
+Maries County: 9
+Waynesville: 26
+Hamlet: 28
+Yadkinville: 6
+Grand Forks: 42
+Livingston Township: 5
+South Brunswick Township: 22
+Keansburg: 18
+Ely: 2
+State Police: Monroe County (E): 4
+State Police: Tioga County (C): 20
+Lyndhurst: 6
+Fairport Harbor: 1
+Wellington: 43
+Sidney: 28
+New Philadelphia: 10
+Van Wert County: 12
+Catoosa: 14
+New Sewickley Township: 3
+Athens Township: 3
+Malvern: 44
+Susquehanna Township: 28
+Nazareth Area: 2
+State Police: Northumberland County: 30
+State Police: Wickford: 19
+Central: 6
+Alcoa: 26
+Gibson County: 33
+Falfurrias: 24
+Rockwall: 14
+Toppenish: 46
+Calumet County: 9
+Prairie Du Chien: 2
+Oak Hill: 20
+Stonewood: 1
+Glenrock: 2
+Bibb County: 391
+Level Plains: 1
+Alabaster: 27
+Grover Beach: 12
+New Milford: 28
+Seaford: 20
+Plantation: 102
+Pembroke Park: 26
+Tarpon Springs: 51
+Claxton: 10
+Nevada: 19
+Countryside: 5
+Dearborn County: 3
+State Police: Elkhart County: 17
+State Police: Sullivan County: 33
+Washington Keeney: 3
+State Police: Breckinridge County: 18
+St. Matthews: 13
+East Bridgewater: 4
+Chestertown: 5
+Mahnomen County: 10
+Purvis: 2
+Missoula County: 35
+Cramerton: 4
+Transylvania County: 32
+Delran Township: 10
+Palmyra: 20
+Monmouth Beach: 2
+Barnegat Light: 3
+Warren Township: 8
+Pershing County: 14
+Port Chester Village: 28
+State Police: Broome County (C): 31
+Coshocton County: 31
+Newburgh Heights: 3
+University Heights: 5
+Defiance County: 13
+Chillicothe: 29
+Carter County: 109
+Yardley: 1
+North Middleton Township: 7
+Redstone Township: 9
+Hegins Township: 1
+Simpsonville: 20
+Chesnee: 5
+Kountze: 10
+Littlefield: 16
+Midland County: 54
+Overton: 11
+State Police: Isle of Wight County: 2
+Raymond: 7
+Sheboygan Falls: 6
+Buckeye: 42
+La Palma: 16
+San Bernardino State Pol: 1
+Benicia: 26
+Sunrise: 100
+Gilmer County: 25
+Galesburg: 29
+Huntingburg: 3
+State Police: Dubois County: 8
+State Police: Randolph County: 5
+State Police: St. Joseph County: 27
+Freetown: 6
+Newbury: 1
+Woburn: 19
+State Police: Suffolk County: 29
+State Police: Talbot County: 35
+Cass: 48
+Ruleville: 3
+Sanders County: 14
+North Arlington: 4
+Chatham: 8
+Oregon: 15
+Northwood: 8
+Wilburton: 8
+Boley: 2
+Sand Springs: 25
+Sp: Hood River County: 1
+State Police: Lake County: 29
+State Police: Sherman County: 4
+Sp: Wallowa County: 1
+Verona: 25
+Northern Cambria Borough: 2
+Clarion: 4
+Ephrata: 18
+Upper Merion Township: 21
+Matamoras: 2
+Trafford: 6
+Fairview Township: 12
+Minnehaha County: 19
+DeKalb County: 31
+Cedar Park: 26
+Fultondale: 13
+Gentry: 2
+Fordyce: 25
+Tombstone: 2
+Superior: 29
+Ridgecrest: 44
+San Francisco State Poli: 1
+Tamarac: 63
+Vero Beach: 31
+New Port Richey: 29
+Wakulla County: 44
+Appling County: 12
+Cedartown: 28
+Coeur D'Alene: 42
+Fairmont City: 3
+Noblesville: 17
+Cambridge City: 1
+Doniphan County: 4
+Fulton: 25
+Leitchfield: 5
+Welsh: 12
+Greenbelt: 61
+Millinocket: 4
+Howell: 6
+Northville Township: 5
+Woodfin: 7
+Roxboro: 32
+Keene: 17
+Elk Township: 4
+Churchill County: 24
+Old Brookville Village: 9
+Seneca County: 23
+Sp: Suffolk County (K): 1
+Cheviot: 3
+Wickliffe: 9
+Stow: 9
+Tuscarawas County: 20
+Rittman: 7
+Mustang: 17
+West Linn: 2
+North Bend: 18
+Powers: 2
+Brookings: 11
+Silverton: 14
+South Fayette Township: 7
+Morton: 18
+Ellwood City: 9
+Universal City: 24
+Katy: 15
+Weslaco: 62
+Ingleside: 14
+Clearfield: 25
+Moab: 8
+State Police: King William County: 3
+State Police: Pittsylvania County: 16
+Sp: Fredericksburg: 6
+Two Rivers: 10
+Rhinelander: 5
+Mountain Brook: 7
+Paradise Valley: 12
+Placerville: 19
+Ca St Polyt U:San Luis O: 1
+Los Gatos: 19
+Fort Lupton: 6
+Greenacres City: 41
+Gulf Stream: 1
+Lantana: 9
+Hillsboro: 103
+State Police: Fountain County: 8
+Hickman: 6
+Cynthiana: 4
+Ayer: 5
+North Reading: 3
+Takoma Park Prince Geo: 8
+State Police: Garrett County: 24
+Grand Blanc Township: 26
+Grand Haven: 9
+Meeker County: 11
+Kalispell: 20
+Cozad: 6
+North Platte: 24
+Chowan County: 29
+Candor: 3
+Pinehurst: 14
+Marshville: 23
+Paramus: 13
+Fanwood: 2
+Genesee County: 17
+Waterford Town & Village: 1
+Mamaroneck Village: 12
+Bedford Heights: 24
+Colerain Township: 20
+Toronto: 6
+North Canton: 8
+Corvallis: 25
+Oregon City: 22
+Jefferson: 30
+Blairsville: 8
+Pierre: 8
+Mobridge: 8
+Newbern: 9
+Camp County: 19
+Kimble County: 8
+Slaton: 16
+Devine: 13
+Wise: 3
+Wenatchee: 46
+Green Bay: 133
+Jackson State Police: 5
+Department of Natural Resources: Ritchie County: 2
+Weston County: 7
+Galt: 26
+Millbrae: 15
+Tulelake: 3
+Naturita: 1
+Screven County: 14
+Carroll: 3
+Muscatine County: 13
+Tama County: 9
+Midlothian: 21
+Carpentersville: 12
+State Police: Hendricks County: 6
+State Police: Calloway County: 9
+Pocomoke City: 12
+Westbrook: 13
+Waldo County: 5
+Charlotte: 12
+Iosco: 10
+Bridgeport Township: 17
+State Police: Washtenaw County: 58
+Beaverhead County: 4
+Vass: 2
+Stoneville: 2
+Walnut Cove: 1
+Watford City: 5
+Horseheads Village: 2
+Yorktown Town: 6
+Pickaway County: 21
+Murray County: 53
+Choctaw: 20
+New Brighton: 13
+Logan Township: 19
+Franklin Boro: 1
+Lancaster Township: 13
+Wright Township: 2
+Bolivar: 41
+Colorado County: 28
+Rowlett: 29
+Ranger: 7
+Crockett: 36
+Yoakum: 17
+Azle: 14
+Warrenton: 25
+Kenbridge: 10
+Clarkston: 49
+Bothell: 18
+Preston State Police: 6
+Hartselle: 15
+Piggott: 2
+Dumas: 53
+Lemoore: 31
+Willits: 17
+Pacific Grove: 14
+Vacaville: 95
+Eagle County: 17
+Newtown: 10
+Windsor Locks: 18
+Miami Shores: 20
+Golden Beach: 2
+Gordon County: 39
+Hawkinsville: 12
+Sylvester: 13
+Cherokee: 4
+Woodbury County: 14
+Pontoon Beach: 4
+State Police: Jasper County: 4
+Seekonk: 5
+State Police: Berrien County: 60
+State Police: Houghton County: 14
+State Police: Oakland County: 55
+Holly: 5
+Montevideo: 8
+Bayport: 7
+North Kansas City: 13
+Lee's Summit: 50
+Carroll State Police: 10
+Fair Lawn: 22
+Mount Laurel Township: 20
+Lindenwold: 50
+Paulsboro: 24
+Lander County: 21
+Rockville Centre Village: 11
+Orleans County: 23
+Seven Hills: 9
+Lincoln Heights: 4
+Licking County: 29
+Liberty Township: 12
+Van Wert: 10
+Wooster: 19
+Guthrie: 27
+Yale: 5
+Doylestown: 2
+Lower Merion Township: 40
+Pottsville: 24
+Hellam Township: 5
+Ravenel: 1
+Forest Acres: 12
+Cocke County: 86
+Port Lavaca: 23
+Rotan: 2
+Malakoff: 6
+Cameron: 29
+Wheeler County: 16
+Midvale: 27
+West Jordan: 54
+Antigo: 4
+Braxton State Police: 10
+Natrona County: 29
+Parrish: 3
+La Mirada: 59
+La Canada Flintridge: 12
+Vail: 4
+Steamboat Springs: 7
+West Melbourne: 16
+Cedar County: 23
+Camas County: 2
+Oak Brook: 2
+Indiana University: Indianapolis: 2
+State Police: Hamilton County: 7
+State Police: Lagrange County: 8
+Nicholasville: 16
+Ipswich: 4
+Harvard: 2
+Hampton Township: 7
+State Police: Chippewa County: 22
+Vassar: 1
+Grosse Pointe Park: 12
+Northville: 1
+Faribault: 12
+Treasure County: 2
+Chadron: 5
+Angier: 7
+Scotch Plains Township: 15
+Dunkirk: 14
+Saratoga Springs: 16
+Ulster County: 17
+State Police: Cortland County (C): 5
+St. Bernard: 2
+Avon Lake: 4
+Vinton County: 22
+Sherman County: 11
+Center Township: 10
+Muhlenberg Township: 22
+East Lansdowne: 4
+Radnor Township: 14
+Connellsville: 12
+Huntingdon: 14
+Sweeny: 5
+Cedar Hill: 47
+Refugio: 4
+State Police: Smyth County: 10
+State Police: Wise County: 20
+Centralia: 42
+Chippewa County: 22
+Pewaukee Village: 3
+Ohio State Police: 3
+Headland: 6
+Ione: 2
+Ca St Un: Dominguez Hlls: 1
+Healdsburg: 9
+Ponce Inlet: 3
+Evans County: 6
+Streamwood: 12
+Libertyville: 4
+Mount Carmel: 8
+State Police: Vanderburgh County: 4
+State Police: Vigo County: 13
+State Police: Wells County: 7
+State Police: Meade County: 12
+Walpole: 5
+Carver: 2
+Charlton: 5
+State Police: Delta County: 6
+Dilworth: 2
+Shakopee: 23
+Anaconda: 1
+Cherryville: 10
+Sylva: 8
+Tyrrell County: 14
+Somerdale: 3
+Monroe Township: 40
+Bay Head: 1
+State Police: Cayuga County (E): 16
+State Police: Fulton County (G): 10
+State Police: Orleans County (A): 12
+State Police: Schoharie County (G): 15
+Bluffton: 14
+Washington Court House: 12
+Grove City: 26
+Hilliard: 7
+Bainbridge Township: 7
+North Ridgeville: 8
+Harmon County: 6
+Hollis: 7
+Marlow: 6
+Mount Angel: 4
+Allegheny County Police Department: 117
+Derry Township: 13
+St. George: 42
+Overton County: 20
+Rains County: 27
+Watauga: 18
+South Boston: 34
+Port Orchard: 11
+Fox Valley Metro: 1
+Waushara County: 11
+Wadley: 4
+Hamburg: 15
+Chowchilla: 15
+St. Cloud: 91
+Clayton County: 5
+Bear Lake County: 3
+Benewah County: 17
+Robbins: 30
+East Alton: 8
+Sp: Warren County: 2
+Delhi: 2
+Sparrows Point: 2
+State Police: Sagadahoc County: 3
+Berrien Springs-Oronoko: 6
+State Police: Lenawee County: 30
+State Police: Osceola County: 19
+State Police: Saginaw County: 91
+Thief River Falls: 5
+Lake Elmo: 2
+Warrensburg: 20
+Deuel County: 8
+Lucama: 1
+Princeton Township: 6
+North Haledon: 2
+Tompkins County: 19
+North Kingsville: 3
+New Carlisle: 1
+Morrow County: 32
+Marlboro Township: 5
+Weleetka: 4
+Vian: 11
+State Police: Baker County: 5
+Pitcairn: 7
+West View: 3
+Laureldale: 3
+Towamencin Township: 10
+Batesburg-Leesville: 24
+Collierville: 19
+West University Place: 8
+Palacios: 17
+Bowie: 23
+Mathis: 19
+Hurst: 57
+Layton: 38
+State Police: Goochland County: 7
+Manitowoc County: 23
+Dunbar: 19
+Rawlins: 18
+Park County: 50
+Sharp County: 23
+La Mesa: 67
+Arroyo Grande: 8
+Margate: 26
+Chiefland: 6
+Winder: 21
+Conyers: 32
+Boundary County: 21
+Jo Daviess County: 4
+Mundelein: 8
+Massac County: 8
+State Police: Allen County: 16
+State Police: Tipton County: 4
+Edgewood: 11
+State Police: Bay County: 33
+State Police: Calhoun County: 33
+State Police: Genesee County: 96
+State Police: Manistee County: 12
+Olivette: 15
+Westampton Township: 5
+Ocean County: 1
+Jicarilla Apache Tribal: 6
+Lynbrook Village: 5
+Pelham Manor Village: 4
+Newkirk: 4
+Cushing: 20
+Emmaus: 6
+State Police: Venango County: 40
+Dickson: 23
+Hemphill County: 10
+Everman: 9
+New Berlin: 13
+Upshur State Police: 2
+Bisbee: 16
+San Marino: 12
+Pitkin County: 5
+Branford: 18
+Middlebury: 4
+Callahan: 1
+Carter Lake: 7
+Murphysboro: 6
+North Aurora: 3
+Minier: 1
+Galena: 8
+Hudson: 50
+Middlesex Met District Commission: 7
+State Police: Piscataquis County: 11
+North Berwick: 4
+Wright County: 37
+Blue Springs: 38
+Kirkwood: 25
+Red Willow County: 1
+Chadbourn: 36
+Golden Valley County: 4
+North Wildwood: 5
+Parsippany-Troy Hills Township: 24
+Vernon Township: 10
+Elko County: 44
+State Police: Delaware County (C): 22
+West Union: 3
+Huron County: 9
+Coos Bay: 31
+Warwick Township: 7
+South Lebanon Township: 7
+Monongahela: 6
+North: 3
+Burnet County: 24
+Edna: 21
+Mcculloch County: 10
+Brookshire: 22
+Kermit: 14
+South Salt Lake: 70
+Burnett County: 19
+Waupun: 5
+Fox Point: 4
+Eutaw: 19
+Bentonville: 20
+Hot Spring County: 38
+Gila Bend: 2
+Crescent City: 20
+Temple City: 38
+Tiburon: 5
+Groton: 15
+Mascoutah: 2
+Valparaiso: 20
+State Police: Jay County: 5
+State Police: Tippecanoe County: 6
+Finney County: 23
+Raynham: 8
+Newburyport: 6
+Chesapeake City: 1
+State Police: Alcona County: 5
+Grand Traverse: 29
+State Police: Hillsdale County: 15
+East Lansing: 22
+Luna Pier: 2
+State Police: Muskegon County: 21
+Newaygo: 27
+Constantine: 3
+Musselshell County: 7
+Saunders County: 9
+Sheridan County: 27
+Glen Ridge: 3
+Carteret: 37
+Roselle Park: 9
+Belen: 20
+White Pine County: 33
+Cortland County: 6
+Schoharie County: 2
+Lone Grove: 9
+Forest Grove: 21
+Millvale: 2
+Turtle Creek: 1
+Quakertown: 8
+Brookings County: 3
+Alamo Heights: 6
+Delta County: 24
+Roosevelt: 8
+State Police: Amelia County: 6
+Crewe: 6
+Castle Rock: 23
+College Place: 4
+Menomonie: 10
+Oak Creek: 33
+Glencoe: 9
+Rancho Palos Verdes: 29
+Alturas: 15
+Carpinteria: 13
+Riverbank: 24
+Baca County: 3
+Starke: 23
+Frostproof: 4
+Chipley: 7
+Cascade: 1
+Algonquin: 6
+Virden: 2
+Goshen: 30
+State Police: Putnam County: 12
+Pratt County: 1
+Southbridge: 11
+Grosse Pointe Farms: 3
+Cadillac: 11
+Boonville: 14
+West Jefferson: 7
+South Orange: 13
+Winfield Township: 2
+Tularosa: 5
+Carmel Town: 11
+Liberty Village: 11
+West Chester Township: 32
+John Day: 9
+Whitaker Borough: 1
+Warrington Township: 7
+Nanty Glo: 1
+East Hempfield Township: 14
+Sharpsville: 4
+Stroud Area Regional: 35
+Conshohocken: 6
+University of South Carolina: Columbia: 4
+Brenham: 32
+Springville: 16
+Eau Claire County: 23
+Oconomowoc Town: 2
+Matoaka: 2
+Big Horn County: 23
+Surprise: 56
+Manteca: 89
+St. Pete Beach: 6
+Midville: 2
+Hapeville: 29
+Sandpoint: 8
+Latah County: 15
+Alsip: 13
+Hodgkins: 1
+Farmer City: 1
+Geneseo: 3
+East Moline: 13
+State Police: Bartholomew County: 7
+State Police: Brown County: 8
+State Police: Noble County: 9
+Haysville: 8
+Gladstone: 41
+Fraser: 10
+Cloquet: 8
+Yellow Medicine County: 3
+Wrightsville Beach: 3
+Strafford State Police: 8
+Franklin Lakes: 3
+Cinnaminson Township: 11
+Highlands: 5
+Evendale: 2
+Nicoma Park: 4
+Washita County: 14
+Yamhill County: 53
+Silver Spring Township: 7
+Nether Providence Township: 7
+South Whitehall Township: 5
+State Police: Snyder County: 16
+Penn Township: 15
+South Kingstown: 9
+Bledsoe County: 14
+Pickett County: 8
+Flower Mound: 23
+San Saba: 8
+Moses Lake: 33
+Pend Oreille County: 24
+Middleton: 7
+Minocqua: 2
+Town of East Troy: 4
+Department of Natural Resources: Grant County: 2
+De Valls Bluff: 2
+Parlier: 29
+Sonoma: 9
+Hamden: 59
+Waterford: 53
+Rockdale County: 88
+Evergreen Park: 16
+Glenwood: 16
+Oakbrook Terrace: 2
+Effingham: 5
+Rensselaer: 1
+Dickinson County: 17
+Lenexa: 25
+Hardinsburg: 4
+Winchendon: 8
+Columbia Heights: 19
+Minnetonka: 12
+Eden Prairie: 17
+Cape Girardeau County: 17
+Fergus County: 4
+Aulander: 3
+Swedesboro: 4
+Raritan Township: 14
+Haverstraw Village: 6
+Sleepy Hollow Village: 12
+Bixby: 15
+Upper Allen Township: 2
+Jellico: 6
+Nassau Bay: 9
+Anson: 5
+Lacy-Lakeview: 10
+Kennedale: 17
+State Police: Shenandoah County: 14
+Port Townsend: 9
+Olympia: 42
+Pullman: 10
+Merrill: 7
+West Milwaukee: 10
+Vilas County: 16
+Doddridge State Police: 6
+Hardy County: 5
+Nicholas State Police: 10
+New Martinsville: 3
+Hope: 44
+Calexico: 35
+Northglenn: 52
+Broxton: 6
+Tennille: 5
+Allamakee County: 1
+Keokuk: 12
+Poweshiek County: 3
+Grinnell: 5
+Dixmoor: 6
+Hazel Crest: 19
+Steger: 9
+Bourbonnais: 7
+Edwards County: 20
+State Police: Henderson County: 7
+Laurel County: 52
+Mount Sterling: 13
+Rehoboth: 4
+Wayzata: 3
+Gering: 5
+Cavalier County: 2
+Bath Village: 7
+State Police: Oswego County (D): 24
+Myrtle Creek: 3
+Sharpsburg: 17
+Mount Union: 2
+Inman: 3
+Martin: 15
+Tatum: 3
+Wilbarger County: 5
+Stowe: 2
+Ferry County: 16
+Schofield: 2
+Menasha: 11
+Braxton County: 5
+Ronceverte: 2
+South Charleston: 26
+Wirt State Police: 1
+Kenai: 15
+Coconut Creek: 34
+Lighthouse Point: 7
+Fernandina Beach: 18
+Niceville: 6
+De Funiak Springs: 14
+Grovetown: 7
+Emmett: 8
+Ripley County: 37
+State Police: Starke County: 13
+Barton County: 17
+Bemidji: 18
+Valdese: 12
+Cornelius: 29
+New Town: 1
+Wilton: 22
+Barrington: 11
+State Police: Franklin County (B): 31
+State Police: Oneida County (D): 50
+Tipp City: 6
+Poteau: 20
+Hilltown Township: 14
+Corry: 5
+Moncks Corner: 41
+Manning: 18
+Coleman County: 7
+Allen: 21
+White Oak: 8
+Bellaire: 22
+Richlands: 19
+Skamania County: 25
+Laramie: 20
+Dos Palos: 15
+Sebastopol: 8
+Ridgefield: 10
+Highland: 187
+Jeffersontown: 13
+Athol: 5
+Calvert County: 38
+Mount Rainier: 33
+Ferris State University: 1
+Grand Island: 45
+Fairview: 20
+Saddle River: 2
+Nye County: 67
+Yates County: 6
+Checotah: 7
+Vale: 1
+Umatilla County: 50
+Oakmont: 3
+Aldan: 4
+Delaware County District Attorney Criminal Investi: 4
+White House: 4
+Memorial Villages: 7
+Texas State Technical College: Waco: 3
+Dallas-Fort Worth International Airport: 6
+Bland County: 3
+Mabscott: 2
+Wheatland: 10
+Thatcher: 4
+Arcata: 27
+Norwich: 65
+Rockledge: 19
+Marshallville: 4
+Des Moines County: 9
+Rupert: 7
+Palos Hills: 1
+Brooklyn: 16
+Romeoville: 10
+State Police: Ripley County: 15
+Graves County: 13
+Rowley: 4
+State Police: Isabella County: 20
+Big Rapids: 5
+Pittsfield Township: 25
+Ellisville: 3
+Glendive: 4
+Columbus County: 166
+Winterville: 12
+Rutherfordton: 5
+Roper: 1
+Hooksett: 9
+South Hackensack Township: 7
+Secaucus: 13
+Lambertville: 2
+Point Pleasant: 13
+Defiance: 8
+Paulding: 5
+Atoka: 13
+Drumright: 7
+Oklahoma County: 45
+Jones: 4
+State Police: Linn County: 8
+Schuylkill Township: 4
+Leon Valley: 17
+Eagle Lake: 10
+Val Verde County: 17
+Prince Edward County: 48
+Attalla: 26
+De Queen: 20
+Huachuca City: 4
+Longmont: 57
+Derby: 21
+Shenandoah: 19
+Coles County: 3
+Richwood: 5
+Methuen: 27
+Allegany County: 8
+Penobscot County: 2
+Skowhegan: 7
+Meridian Township: 24
+State Police: Otsego County: 14
+State Police: Roscommon County: 6
+State Police: Shiawassee County: 18
+Rockwood: 4
+Fridley: 24
+Claycomo: 6
+Hanley Hills: 2
+Rolette County: 8
+Plainsboro Township: 7
+Truth Oregon Consequences: 14
+Cotton County: 15
+West Shore Regional: 3
+Yeadon: 38
+West Hazleton: 1
+Upper Dublin Township: 7
+Loris: 10
+Pacolet: 6
+Olmos Park: 6
+Texas A&M University: Galveston: 1
+Spring Valley: 12
+Mercedes: 30
+Jim Wells County: 43
+Tom Green County: 40
+Tyler County: 59
+Poquoson: 9
+Department of Natural Resource: 1
+North Slope Borough: 44
+Dardanelle: 6
+Willcox: 5
+Hercules: 15
+King City: 62
+Pismo Beach: 12
+Dinuba: 37
+Altamonte Springs: 59
+Bureau County: 2
+Crestwood: 5
+Westmont: 4
+Harrodsburg: 14
+Lanesboro: 2
+North Attleboro: 8
+Amesbury: 8
+Granby: 3
+Elkton: 32
+State Police: Van Buren County: 88
+Aitkin County: 21
+Pemiscot County: 43
+Ridgeland: 52
+Tate County: 16
+Tryon: 6
+East Aurora-Aurora Town: 5
+Oneida: 13
+State Police: Madison County (D): 18
+Okarche: 2
+Port Orford: 2
+Bellefonte: 2
+Hanover: 12
+Lake View: 6
+La Vergne: 24
+Wylie: 16
+Gaines County: 17
+Giddings: 6
+Daingerfield: 13
+Runnels County: 7
+Iowa Park: 5
+Woods Cross: 4
+Gurdon: 5
+Kensington: 4
+Carmel: 16
+Sebastian: 12
+Sandwich: 11
+West Frankfort: 1
+Aledo: 1
+Logansport: 22
+Loogootee: 1
+West Terre Haute: 4
+Reno County: 14
+State Police: Ionia County: 27
+New Baltimore: 5
+Mecosta: 16
+Republic: 8
+Teton County: 13
+Bladenboro: 3
+Tabor City: 24
+Wagram: 3
+Meredith: 6
+Readington Township: 6
+Roxbury Township: 12
+Clark Township: 5
+Lancaster Village: 2
+Webster Town & Village: 15
+State Police: Schuyler County (E): 3
+Willoughby Hills: 6
+Wadsworth: 8
+Greer County: 6
+Lake Oswego: 11
+Central Point: 9
+Harmar Township: 3
+Jefferson Hills Borough: 8
+Darby Township: 15
+Rostraver Township: 12
+West Warwick: 22
+Gatlinburg: 12
+Galena Park: 17
+Seabrook: 20
+Edinburg: 80
+Lampasas: 10
+Colleyville: 9
+Price: 14
+Cedar City: 25
+Uintah County: 16
+Federalsburg: 8
+Satsuma: 7
+Red Bay: 2
+West Helena: 33
+Holmes Beach: 7
+Casselberry: 33
+Chubbuck: 3
+Weiser: 6
+Rantoul: 10
+South Chicago Heights: 9
+Downers Grove: 12
+Villa Park: 9
+Crystal Lake: 8
+Owingsville: 1
+Adams: 3
+Duxbury: 1
+Fort Kent: 4
+East Millinocket: 1
+Sugar Creek: 13
+Mount Holly: 20
+Mayodan: 4
+Clementon: 7
+Barnegat Township: 13
+Suffolk State Police Troop L: 6
+Circleville: 16
+Brookfield Township: 7
+Forest Hills: 3
+West Deer Township: 3
+Clifton Heights: 3
+Lower Chichester Township: 1
+Marple Township: 10
+Horsham Township: 6
+East Bethlehem Township: 2
+Rhea County: 25
+Sevier County: 84
+Shackelford County: 9
+East Carbon: 6
+Vernal: 19
+State Police: Augusta County: 10
+Brookneal: 2
+State Police: Patrick County: 5
+Chehalis: 6
+Newcastle: 10
+Robertsdale: 9
+Arkansas County: 17
+Somerton: 21
+Biggs: 1
+Dunedin: 29
+Iowa County: 23
+Horton: 3
+Pratt: 5
+Mashpee: 16
+Waldoboro: 8
+State Police: Eaton County: 7
+Corcoran: 35
+North Oaks: 3
+Winona County: 5
+St. Robert: 11
+Starkville: 41
+Nags Head: 10
+National Park: 4
+Keyport: 5
+Haledon: 5
+State Police: Columbia County (K): 11
+Mccurtain: 1
+State Police: Centre County: 42
+Swarthmore: 1
+Upper Providence Township: 6
+Sunbury: 18
+Conemaugh Township: 6
+Wellsboro: 4
+Mcminnville: 59
+Hutchins: 16
+Gray County: 15
+Hedwig Village: 6
+Hondo: 14
+South Hill: 14
+Tomah: 10
+Hackleburg: 1
+Chatom: 2
+San Carlos: 10
+Cotati: 11
+East Haven: 16
+Madeira Beach: 23
+Morehead: 8
+Dunstable: 1
+Machias: 1
+Benzie: 18
+Gibraltar: 4
+Mcdonald County: 36
+Louisiana: 5
+Des Peres: 8
+Palisades Park: 13
+Bordentown Township: 4
+Bernards Township: 8
+Orangetown Town: 10
+Nassau State Police Troop L: 11
+Talihina: 5
+Upper Yoder Township: 5
+Marcus Hook: 4
+Roaring Brook Township: 1
+West Hempfield Township: 9
+Upper Gwynedd Township: 7
+Santee: 25
+Alvarado: 14
+Wills Point: 7
+Monahans: 19
+State Police: Gloucester County: 7
+Crook County: 19
+Cody: 10
+Owens Crossroads: 2
+Albertville: 20
+San Francisco Bart: Alameda County: 21
+La Plata County: 24
+Rio Blanco County: 7
+Woodland Park: 3
+Glastonbury: 11
+Old Saybrook: 6
+Marquette Heights: 3
+Griffith: 27
+Dyer: 15
+Bladensburg: 36
+State Police: Waldo County: 21
+Belding: 1
+Western Michigan University: 3
+Sherburne County: 25
+Bellefontaine Neighbors: 27
+Yalobusha County: 23
+Wallington: 4
+Santa Fe County: 28
+Potsdam Village: 8
+Ulster Town: 12
+Tallmadge: 17
+Holdenville: 15
+Summerhill Township: 3
+Mcconnellsburg: 1
+Latta: 12
+Cowpens: 2
+Loudon: 4
+Clarendon: 2
+Eastland: 4
+Premont: 4
+Gilmer: 22
+Tooele: 16
+Morrilton: 17
+Winkelman: 1
+Show Low: 10
+Clarkdale: 3
+Alameda State Police: 2
+Fowler: 10
+California City: 31
+San Juan Bautista: 1
+San Francisco Bart: San Francisco County: 3
+East Hampton: 11
+Havana: 10
+Wauchula: 10
+Gooding County: 11
+Justice: 3
+Erlanger: 7
+State Police: Allegan County: 25
+Mills Township: 4
+Grosse Ile Township: 2
+Orono: 11
+St. Anthony: 6
+East Mississippi Junior College: 1
+Aberdeen Township: 14
+West Paterson: 5
+Albion Village: 6
+Long Island Rail Road - Suffolk County: 2
+Saxonburg: 1
+Bosque County: 17
+Corrigan: 14
+State Police: Newport News: 2
+Redmond: 28
+Monona: 6
+Gassaway: 1
+Boaz: 9
+Dora: 3
+Waldron: 6
+Apache Junction: 56
+Red Bluff: 33
+Fort Dodge: 40
+Sublette: 1
+Ball: 1
+Natural Resources Police: 3
+Taneytown: 2
+Burnsville: 36
+Minnetrista: 5
+Havre: 14
+Audubon: 6
+Mantua Township: 6
+Metuchen: 2
+Lacey Township: 10
+Manville: 7
+Gallia County: 35
+Medina: 15
+Moraine: 21
+Tillamook County: 25
+Johnsonburg: 3
+Lower Gwynedd Township: 3
+West Norriton Township: 6
+Douglass Township: 9
+Donora: 4
+Bennett County: 5
+Monteagle: 3
+Surfside Beach: 7
+Southern Methodist University: 1
+Jack County: 8
+Washington Terrace: 5
+Orting: 2
+Whitman County: 8
+Juneau County: 25
+St. Croix County: 14
+Georgiana: 6
+Clewiston: 20
+Smelterville: 1
+Mokena: 1
+Bremen: 8
+Wells County: 10
+Shelburne: 2
+Leake County: 8
+Sioux County: 9
+Grafton State Police: 15
+Somers Point: 9
+Carlstadt: 6
+Queens Long Island Railroad: 6
+Amity: 1
+Harrison Township: 14
+Du Bois: 11
+North Lebanon Township: 8
+State Police: Philadelphia County: 13
+Oil City: 11
+Pikeville: 10
+Parsons: 19
+Tracy City: 7
+Muleshoe: 12
+Friona: 5
+Draper: 12
+Anacortes: 8
+West Bend: 12
+Niobrara County: 3
+Palmer: 19
+Cabot: 14
+Mascotte: 12
+Quitman: 17
+Colquitt County: 51
+East Dublin: 4
+Quitman County: 10
+Clive: 7
+Gem County: 4
+Orland Park: 7
+Park Ridge: 11
+Valley Center: 1
+University of Kansas:  Medical Cente: 3
+Saugus: 19
+Fenton: 2
+State Police: Newaygo County: 29
+Le Sueur County: 12
+Mounds View: 14
+Oregon County: 22
+Lucedale: 4
+Edenton: 23
+Apex: 10
+Grand Forks County: 10
+Medford Township: 6
+North Caldwell: 4
+Hightstown: 6
+West Windsor Township: 4
+Beachwood: 7
+Hubbard Township: 1
+Shidler: 1
+Wagoner: 23
+Tualatin: 13
+Brighton Township: 2
+Newtown Township: 5
+Narragansett: 5
+Lyman: 4
+Archer County: 13
+Seven Points: 6
+Irion County: 7
+State Police: Southampton County: 5
+Clallam County: 45
+Clyde Hill: 1
+Colville: 4
+Trussville: 7
+Alpharetta: 19
+Manteno: 1
+Creve Coeur: 19
+Leawood: 10
+Mcpherson County: 6
+Provincetown: 6
+Dewitt Township: 6
+State Police: Ogemaw County: 14
+Pass Christian: 11
+Maiden: 3
+Pinetops: 4
+Valley City: 7
+Absecon: 11
+Woodbine: 2
+Westchester Public Safety: 23
+Long Island Rail Road - New York County: 4
+Yellow Springs: 1
+Creswell: 7
+Cannon County: 12
+South Pittsburg: 8
+Sumner County: 65
+Morgans Point Resort: 3
+Goliad: 1
+Crystal City: 23
+Virginia Polytech Institute & State University: 5
+Onalaska: 7
+Ravenswood: 4
+Demopolis: 21
+Searcy: 34
+Williams: 10
+Atascadero: 12
+Bremer County: 6
+Meade County: 25
+Northampton: 27
+Lake of The Woods County: 1
+Brigantine: 4
+Blairstown Township: 3
+Poughkeepsie Town: 31
+Shillington: 1
+East Taylor Township: 2
+Coke County: 5
+West: 4
+Kaysville: 6
+West Bountiful: 1
+Wahkiakum County: 5
+Maplesville: 1
+Yreka: 15
+Virginia Gardens: 3
+State Police: Vermillion County: 6
+State Police: Warrick County: 15
+Alcona: 13
+Morrison County: 15
+Wendell: 3
+Seaside Park: 5
+Wayne Township: 24
+Lower Swatara Township: 9
+State Police: Portsmouth: 13
+Rusk: 16
+Wilmer: 9
+Elkhorn: 5
+Fairfax: 12
+Ansonia: 23
+Graceville: 9
+Republic County: 4
+Ashfield: 3
+South Hadley: 8
+South Berwick: 2
+State Police: Dickinson County: 5
+Leoni Township: 9
+St. Ignace: 2
+North Muskegon: 1
+Tylertown: 2
+Chouteau County: 4
+Beatrice: 13
+Plaistow: 1
+Crestline: 4
+Oklahoma State University: Main Camp: 3
+Woodburn: 24
+Lawrence Park Township: 3
+West Wyoming: 1
+Butler Township: 18
+Plymouth Township: 25
+Nolanville: 4
+Callahan County: 14
+The Colony: 21
+Dewitt County: 12
+Lynn County: 13
+Tappahannock: 10
+New Kent County: 24
+Greybull: 3
+Unalaska: 6
+Goodyear: 39
+Cherry Hills Village: 3
+Stafford Springs: 2
+Kossuth County: 7
+Pella: 3
+Christopher: 3
+Hendricks County: 10
+Culver: 3
+Elk County: 3
+Osage City: 1
+East Longmeadow: 3
+Chelmsford: 6
+Holliston: 2
+Templeton: 4
+State Police: Lapeer County: 17
+State Police: Luce County: 13
+New Ulm: 2
+Hopkins: 16
+Mitchell: 12
+Wolfeboro: 5
+Greenwood Lake Village: 4
+Rensselaer County: 14
+State Park: Rockland County: 1
+Harrah: 6
+Neville Township: 1
+East Lampeter Township: 18
+Manor: 7
+Coppell: 17
+Bridge City: 11
+Roberts County: 4
+Burkburnett: 11
+State Police: Hampton: 4
+Horicon: 5
+Kewaunee County: 12
+Hot Springs County: 7
+Washakie County: 6
+Killen: 1
+Cloverdale: 9
+Apalachicola: 1
+Bettendorf: 13
+Marengo: 1
+State Police: Newton County: 17
+Kearny County: 5
+Barren County: 9
+Chippewa: 6
+Grand Ledge: 1
+State Police: Menominee County: 15
+Chesaning: 1
+Three Rivers: 15
+Wadena County: 6
+Sunflower: 3
+Hampstead: 2
+Gallipolis: 8
+Stanfield: 2
+Fawn Township: 1
+Chippewa Township: 4
+State College: 20
+West Manheim Township: 4
+Bamberg: 16
+Los Fresnos: 1
+Brigham City: 12
+Issaquah: 8
+Chilton: 2
+Sturgeon Bay: 7
+Preston County: 16
+Florida A&M University: 2
+Grantville: 4
+Coralville: 13
+Neosho County: 4
+Centennial Lakes: 4
+Spring Park: 3
+Mcleod County: 5
+Ramsey County: 24
+Hinsdale: 9
+Chesilhurst: 7
+Mine Hill Township: 2
+Saugerties Town: 6
+Kings Long Island Railroad: 1
+West Rockhill Township: 1
+Bradford: 13
+Charles Mix County: 15
+Diboll: 12
+Utah County: 39
+Lineville: 3
+Hempstead County: 25
+BNSF Railway: Los Angeles County: 1
+California State University: Los Angeles: 2
+Silverthorne: 4
+Firestone: 5
+Hialeah Gardens: 15
+Taylorville: 5
+Caseyville: 1
+Mandeville: 17
+Middleboro: 12
+Androscoggin County: 7
+Brewer: 4
+Old Orchard Beach: 13
+State Police: Marquette County: 16
+Ishpeming Township: 1
+Walled Lake: 4
+Pagedale: 32
+Yazoo County: 3
+Brevard: 9
+Woodstown: 3
+Streetsboro: 3
+Blanco County: 16
+Concho County: 5
+Crane County: 5
+Cuero: 15
+Chase City: 12
+State Police: Chesapeake: 5
+Dillingham: 12
+Midfield: 34
+Rehoboth Beach: 2
+Macclenny: 7
+Indian Harbour Beach: 6
+Fort Meade: 8
+State Police: De Kalb County: 30
+Wyandotte County: 10
+Shirley: 5
+Crisfield: 7
+Kittery: 5
+Genesee Township: 48
+Napoleon Township: 3
+State Police: Mackinac County: 8
+State Police: Macomb County: 34
+Wilkin County: 2
+Ste. Genevieve: 6
+Prentiss County: 5
+Wilkesboro: 9
+Devils Lake: 9
+Dravosburg: 3
+Upper Chichester Township: 10
+Edinboro: 2
+West Manchester Township: 15
+Willacy County: 28
+Marana: 32
+Seminole Tribal: 23
+Carol Stream: 6
+Lacon: 2
+State Police: Owsley County: 18
+Hatfield: 3
+Westford: 4
+Bay Transist Authority: Suffolk County: 18
+Coloma Township: 5
+State Police: Gladwin County: 5
+Laurel Park: 2
+Woodlynne: 8
+Island Heights: 2
+Boulder City: 21
+Delhi Village: 1
+Sloatsburg Village: 1
+Hood River County: 13
+Warminster Township: 19
+Jenkintown: 6
+Upper Pottsgrove Township: 2
+Peters Township: 8
+West York: 7
+Providence County: 1
+Central Washington University: 2
+Richland Center: 2
+Oviedo: 24
+Statham: 1
+Ligonier: 6
+Sutton: 2
+State Police: Ingham County: 25
+Burleigh County: 16
+Teterboro: 1
+Hopatcong: 7
+Cleveland State University: 3
+Bokoshe: 1
+Broken Bow: 33
+Wagener: 2
+Kershaw: 6
+Mcgregor: 4
+Daggett County: 4
+Cedarburg: 2
+Pocahontas: 6
+University of California: Santa Cruz: 2
+Callaway: 4
+Locust Grove: 9
+Garner: 32
+Seymour: 26
+Sauk Centre: 1
+Pine Knoll Shores: 2
+St. Pauls: 9
+Mountainside: 2
+Ruidoso Downs: 2
+Los Alamos: 8
+Suffern Village: 6
+Hornell: 4
+Prague: 4
+Bradford Township: 3
+State Police: Potter County: 28
+Bartlett: 26
+Culberson County: 15
+Seward: 6
+Goodwater: 7
+Sumiton: 13
+Redington Beaches: 3
+Ringgold: 3
+Ketchum: 3
+River Forest: 5
+Mchenry: 3
+Cheverly: 10
+Pleasant Ridge: 2
+Cottage Grove: 15
+Bel-Ridge: 16
+Fort Plain Village: 2
+Queensbury Town: 1
+New Castle Town: 4
+Ottawa Hills: 1
+Sylvania Township: 11
+Latimer County: 27
+Lower Makefield Township: 4
+New Ellenton: 6
+Winooski: 5
+Wardensville: 2
+Westover: 6
+Kemmerer: 3
+Mills: 11
+Arvin: 55
+North Branford: 2
+Zolfo Springs: 6
+St. Augustine Beach: 2
+Whiteside County: 3
+Rock Falls: 2
+Barbourville: 3
+Acton: 4
+Gardner: 12
+Waterville: 17
+State Police: Barry County: 16
+Falcon Heights: 4
+Itta Bena: 3
+Mendenhall: 1
+Hope Mills: 25
+Grifton: 6
+East Hampton Village: 1
+State Police: Hamilton County (B): 2
+Erick: 2
+Tuttle: 4
+Wewoka: 20
+Fox Chapel: 1
+State Police: Allegheny County: 29
+North Smithfield: 3
+New Tazewell: 6
+Grainger County: 32
+Millington: 17
+Gregory: 4
+Harrisville: 4
+Opp: 8
+Greene County Police Department: 9
+Lumpkin: 4
+Nez Perce County: 12
+Rushville: 2
+Woodford County Police Department: 11
+Queen Anne's County: 20
+Mount Desert: 1
+Van Buren Township: 25
+Brandon: 10
+Manalapan Township: 12
+Raton: 12
+Old Westbury Village: 5
+Lyons Village: 4
+Arkoma: 4
+Tigard: 24
+Towanda: 4
+Wrightsville: 2
+Kyle: 21
+Wasatch County: 10
+Kittitas County: 18
+Kerman: 13
+Rangely: 5
+Daytona Beach Shores: 4
+Watseka: 4
+Cherry Valley: 3
+Muhlenberg County: 4
+Atlas Township: 5
+Swift County: 3
+Loch Arbour: 2
+Bethlehem Town: 7
+Oberlin: 10
+Jefferson Township: 13
+Franconia Township: 5
+Goliad County: 11
+El Lago: 1
+Boerne: 6
+Grand Saline: 4
+University of Wisconsin: Madison: 5
+Wauwatosa: 26
+Burlington Town: 3
+Williamson: 10
+Moffat County: 8
+Lauderdale-By-The-Sea: 6
+Orange City: 9
+Blackshear: 12
+Hometown: 1
+Rolling Meadows: 6
+Galva: 1
+Taylor Mill: 3
+Mundy Township: 9
+Forsyth Township: 6
+Huntington Woods: 2
+Fergus Falls: 11
+North St. Paul: 7
+Drew: 5
+Egg Harbor City: 14
+Closter: 4
+Evans Town: 3
+Wolcott Village: 1
+Martins Ferry: 2
+Dewey: 10
+Lehighton: 3
+Uwchlan Township: 14
+Folcroft: 4
+Walhalla: 7
+Landrum: 6
+Jim Hogg County: 4
+Kenedy County: 3
+Kotzebue: 15
+Naugatuck: 11
+Lewes: 1
+Ankeny: 16
+Woodridge: 3
+State Police: Posey County: 12
+State Police: Steuben County: 12
+Oldham County Police Department: 16
+State Police: Woodford County: 3
+Needham: 7
+State Police: Alger County: 11
+Hart: 4
+Brainerd: 8
+River Bend: 2
+River Vale Township: 1
+East Greenwich Township: 3
+Windham Town: 1
+Brockport Village: 7
+East Palestine: 4
+Heavener: 7
+Spiro: 5
+Winston: 8
+Milton-Freewater: 10
+Dormont: 7
+Braddock Hills: 1
+Dickson City: 4
+Limerick Township: 1
+Dallastown: 2
+Baylor County: 7
+Childress: 2
+Gatesville: 11
+Taylor Lake Village: 1
+Electra: 2
+Grand Coulee: 2
+Lander: 5
+Lake Village: 17
+Juno Beach: 2
+North Palm Beach: 5
+Port Wentworth: 14
+Norcross: 24
+Cornelia: 6
+Rossville: 3
+Mahaska County: 3
+Jerseyville: 4
+Gratiot: 12
+Otsego: 7
+Mower County: 12
+Lancaster Town: 6
+Wheatland Town: 1
+State Police: Warren County (G): 8
+Dewey County: 8
+Oologah: 2
+Indiana: 14
+Signal Mountain: 1
+South Fulton: 75
+Breckenridge: 13
+Omak: 7
+Pacific County: 19
+Pettis County: 13
+Willows: 7
+Jewell County: 2
+Fort Thomas: 4
+Southwest Harbor: 3
+Buxton: 2
+Dowagiac: 8
+Grand Blanc: 10
+Silver City: 27
+Ringling: 2
+Baldwin Borough: 15
+Mount Oliver: 15
+Fountain Hill: 6
+Port Allegany: 1
+Mckenzie: 10
+Goodlettsville: 20
+Cowan: 2
+Rollingwood: 1
+Round Rock: 45
+West Valley: 210
+State Police: Rappahannock County: 3
+Department of Natural Resources: Doddridge County: 1
+Department of Natural Resources: Gilmer County: 1
+Skagway: 1
+St. Marys: 15
+Cave Spring: 3
+Hickory Hills: 5
+Gurnee: 6
+Anna: 5
+Edinburgh: 2
+Bel Airport: 8
+Montmorency: 11
+Water Valley: 4
+Tinton Falls: 11
+Pine Beach: 1
+South Toms River: 3
+Elmira Town: 1
+Beggs: 6
+Forks Township: 3
+Conewango Township: 1
+Spring Garden Township: 13
+University of Texas: Houston: 1
+Lipscomb County: 3
+Parmer County: 7
+Canyon: 7
+Shamrock: 5
+Sunset: 7
+Oconto Falls: 2
+Clearlake: 67
+La Habra Heights: 11
+Desert Hot Springs: 120
+Rancho Cucamonga: 165
+Big Bear Lake: 30
+Guadalupe: 15
+Monte Sereno: 2
+Hacienda Village: 1
+Lakeside Park-Crestview: 1
+Hull: 7
+Hubbardston: 1
+University of Maryland:  College Park: 2
+Dellwood: 5
+Pondera County: 3
+Newton Grove: 2
+Buena: 4
+Vermilion: 7
+Harper County: 4
+Nowata: 5
+South Abington Township: 4
+Putnam State Police: 8
+Notasulga: 2
+Bear Creek: 2
+La Paz County: 39
+Ross: 1
+Victorville: 293
+Longwood: 21
+Hillside: 4
+Peoria Heights: 4
+Johnston City: 3
+Fairway: 4
+Bloomfield Hills: 1
+Kandiyohi County: 15
+New Prague: 1
+Montville Township: 12
+Little Egg Harbor Township: 9
+Cuba Town: 5
+Amsterdam: 17
+Manlius Town: 6
+Dunmore: 4
+Port Neches: 18
+Denver City: 5
+Town of Menasha: 8
+Rocky Ford: 6
+Blakely: 13
+Oskaloosa: 7
+Story County: 11
+Osburn: 4
+Tyngsboro: 2
+Dover-Foxcroft: 6
+Nobles County: 4
+Cape Carteret: 1
+Wanaque: 3
+Worthington: 13
+Beaver Township: 6
+Port Clinton: 6
+Woods County: 2
+Gettysburg: 7
+City View: 2
+Harriman: 18
+Marble Falls: 10
+Big Stone Gap: 11
+Elkins: 8
+Hoover: 66
+Rainbow City: 7
+Caribou County: 2
+Soda Springs: 3
+University of Illinois: Urbana: 3
+Arthur: 2
+Mckenzie County: 3
+Watervliet: 11
+Hastings-On-Hudson Villa: 2
+State Police: Seneca County (E): 10
+Watonga: 5
+Madras: 13
+North Londonderry Township: 3
+East Greenwich: 3
+Lake Dallas: 10
+King and Queen County: 10
+Alachua: 9
+Goddard: 2
+Havre De Grace: 14
+State Police: Oceana County: 10
+Chisago County: 17
+Garden City Village: 8
+Geary: 5
+Heath Springs: 2
+Hurricane: 7
+Pell City: 21
+Isleton: 4
+Hickman County: 31
+Collinston: 1
+Moniteau County: 5
+Itawamba County: 21
+Kings Point Village: 2
+Coalgate: 2
+Etna: 4
+Shamokin Dam: 2
+Cecil Township: 10
+Balcones Heights: 12
+Gun Barrel City: 9
+Tomahawk: 4
+Beloit Town: 8
+Coosada: 1
+St. Johns: 5
+Los Angeles State Police: 3
+Crisp County: 29
+Brazil: 9
+Wixom: 11
+Brownstown Township: 21
+Ellerbe: 1
+Ridgewood: 4
+Holland Township: 1
+Lebanon Township: 2
+Mountain Lakes: 4
+Phoenix Village: 1
+Troutdale: 9
+North Coventry Township: 4
+Waynesburg: 4
+Abernathy: 7
+Sedro Woolley: 11
+Twin Lakes: 7
+Pinedale: 1
+Elaine: 4
+Bond County: 6
+Carlyle: 1
+Wilmette: 3
+Morris: 13
+Nantucket: 3
+Canton Township: 27
+Pelahatchie: 3
+Esmeralda County: 3
+Eureka County: 3
+Depew Village: 5
+Blasdell Village: 1
+Great Neck Estates Villa: 2
+Goshen Township: 15
+Westerville: 17
+Sequatchie County: 17
+Paden City: 3
+Woodbridge: 5
+University of Illinois: Chicago: 1
+Horse Cave: 2
+Frostburg State University: 1
+State Police: Gratiot County: 6
+State Police: Montcalm County: 32
+Star: 5
+Hardyston Township: 2
+Piermont Village: 1
+Niskayuna Town: 6
+Philomath: 2
+Mount Holly Springs: 2
+Masontown: 5
+Throop: 4
+Tye: 1
+State Police: Norfolk: 14
+Kirkland: 27
+Holmen: 2
+Elm Grove: 3
+Firebaugh: 10
+Westlake Village: 5
+Moorpark: 19
+Gunnison: 4
+Creston: 6
+Lincolnwood: 5
+White Hall: 5
+Henry: 1
+Herrin: 8
+Harper: 1
+Frostburg: 6
+Farwell: 4
+Tittabawassee Township: 4
+University of Missouri: Columbia: 6
+Granite Falls: 12
+Holmdel Township: 7
+Mamaroneck Town: 3
+University of Texas: San Antonio: 2
+Brewster County: 8
+Winters: 9
+Bountiful: 21
+Sundance: 2
+Hanceville: 1
+East Brewton: 3
+Belleview: 9
+Vivian: 1
+Woodhaven: 10
+Andrew County: 15
+Collingswood: 11
+Ringwood: 8
+Clatsop County: 10
+Gearhart: 1
+Zerbe Township: 1
+Miner County: 6
+Gordonsville: 3
+Reedsburg: 6
+Summersville: 5
+East Bay Municipal Utility: 9
+Paso Robles: 38
+Cromwell: 3
+Buena Vista County: 2
+Reed City: 2
+Zeeland: 6
+Sumpter Township: 12
+Edina: 7
+Iuka: 2
+Burgaw: 7
+Pembina County: 7
+Hopkinton: 7
+Lake Success Village: 3
+State Police: Montgomery County (G): 10
+Bay Village: 4
+Golf Manor: 2
+East Pikeland Township: 1
+Rich County: 1
+Mount Hope: 5
+Pleasants State Police: 4
+Arab: 14
+Lithonia: 5
+Dougherty County: 1
+Montezuma: 13
+Byron: 7
+Thomaston: 25
+Eldridge: 2
+Glenview: 7
+Lincolnshire: 1
+Rush County: 4
+State Police: Huron County: 7
+Southport: 7
+Boiling Springs: 2
+Butner: 13
+Galloway Township: 32
+Glen Rock: 1
+Brooklawn: 6
+Merchantville: 3
+High Bridge: 3
+Manasquan: 3
+Boonton: 3
+Solon: 4
+Perkins Township: 7
+Hominy: 3
+Forward Township: 5
+Westfall Township: 3
+Port Royal: 9
+Soddy-Daisy: 13
+Stephenville: 10
+State Police: Halifax County: 10
+Nicholas County: 17
+Adairsville: 8
+Thunderbolt: 6
+Kennesaw: 10
+Wabaunsee County: 4
+London: 14
+Bay St. Louis: 28
+Swanzey: 1
+Tuckerton: 5
+Acoma Tribal: 2
+Bethlehem Township: 8
+Mauldin: 16
+Ashland City: 4
+Needville: 4
+Spearman: 3
+Brigham Young University: 1
+Fort Morgan: 14
+Gas City: 9
+Wamego: 1
+Munising: 2
+Grandville: 14
+Ord: 1
+Morris Township: 7
+Berkeley Township: 12
+Liverpool Village: 2
+Minerva: 2
+Cheswick: 1
+Palmer Township: 12
+Washougal: 13
+Stanley: 2
+Machesney Park: 10
+Amador County: 36
+Del Norte: 1
+Oldsmar: 19
+Matteson: 7
+Garrett: 2
+Isanti County: 10
+Mount Gilead: 6
+The Village: 14
+Minersville: 2
+Seagoville: 29
+Houston Metro Transit A: 1
+Appalachia: 3
+Lummi Tribal: 5
+Sun Prairie: 7
+Kaukauna: 11
+Moody: 21
+Port St. Lucie: 99
+Sycamore: 3
+Red Bud: 1
+Harwich: 5
+State Police: Wexford County: 16
+Big Stone County: 1
+Collins: 7
+Wahoo: 2
+Wake Forest: 15
+South Belmar: 1
+Raritan: 4
+Clyde: 6
+Lake Township: 5
+Muldrow: 5
+Lower Burrell: 7
+Albemarle County Police Department: 85
+Thermopolis: 7
+Aliceville: 5
+Rio Dell: 5
+Gustine: 9
+Tattnall County: 25
+State Police: Hickman County: 5
+Caseville: 1
+Clay Township: 6
+Shoreview: 7
+Morris Plains: 2
+Gowanda Village: 3
+Herkimer Village: 1
+Northport Village: 3
+Plattekill Town: 1
+Easttown Township: 1
+Moosic: 3
+Lenoir City: 10
+Edgerton: 3
+Lake Havasu City: 71
+Colfax: 2
+Jacksonville Airport Authority: 3
+Morrow: 12
+Coulterville: 1
+Elwood: 8
+Elmwood Place: 4
+Bethany: 32
+East Rockhill Township: 2
+Sevierville: 18
+Poteet: 16
+Stinnett: 2
+Jacksboro: 6
+Forks: 6
+Battle Ground: 13
+Moulton: 3
+Dyersville: 1
+Homedale: 3
+University of Kentucky: 2
+Belchertown: 2
+State Police: Plymouth County: 2
+Kennett: 32
+Hernando: 7
+Spotswood: 1
+Hazlet Township: 5
+East Hampton Town: 4
+Fort Edward Village: 6
+Wallowa County: 4
+Cranberry Township: 12
+Upper Mount Bethel Township: 2
+Ridge Spring: 8
+State Police: Louisa County: 13
+Lamoille County: 4
+Trumann: 22
+Rio Vista: 4
+Rutland: 23
+Kenyon: 2
+Kernersville: 14
+Johnson City Village: 18
+Huntland: 1
+James City County Police Department: 66
+Bennington: 12
+Camp Hill: 15
+Blountstown: 6
+Maquoketa: 2
+Lemont: 3
+Indiana University: Bloomington: 3
+Greenup County: 5
+International Falls: 2
+Valley Park: 3
+Spring Hope: 6
+North College Hill: 13
+Mogadore: 1
+Stayton: 4
+Red Lion: 1
+Quanah: 2
+Roma: 28
+East Wenatchee: 7
+Mannington: 3
+University of Colorado: Boulder: 4
+Georgia Institute of Technology: 3
+Hingham: 4
+Champlin: 4
+Divide County: 1
+Stafford Township: 9
+Stony Point Town: 9
+Carey: 3
+Lacey: 30
+Aspen: 5
+Hayden: 1
+Heyburn: 3
+Dighton: 1
+Dedham: 8
+Hibbing: 12
+Davidson: 3
+Sea Bright: 1
+Mendham Township: 1
+Stroud: 4
+Wilkins Township: 7
+Middlesex Township: 4
+Kinney County: 5
+Colville Tribal: 8
+Department of Natural Resources: Pleasants County: 2
+Snead: 1
+Priceville: 7
+Belvedere: 1
+University California Medical Center, Sacrament: 1
+University of California: Davis: 4
+Chaffee County: 6
+Pooler: 15
+Tybee Island: 2
+Indian Head Park: 2
+Lynnfield: 6
+Port Austin: 2
+State Police: Ottawa County: 10
+Crookston: 7
+Andover Township: 2
+Jemez Springs: 2
+Pierce Township: 7
+Sylvania: 13
+Pocono Township: 6
+La Follette: 12
+Waller: 9
+State Police: Alleghany County: 5
+Wickenburg: 6
+Red Oak: 17
+Morton Grove: 3
+Herington: 1
+Gove County: 3
+Rawlins County: 1
+South Lake Minnetonka: 9
+Robbinsdale: 20
+Bruce: 2
+Bozeman: 21
+Oak Island: 14
+Upper Sandusky: 6
+Pawhuska: 6
+Converse: 23
+Rose City: 1
+State Police: Chesterfield County: 5
+Algona: 3
+Waupaca: 2
+Richmond County Police Department: 3
+Harwood Heights: 3
+Roeland Park: 3
+Ozark County: 36
+Coats: 3
+Carlin: 8
+Windber: 2
+Pantego: 2
+State Police: Huntington County: 5
+Attleboro: 13
+Dracut: 4
+Wells: 7
+North Carolina Highway Patrol: 3
+North Castle Town: 2
+Gahanna: 16
+Noble: 4
+Bethel Township: 4
+Hooks: 9
+Southlake: 8
+State Police: Prince George County: 6
+Mukilteo: 9
+Platteville: 6
+Indian Rocks Beach: 9
+Baxley: 16
+Treutlen County: 10
+Kittson County: 6
+East Syracuse Village: 2
+Clatskanie: 2
+Real County: 12
+South Burlington: 8
+Lovell: 4
+Luverne: 5
+Cathedral City: 129
+Ignacio: 3
+Berthoud: 1
+O'Fallon: 40
+Nemaha County: 4
+Peterborough: 5
+East Rutherford: 8
+East Windsor Township: 12
+Edcouch: 4
+Hughson: 6
+Coldwater: 13
+Keego Harbor: 4
+Como: 3
+State Patrol: Scotts Bluff Cty: 1
+Elkin: 6
+Walsh County: 7
+Totowa: 7
+Oxford Township: 6
+Springer: 1
+Robinson Township: 7
+Hempstead: 18
+Wisconsin Rapids: 10
+Lipscomb: 10
+University of S Florida: Tampa: 3
+North Redington Beach: 1
+Butts County: 29
+University of Iowa: 1
+O'Brien County: 3
+West Dundee: 3
+Tonganoxie: 1
+Ontonagon: 4
+East Bethel: 2
+New Madrid County: 25
+Richardson County: 8
+Landis: 5
+Old Tappan: 2
+Westville: 10
+Yerington: 3
+Wellsville Village: 4
+St. Lawrence County: 4
+Woodsfield: 3
+Hulbert: 1
+State Police: Curry County: 2
+Cumberland Township: 10
+Mount Joy: 3
+Wapato: 13
+Diamondville: 3
+Brush: 2
+Lake Mary: 9
+Albia: 1
+Ames: 25
+Hartford City: 5
+New Whiteland: 2
+Holden: 7
+Harbor Beach: 1
+Grass Lake: 1
+State Police: Burlington County: 42
+Kenmore Village: 7
+New Lebanon: 2
+Mangum: 6
+Murrysville: 5
+Hardeeville: 26
+Mont Belvieu: 4
+Teague: 6
+Shoshoni: 1
+Siloam Springs: 16
+Grayslake: 3
+East Jordan: 1
+Winfall: 2
+Edgewater Park Township: 9
+Frenchtown: 2
+Cibola County: 9
+Cayuga County: 16
+Upper St. Clair Township: 4
+Ridgway: 8
+Freemansburg: 2
+Essex: 8
+Ashwaubenon: 8
+Brantley: 2
+Auburn University: Main Campus: 2
+Prescott Valley: 34
+Las Animas: 4
+Dacono: 2
+Royal Palm Beach: 16
+Leslie County: 2
+Foxborough: 8
+Washburn: 4
+Allenstown: 2
+Saltaire Village: 1
+State Police: Lewis County (D): 1
+Heppner: 3
+Terra Alta: 1
+Jacksonville State University: 2
+Thayer County: 3
+Ohio State University: 4
+Grove: 5
+Coplay: 1
+North Strabane Township: 5
+West Hollywood: 85
+Elsmere: 12
+Loganville: 5
+Le Mars: 8
+Westchester: 4
+Garnett: 3
+Morningside: 1
+Richfield Township: 9
+State Police: Schoolcraft County: 12
+Cherry County: 5
+Griggs County: 2
+Chatham Township: 6
+Homer Village: 3
+Oakwood Village: 2
+Antlers: 7
+Molalla: 5
+Jim Thorpe: 2
+Eddystone: 2
+Dallas Township: 5
+Manvel: 8
+State Police: Nottoway County: 9
+State Police: Roanoke County: 3
+Barre: 7
+East Palo Alto: 310
+Merrionette Park: 2
+Medfield: 4
+Thomas Township: 6
+State Police: Sanilac County: 6
+West Cape May: 1
+Estancia: 1
+Orchard Park Town: 5
+Walden Village: 2
+Keizer: 24
+Dresden: 2
+Wake Village: 11
+Keller: 14
+Ocilla: 19
+Porterdale: 1
+Soperton: 3
+Vernon Hills: 3
+Nahant: 1
+Bunn: 2
+North Plainfield: 12
+Sparta Township: 8
+Floral Park Village: 4
+Bryn Athyn: 1
+Gleason: 3
+Gulf Shores: 12
+Dunsmuir: 5
+Broomfield: 35
+Frisco: 32
+Temple Terrace: 23
+Hilltonia: 1
+Dawson Springs: 1
+Nelson County Police Department: 8
+Dakota County: 12
+Excelsior Springs: 8
+Shallotte: 3
+Waxhaw: 3
+Belmar: 2
+Taos Pueblo Tribal: 1
+Sidney Village: 1
+Woodlawn: 8
+Lehigh University: 4
+Grantsville: 17
+Connell: 6
+Elma: 5
+Heath: 5
+Fruita: 6
+Canon: 2
+Olympia Fields: 2
+Russell: 6
+Church Point: 10
+Muskegon Township: 19
+Ballwin: 6
+State Patrol: Cass County: 1
+Robersonville: 12
+Major County: 5
+Avoca: 1
+Smithers: 2
+Cokeville: 1
+Blountsville: 3
+Mena: 10
+Bullhead City: 89
+Tyrone: 3
+Windsor Heights: 3
+Channahon: 2
+Hadley: 4
+Renville County: 6
+Mullica Township: 11
+Cortland: 11
+Hamburg Village: 1
+Shadyside: 1
+Millersburg: 1
+Punxsutawney: 7
+Frankston: 3
+Donley County: 7
+State Police: Appomattox County: 2
+Creola: 4
+Guntersville: 30
+Department of Parks and Recreation: San Joaquin: 1
+Maricopa: 14
+Colma: 4
+Crowley County: 4
+Edison: 5
+Storm Lake: 11
+Paola: 3
+State Police: Kenton County: 1
+Marlborough: 6
+Chisholm: 4
+Waite Park: 3
+Matthews: 34
+Owego Village: 3
+Chouteau: 5
+Gervais: 2
+Central Berks Regional: 9
+Nanticoke: 9
+Estill Springs: 1
+Floresville: 6
+Department of Parks and Recreation: San Francisco: 2
+Baxter Springs: 4
+Earlington: 1
+Norvell Township: 2
+Ishpeming: 6
+Spring Lake-Ferrysburg: 1
+State Police: Atlantic County: 14
+Maplewood Township: 20
+Trotwood: 53
+Tillamook: 5
+Tazewell: 10
+Whitesboro: 2
+Hico: 1
+Hallettsville: 5
+Cosmopolis: 1
+Pleasants County: 2
+Silverhill: 1
+Southside: 4
+University of West Georgia: 1
+Metro Atlanta Rapid Transit Authority: 24
+State Police: Parke County: 3
+Crescent Springs: 2
+Transportation Authority: 5
+Argentine Township: 1
+Festus: 12
+St. Peters: 21
+Runnemede: 6
+State Police: Cape May County: 9
+Kinnelon: 3
+Questa: 2
+Sheffield Lake: 6
+Porter: 2
+Sul Ross State University: 2
+Bristol Bay Borough: 5
+Dekalb County: 1
+Royston: 3
+Trail Creek: 5
+State Police: Carlisle County: 1
+Medway: 4
+Mankato: 24
+Englewood Cliffs: 1
+Gibbsboro: 1
+Palisades I S Parkway: 1
+Hurley: 4
+Montpelier: 7
+Cowanshannock Township: 1
+Vermillion: 4
+Deforest: 7
+White Sulphur Springs: 3
+Taliaferro County: 7
+Woodson County: 4
+Livermore Falls: 1
+Bar Harbor: 2
+Hampden: 9
+Tilton: 1
+Lock Haven: 5
+Lower Salford Township: 5
+Irmo: 8
+Ferris: 13
+Sultan: 2
+Grand Terrace: 11
+Kingsland: 21
+Stone Mountain: 12
+Hartsfield International Airport: 4
+Camanche: 3
+Gaylord: 4
+Sullivan: 7
+Potosi: 6
+Papillion: 9
+North Hampton: 3
+Jamesburg: 6
+South Bound Brook: 3
+Oswego City: 4
+Walton Hills: 1
+Umatilla Tribal: 3
+Beaver: 2
+Gray Court: 1
+Elsa: 11
+Virginia Commonwealth University: 4
+Philippi: 2
+Nutter Fort: 2
+Orinda: 13
+Auraria Higher Education Center: 3
+Rincon: 3
+Hart County: 21
+Belvidere: 8
+Eupora: 4
+State Patrol: Blaine County: 2
+State Patrol: Burt County: 1
+Emerald Isle: 3
+Sands Point Village: 4
+Malin: 1
+Ben Avon: 2
+Newport Township: 5
+Pymatuning Township: 2
+Dilley: 5
+Ore City: 1
+Shawneetown: 1
+Flemington: 1
+Chardon: 8
+Pocola: 11
+Mahoning Township: 5
+Glocester: 7
+Forney: 7
+Union Gap: 20
+Scotts Valley: 3
+Country Club Hills: 16
+Worth: 4
+Jessamine County: 7
+Steele County: 8
+Langdon: 1
+Voorhees Township: 13
+Green Tree: 3
+Chalfont: 1
+Swanton: 5
+Menominee Tribal: 12
+Mukwonago: 6
+University of California: Santa Barbara: 1
+Ray City: 2
+Early County: 10
+Morrison: 4
+State Police: Decatur County: 16
+Granite: 5
+Exmore: 7
+Black River Falls: 3
+Eureka Springs: 8
+Eagar: 7
+Seminole Indian Police Department: 1
+Corbin: 13
+State Police: Cheboygan County: 2
+State Police: Emmet County: 2
+Wyandot County: 6
+Jersey Village: 7
+Stephenson County: 8
+West Bridgewater: 2
+Randleman: 6
+Northeastern Regional: 6
+Elloree: 3
+Central Virginia Training Center: 1
+Winlock: 3
+Suffield: 7
+Belle Plaine: 5
+Posen: 4
+Slater: 4
+Hyde Park Town: 6
+Bayou Vista: 3
+Fries: 1
+National Capital Park Police: Prince George's Coun: 66
+Wicomico County: 37
+Hilltop: 1
+Ralston: 4
+Rockaway: 2
+North Greenbush Town: 3
+Blanchester: 2
+Nocona: 6
+Okaloosa County Airport Terminal: 1
+Neptune City: 6
+Kidder Township: 1
+Orange Grove: 1
+St. Johnsbury: 2
+Normandy Park: 2
+Wrangell: 6
+Department of Parks and Recreation: Oceano Dunes: 3
+Wrens: 5
+Naperville: 12
+Mcpherson: 7
+Freehold Township: 6
+Glenpool: 12
+Spearfish: 4
+Kewaunee: 2
+Department of Natural Resources: Hardy County: 3
+Department of Natural Resources: Lincoln County: 3
+Department of Natural Resources: Roane County: 1
+Weaver: 10
+Paradise: 14
+Carterville: 2
+Jasonville: 1
+Chanute: 3
+Houlton: 5
+Mountrail County: 8
+Merrimack County: 1
+Fairview Park: 2
+Stilwell: 10
+State Police: Polk County: 7
+Woodruff: 10
+Tucker County: 4
+Comer: 1
+Willow Springs: 4
+Carrollton Township: 8
+Cooleemee: 2
+Wapakoneta: 2
+Mcconnelsville: 2
+Valliant: 5
+Sutherlin: 5
+Norris: 2
+Tahoka: 2
+Bellows Falls: 4
+Selah: 3
+Mauston: 2
+Pennsboro: 1
+Wynne: 25
+Tishomingo County: 18
+Broadwater County: 7
+Camden Village: 1
+Arcade Village: 1
+Spanish Fork: 18
+Peshtigo: 4
+Heber Springs: 8
+West Sacramento: 92
+Routt County: 8
+Putnam: 2
+Carlinville: 1
+Grayling: 1
+Endicott Village: 12
+Rye Brook Village: 3
+Bristow: 11
+Colebrookdale District: 1
+Homer City: 1
+Yankton: 13
+Bradbury: 3
+Fairburn: 25
+Sun Valley: 1
+Lake Indiana The Hills: 5
+State Police: Switzerland County: 3
+Marblehead: 2
+Reynolds County: 18
+Bloomsbury: 1
+Hartshorne: 3
+Windsor Township: 1
+Minturn: 1
+Glendale Heights: 10
+La Salle: 4
+Negaunee: 1
+Roosevelt Park: 4
+Haworth: 1
+North Syracuse Village: 2
+Delhi Township: 10
+Vandergrift: 4
+Lakeway: 2
+Duchesne County: 24
+Calera: 16
+Chino Valley: 15
+Winnetka: 3
+Mattapoisett: 2
+Taney County: 28
+Peapack and Gladstone: 1
+New Providence: 2
+Swatara Township: 31
+Macungie: 1
+Varnville: 3
+Bonham: 12
+State Police: Lexington: 2
+Mammoth: 4
+Solvang: 4
+National Capital Park Police: Montgomery County: 8
+Reedsport: 4
+South Coatesville: 2
+State Park Patrol: Presque Isle: 1
+Etowah: 5
+Poulsbo: 4
+Twentynine Palms: 35
+Long County: 23
+Dartmouth: 10
+State Police: Iosco County: 13
+Riverview: 23
+Velda Village Hills: 1
+East Greenbush Town: 5
+Olton: 2
+Ansted: 1
+Hampshire County: 8
+Snowflake-Taylor: 12
+Marseilles: 6
+Schererville: 8
+Cool Valley: 5
+Archdale: 17
+Gibson: 1
+Rio Rancho: 42
+Malone Village: 5
+University of Central Oklahoma: 1
+Pawnee: 4
+University of Tennessee: Knoxville: 4
+University of Virginia: 4
+Mountlake Terrace: 12
+Monongalia County: 11
+Costilla County: 2
+Medical College of Georgia: 1
+Alger: 2
+State Police: Tuscola County: 18
+Sodus Village: 1
+Rye Township: 1
+County Detectives: Westmoreland: 12
+Camp Verde: 8
+Gray: 3
+Glen Carbon: 2
+Lagrange County: 8
+Scottsburg: 1
+Kasson: 2
+Ackerman: 4
+Neshoba County: 3
+Upper Saddle River: 2
+Sussex: 1
+Port Jervis: 11
+Fort Shawnee: 3
+Twinsburg: 12
+Greenfield Township: 3
+Marlborough Township: 2
+Edmunds County: 9
+Pearsall: 18
+Gunnison County: 4
+Nappanee: 8
+North Andover: 7
+Sudbury: 2
+Glenarden: 13
+State Patrol: Seward County: 2
+Colwyn: 7
+Crystal Beach: 1
+Appanoose County: 8
+Atlantic: 1
+Mahomet: 2
+Pana: 1
+Iola: 8
+Oakley: 22
+Garden County: 1
+Lillington: 3
+Woodbury Heights: 3
+Florham Park: 5
+Independent School District: Klein: 1
+Department of Natural Resources: Nicholas County: 2
+Santa Clarita: 104
+Estes Park: 1
+Acworth: 14
+Habersham County: 17
+Ellaville: 4
+North Vernon: 9
+Concordia: 2
+Kaplan: 5
+Flat Rock: 6
+Wilber: 1
+Canandaigua: 6
+Larchmont Village: 4
+Pflugerville: 20
+Virginia State Capitol: 3
+Department of Natural Resources: Putnam County: 1
+Mission Viejo: 31
+Dana Point: 20
+Hesperia: 141
+Manassa: 1
+Branson: 18
+Flowood: 3
+Whitefish: 4
+Battleboro: 2
+Veneta: 11
+North Fayette Township: 2
+Munhall: 9
+Roaring Spring: 1
+Larksville: 1
+Highland Village: 4
+Lenox: 1
+State Police: Bracken County: 1
+West Liberty: 2
+Scarborough: 7
+Orchard Lake: 1
+Arden Hills: 3
+Fair Bluff: 3
+King: 6
+Bellbrook: 2
+Wilkes-Barre Township: 5
+Apple Valley: 133
+Peru: 2
+Maryland Heights: 35
+Rush Springs: 3
+New Bethlehem: 1
+Wallis: 3
+Fife: 13
+Brooklet: 3
+Chattahoochee County: 7
+Danvers: 10
+Carrabassett Valley: 1
+Grain Valley: 4
+Pompton Lakes: 8
+Alpha: 1
+Tarrytown Village: 9
+Eastchester Town: 7
+Pauls Valley: 8
+Rockaway Beach: 1
+Munday: 1
+Hemphill: 2
+Tyler State Police: 1
+Agoura Hills: 10
+Cooper County: 6
+Putnam Valley Town: 2
+West Pottsgrove Township: 6
+Harding County: 2
+Powell: 4
+Echols County: 5
+State Police: Wabash County: 7
+State Police: St. Clair County: 14
+Sweet Home: 6
+Leechburg: 2
+Westerly: 11
+Belle Fourche: 2
+Slocomb: 2
+Homerville: 7
+Gardiner: 5
+Hubbard County: 8
+Moline Acres: 10
+Merrick County: 5
+Stowe Township: 15
+Piute County: 1
+Lynden: 6
+Baggs: 1
+Youngtown: 5
+Loma Linda: 27
+Department of Parks and Recreation: Gaviota: 1
+Webster City: 3
+Kinder: 2
+Hertford: 12
+Port Vue: 3
+Orland: 9
+Mount Zion: 2
+Mechanic Falls: 1
+Chesterfield Township: 14
+Spaulding Township: 1
+Bonne Terre: 5
+Walbridge: 2
+New Shoreham: 1
+Hurtsboro: 1
+Chariton: 2
+Uxbridge: 2
+Wildwood Crest: 2
+Bound Brook: 7
+Corrales: 3
+Oliver Springs: 4
+Swainsboro: 24
+Fisher: 2
+Chaska: 8
+State Patrol: Otoe County: 5
+Kenilworth: 3
+Motley County: 4
+Mullens: 1
+Laguna Niguel: 30
+Norco: 28
+Log Lane Village: 1
+State Police: Grand Traverse County: 8
+Wolverine Lake: 1
+Spring Lake Heights: 1
+Granville: 1
+State Police: Cameron County: 5
+Friendswood: 21
+Chincoteague: 6
+Grottoes: 3
+New Lisbon: 2
+Greenbrier: 7
+Diamond Bar: 42
+Eastman: 8
+De Pue: 1
+Royalton: 1
+Traverse County: 1
+Dare County: 22
+Long Beach Township: 1
+Burleson: 21
+Cape Charles: 2
+Des Arc: 3
+Spirit Lake: 2
+Neodesha: 5
+Msp Statewide: 17
+Hamilton Village: 1
+Waverly Village: 1
+Valley View: 2
+Mcmullen County: 2
+Winhall: 2
+Donalsonville: 9
+Goodland: 3
+East Fishkill Town: 7
+New Hanover Township: 2
+Refugio County: 6
+Department of Natural Resources: Harrison County: 1
+Department of Natural Resources: Kanawha County: 1
+Northfork: 1
+Bartonville: 1
+Vine Grove: 1
+Goffstown: 7
+State Police: Hudson County: 4
+St. Marys City: 9
+Glasscock County: 2
+State Police: Wythe County: 6
+Whitefish Bay: 3
+Palm Desert: 49
+Hephzibah: 1
+Wiscasset: 3
+State Police: Gogebic County: 7
+University of North Carolina: Chapel Hill: 4
+Westchester County Conrail: 1
+Madill: 7
+South Park Township: 1
+State Police: Clarke County: 6
+Saltville: 4
+Ritzville: 3
+Cottonwood: 10
+Moreno Valley: 367
+Crested Butte: 1
+Riverdale Park: 11
+Lathrup Village: 5
+Gothenburg: 4
+State Patrol: Gage County: 1
+Altamont Village: 1
+Vestal Town: 4
+University of Oklahoma: Norman: 1
+Hummelstown: 1
+Department of Parks and Recreation: Orange Coast: 1
+Rocklin: 12
+San Miguel County: 3
+Cave City: 1
+Eaton Rapids: 2
+Plattsmouth: 4
+Harding Township: 3
+Blooming Grove Town: 3
+Patton Township: 2
+Loretto: 3
+Star City: 7
+Twiggs County: 12
+Bethalto: 5
+Wayland: 3
+Elk River: 4
+State Patrol: Butler County: 3
+Lowville Village: 3
+Woodbury Town: 3
+Parks Township: 1
+Lock Haven University: 1
+Duryea: 2
+Dallam County: 4
+Groesbeck: 3
+North Ogden: 5
+Bonney Lake: 7
+Rifle: 7
+Pearson: 8
+Greeley County: 1
+Imlay City: 2
+Furnas County: 3
+State Patrol: Washington County: 1
+Lakemore: 4
+Houtzdale: 1
+Oyster Creek: 4
+Sour Lake: 1
+Roanoke County Police Department: 52
+New Holstein: 1
+Saukville: 1
+California State University: Northridge: 1
+Delaware Township: 3
+Soldotna: 4
+Department of Parks and Recreation: Colorado: 1
+Wallace: 22
+Moore Township: 4
+Perkins County: 2
+Park Falls: 2
+Luthersville: 3
+Sauget: 4
+Hickory County: 4
+Robbinsville: 1
+Charleston County: 242
+Mount Juliet: 9
+State Police: Dinwiddie County: 6
+Hidden Hills: 1
+Purdue University: 8
+Gogebic: 5
+Charlack: 4
+State Police: Hunterdon County: 10
+Pennsville Township: 5
+Gold Beach: 1
+Kennedy Township: 7
+Ferguson Township: 5
+West Whiteland Township: 7
+Freer: 3
+State Police: Virginia Beach: 7
+Barre Town: 4
+Rancho Mirage: 12
+Mount Shasta: 6
+Neoga: 1
+Round Lake: 1
+Ellsworth: 5
+Brooklyn/Columbia: 3
+Long Hill Township: 2
+Schertz: 17
+Cle Elum: 2
+Mayville: 3
+Rainelle: 2
+Pinetop-Lakeside: 6
+Lake Elsinore: 93
+Sardis: 1
+Corunna: 2
+Elmore City: 1
+Parkside: 5
+Berryville: 7
+Department of Natural Resources: Summers County: 2
+Yucaipa: 50
+Davisboro: 3
+White Cloud: 2
+De Soto: 10
+Boiling Spring Lakes: 3
+Huntersville: 26
+Armstrong County: 2
+Van: 4
+State Police: Page County: 10
+Colorado State Patrol: 7
+L'Anse: 1
+Leelanau: 4
+Maple Grove: 23
+Stonewall: 1
+Point Pleasant Beach: 3
+Bazetta Township: 1
+Coopersburg: 2
+Fairview Developmental Center: 2
+Boxborough: 1
+Sebewaing: 3
+Caspian: 1
+Forrest County: 11
+Kearney County: 1
+Tenafly: 4
+State Police: Salem County: 18
+Westtown-East Goshen Township: 5
+Quinlan: 1
+Oak Ridge North: 2
+Stockton Unified School District: 1
+Norton County: 2
+Kitty Hawk: 3
+Spring Township: 14
+Moody County: 2
+Prairie View A&M University: 2
+Lonoke: 7
+Iron: 5
+Polson: 2
+Bogota: 6
+Fredonia Village: 3
+Chester Village: 4
+Whitehall Village: 1
+State Park: Bronx County: 1
+State Police: 458
+Lockney: 1
+Pleasant View: 4
+Evergreen: 15
+Harlem: 2
+Round Lake Park: 1
+Little Falls: 8
+Tonkawa: 3
+Coquille: 4
+Shippensburg: 4
+Whitehouse: 7
+Holtville: 5
+Moultrie County: 1
+District Heights: 21
+Kenly: 4
+Zebulon: 6
+Haddonfield: 2
+Fishkill Town: 2
+Montoursville: 3
+Wellford: 4
+State Police: Henrico County: 7
+University of Arkansas: Pine Bluff: 1
+Santa Clara State Police: 1
+Boyle County: 1
+State Police: Alpena County: 22
+Lavallette: 2
+Kent State University: 1
+Ceredo: 2
+Malibu: 15
+Staples: 2
+Belgrade: 5
+Beulaville: 3
+State Police: Monmouth County: 6
+University of Toledo: 2
+Davison County: 1
+Seadrift: 1
+State Police: Buckingham County: 7
+Mazomanie: 1
+Palisade: 4
+Jefferson Highway Patrol: 1
+Capitol Heights: 12
+Zilwaukee: 2
+Marine City: 5
+Milltown: 3
+Rochester Township: 2
+Brier: 2
+Blackford County: 4
+Colwich: 1
+Mulvane: 3
+Kirtland Hills: 1
+Turtle Township: 1
+Jenkins County: 2
+Pinckneyville: 1
+Ball State University: 1
+Huntington County: 6
+Clay Center: 1
+Okolona: 2
+Oxford Village: 1
+Upper Perkiomen: 4
+Lehigh Township: 5
+Tamaqua: 4
+Briscoe County: 3
+Earth: 2
+Lumber City: 3
+West Burlington: 4
+St. Maries: 2
+Moscow: 20
+University of Michigan: Ann Arbor: 3
+Forest Lake: 4
+Garysburg: 2
+University of New Mexico: 4
+State Police: Hope Valley: 11
+Federal Way: 157
+Laguna Hills: 8
+Yucca Valley: 40
+Broward Highway Patrol: 1
+Kansas Bur of Investigation: 29
+Orleans: 2
+State Police: Dukes County: 1
+Dobson: 2
+Cazenovia Village: 2
+Weatherly: 3
+North Cornwall Township: 1
+East Washington: 1
+Idalou: 1
+Seatac: 60
+Lilburn: 16
+Guthrie County: 3
+Cherryvale: 4
+Sunset Hills: 6
+Vanceboro: 1
+Wingate: 4
+Waterloo Village: 3
+Harmony Township: 3
+Ebensburg: 1
+Selinsgrove: 6
+Ballinger: 5
+Lindale: 1
+Marlinton: 1
+Florida International University: 4
+New Baden: 1
+Daniels County: 1
+Sea Girt: 1
+Lower Yoder Township: 1
+Troup: 2
+Lake Shastina: 1
+State Police: Blackford County: 2
+Bailey: 2
+Maxton: 24
+Upper Makefield Township: 5
+St. Clair Boro: 2
+South Congaree: 3
+Bon Homme County: 4
+Santa Anna: 1
+Dumfries: 5
+Sumner: 8
+Duke University: 1
+Hubbard: 5
+Glade Spring: 2
+Rothschild: 5
+Sulligent: 1
+Brundidge: 6
+University of California: Irvine: 3
+Chino Hills: 33
+Archer: 1
+Grayson: 3
+Fort Wright: 3
+Great Barrington: 4
+Waldwick: 4
+Honea Path: 8
+Johnsonville: 4
+Pickens: 8
+Welch: 1
+Centre: 4
+University of West Florida: 1
+Winneshiek County: 3
+Red Lake County: 1
+Baldwyn: 2
+Baldwinsville Village: 1
+Wallkill Town: 4
+Souderton: 6
+Llano: 1
+Larue County: 2
+Silver Bay: 1
+Gentry County: 1
+Hi-Nella: 1
+Amityville Village: 8
+SUNY  A&T Col: Farmingdale: 2
+Bainbridge Island: 3
+Mcmechen: 2
+Bullitt County: 20
+Rockcastle County: 4
+Rotterdam Town: 9
+Panhandle: 2
+State Police: Prince William County: 1
+Pennington: 2
+Temecula: 41
+State Police: Kalkaska County: 4
+Luce: 1
+Dawes County: 1
+Taylorsville: 8
+Fayetteville State University: 2
+Clintwood: 3
+Snowmass Village: 2
+Benson County: 3
+Waukomis: 3
+Oakridge: 3
+Lake Mills: 2
+Department of Natural Resources: Mercer County: 1
+Delbarton: 1
+Murrieta: 28
+Greenwood Village: 4
+West Hennepin: 1
+Hitchcock County: 4
+Traill County: 2
+Follansbee: 2
+Orange Beach: 5
+Midland City: 4
+Sedona: 3
+Pepperell: 1
+Gosper County: 1
+State Police: Bergen County: 9
+Collegedale: 2
+Spring Hill: 15
+La Conner: 1
+Half Moon Bay: 4
+Gooding: 3
+Pierce: 1
+Broadway: 1
+Otsego County: 11
+Seneca Falls Village: 2
+Dryden Village: 2
+Lower Pottsgrove Township: 6
+Tunkhannock: 3
+Keyser: 5
+Ritchie County: 7
+Volusia County Beach Management: 1
+Mariemont: 2
+Bertram: 1
+Kemah: 4
+Pleasant Prairie: 8
+Millis: 1
+Two Harbors: 3
+Ladue: 4
+Pine Level: 1
+New Paltz Town & Village: 5
+Pennington Gap: 3
+Department of Natural Resources: Raleigh County: 1
+Calabasas: 10
+Flagler Beach: 4
+Watkinsville: 2
+Iowa Falls: 2
+Ludington: 3
+Hoosick Falls Village: 5
+Fleetwood: 1
+Southern Regional York C: 6
+Rosebud: 3
+University of Alaska:  Fairbanks: 2
+Plymouth County: 9
+Wellfleet: 1
+Gloster: 3
+Four Oaks: 2
+Locust: 2
+Bottineau County: 7
+State Park: Wyoming County: 1
+Prairie City: 2
+New Holland: 6
+State Police: Greensville County: 11
+White Springs: 5
+Highland Beach: 3
+New Plymouth: 1
+Flora: 1
+State Police: INV District 8: 1
+Pennfield Township: 4
+Edwards: 3
+Youngsville: 3
+Haddon Heights: 3
+Schodack Town: 2
+Bronxville Village: 1
+Kingfisher: 3
+South Carthage: 2
+Norfolk State University: 4
+State Police: Williston: 43
+San Francisco Bay Area Rapid Transit: Contra Costa: 6
+Canyon Lake: 3
+Bal Harbour Village: 2
+State Police: District 11: 3
+Southern University and A&M College: Baton Rouge: 3
+Mamou: 2
+Taylortown: 2
+Dumont: 6
+Texas A&M University: Commerce: 1
+San Francisco St University: 1
+Elburn: 1
+State Police: INV District 19: 2
+Seat Pleasant: 28
+La Crescent: 1
+Troutman: 1
+Texas A&M University: College Statio: 1
+State Police: Mathews County: 2
+Grangeville: 3
+New Chicago: 3
+Lewiston Town & Village: 5
+Turner: 5
+North Catasauqua: 3
+Independent School District: Austin: 2
+State Police: INV District 5: 2
+State Police: INV District 13: 1
+Bath: 3
+Charlevoix: 10
+Edmundson: 5
+Allegheny Township: 4
+Doylestown Township: 6
+University of Wyoming: 1
+Ashford: 2
+Green Forest: 4
+Gilberts: 1
+St. Paul Park: 3
+Wolfforth: 1
+State Police: Charlotte County: 2
+State Police: South Boston: 1
+Montesano: 1
+Burien: 63
+Oglethorpe: 3
+State Police: INV District 12: 2
+State Police: INV District 11: 8
+State Police: District 22: 2
+State Police: Baraga County: 4
+Capac: 1
+Red Hook Village: 1
+State Park: Niagara County: 1
+Indian Wells: 5
+Lake Orion: 1
+Kenansville: 3
+Rochelle Park Township: 2
+Palmyra Village: 2
+New Cumberland: 3
+Pocono Mountain Regional: 28
+Green Rock: 1
+State Police: District 2: 1
+State Police: District 5: 1
+Parkton: 1
+Crawford Town: 2
+Granville Village: 2
+State Police: Wheeler County: 2
+Delavan: 10
+Meeker: 3
+Cullen: 6
+Gilford: 3
+Lemon Township: 2
+Okemah: 7
+Ephrata Township: 2
+Helotes: 7
+Romney: 2
+Avenal: 20
+Aspinwall: 1
+Coolbaugh Township: 1
+University of Texas: Brownsville: 1
+Department of Natural Resources: Fayette County: 1
+Hinton: 7
+Wasilla: 12
+California State University: San Jose: 4
+Department of Parks and Recreation: Silverado: 1
+White Castle: 2
+Krotz Springs: 2
+Bay Transist Authority: Middlesex County: 1
+Shrewsbury: 7
+Rumford: 6
+Watonwan County: 8
+Stillwater Township: 4
+East Mckeesport: 1
+State Police: Bethel: 15
+Samson: 3
+Nicholls: 1
+Hawarden: 1
+Boston University: 3
+Whitesboro Village: 1
+Cortlandt Town: 2
+Frackville: 3
+Jourdanton: 5
+State Police: Rockingham: 17
+Prosser: 3
+Mammoth Lakes: 6
+La Quinta: 39
+Hoschton: 1
+Glennville: 5
+State Police: Livingston County (E): 5
+Highland Hills: 2
+Littlestown: 4
+Ingram: 8
+Ephraim: 2
+Quartzsite: 7
+Northfield Township: 2
+Peerless Park: 2
+Pepper Pike: 2
+Lunenburg: 3
+St. Peter: 4
+Parkville: 5
+Plattsburgh City: 8
+Wauseon: 4
+Capitol Park Police: 1
+Foard County: 1
+Dalworthington Gardens: 3
+State Police: Shaftsbury: 14
+California St Polytec University: Pomona: 2
+Seaboard: 1
+Perkins: 2
+South Greensburg: 1
+State Police: Derby: 13
+Grand Chute: 10
+Lake Delton: 2
+University of Maryland:  Baltimore Cit: 1
+Indian Beach: 1
+Ford City: 3
+Fort Pierre: 1
+State Police: Middlebury: 10
+Chelan: 1
+Airway Heights: 6
+Del Rey Oaks: 1
+Erath: 1
+Glenville Town: 1
+Halls: 2
+South Ogden: 9
+State Police: Winchester: 2
+Sequim: 5
+Lake Station: 12
+Addison Town and Village: 1
+Brian Head: 1
+State Police: Brattleboro: 12
+Kettle Falls: 1
+Lincoln City: 15
+Collegeville: 2
+Pilot Point: 3
+Hartley County: 4
+Lorena: 1
+State Police: Lunenburg County: 5
+State Police: Rutland: 27
+State Patrol Contra Costa: 1
+Reynolds: 3
+Marksville: 16
+Lake St. Louis: 3
+Whitakers: 5
+Andover Village: 1
+Honesdale: 5
+Horry County: 3
+Primera: 1
+Southside Place: 1
+Zillah: 1
+Department of Natural Resources: Braxton County: 1
+Bardstown: 6
+West Long Branch: 4
+Buckeye Lake: 1
+Fairlawn: 2
+Arizona State University: Main Camp: 2
+Corinth Village: 1
+Hartville: 2
+Breathitt County: 5
+Ohio State Hghway Patrol: 82
+Stanley County: 1
+Borden County: 2
+Barling: 3
+Ocean Isle Beach: 1
+Canal Fulton: 2
+Eagle Point: 5
+Karnes City: 4
+University of Texas: Austin: 5
+Delafield: 2
+Warrick County: 16
+Port Carbon: 1
+Harleyville: 1
+Baird: 2
+Roscoe: 3
+Big Sandy: 2
+State Police: Culpeper County: 11
+Department of Law Enforcement: Hillsborough, Tampa: 2
+Peachtree City: 12
+Colquitt: 2
+State Police: Trimble County: 2
+Clarks Summit: 1
+De Leon: 6
+Pottsboro: 2
+Hurt: 2
+Virginia Military Institute: 1
+State Police: Middlesex: 8
+St. Francis: 2
+Ladysmith: 3
+Guin: 1
+Mississippi State University: 2
+Burns: 8
+Grove Hill: 1
+Napier Field: 1
+San Luis: 6
+Barwick: 1
+Howell County: 24
+Attala County: 19
+Maybrook Village: 2
+Poland Village: 1
+Eastfield College: 1
+Georgia World Congress: 2
+Carleton: 1
+Park Rapids: 5
+Cold Spring: 6
+Wadena: 1
+Chocowinity: 1
+Hettinger County: 2
+Branchville: 2
+Mount Jackson: 2
+State Police: Covington: 3
+Springerville: 4
+San Diego State University: 3
+Atherton: 1
+Rich Hill: 1
+Oliver County: 1
+North Salt Lake: 4
+Prince George County Police Department: 33
+Mondovi: 1
+University of California: Los Angeles: 1
+Doerun: 3
+Ida County: 1
+Buckner: 1
+Laurel Springs: 2
+Belpre: 4
+Pennsylvania St University: University Park: 2
+Mercer Island: 5
+Romeo: 3
+Rockleigh: 1
+Manheim: 7
+Sachse: 7
+Sabinal: 4
+Roslyn: 1
+Shepherdstown: 1
+Tewksbury: 1
+Windom: 3
+State Patrol: Saline County: 1
+Far Hills: 1
+Kendleton: 1
+Decorah: 1
+Randolph: 17
+Pevely: 2
+Flordell Hills: 5
+Schuyler: 2
+Yaupon Beach: 1
+Fletcher: 6
+Chester Town: 1
+Cresson: 2
+Schuylkill Haven: 7
+Cuney: 1
+Clintonville: 2
+Casey: 1
+Greencastle: 2
+Rolling Fork: 2
+Lower Saucon Township: 6
+South Jordan: 15
+Pewaukee: 2
+Chapmanville: 2
+Worland: 4
+Vista: 72
+Encinitas: 15
+Salida: 4
+Flushing Township: 3
+Lewistown: 7
+Chilhowie: 2
+Cornell: 1
+Childersburg: 13
+Highway Patrol: San Francisco County: 3
+Lakefield: 2
+Redwood Falls: 4
+Rio Arriba County: 27
+Reagan National Airport: 4
+Ocean Shores: 4
+Shoreline: 30
+Piatt County: 3
+Fort Gaines: 2
+Le Claire: 1
+Dryden Township: 5
+New Mexico State University: 1
+Mapleton: 4
+Bernice: 4
+Guernsey County: 8
+Progreso: 2
+Rio Grande City: 16
+State Police: St. Johnsbury: 26
+Department of Natural Resources: Preston County: 1
+Alabama Department of Mental Health: 4
+Abita Springs: 1
+Crosby: 2
+State Park: Nassau County: 1
+Lititz: 6
+Woodinville: 7
+Palm Beach Shores: 3
+Ranlo: 1
+Cobleskill Village: 3
+Pilot Rock: 1
+Pepin County: 3
+Highway Patrol: Miami-Dade County: 4
+Aroostook County: 3
+Spring Lake Park: 2
+Ogden Town: 6
+Tenn Bureau of Investigation: 94
+State Police: Danville: 12
+Vermont State Police Headquarters - Bureau of Crim: 2
+Tieton: 2
+Emmetsburg: 1
+Cottonport: 1
+Powder River County: 1
+Sunland Park: 2
+Stanwood: 2
+Calimesa: 12
+Poway: 14
+State Patrol: Hall County: 2
+Boise City: 3
+Yamhill: 1
+Geneva Town: 3
+Davison Township: 5
+Catawba: 3
+Shiremanstown: 2
+Cobden: 1
+Glenmora: 1
+Kennebec County: 6
+Soap Lake: 1
+Post Falls: 10
+Tekamah: 1
+West Wendover: 8
+Apache: 3
+Fort Gibson: 2
+Ohio Township: 3
+Paint Township: 2
+Jamaica Beach: 2
+Highway Patrol: Bay County: 6
+Satellite Beach: 3
+Highway Patrol: Seminole County: 1
+Highway Patrol: Duval County: 4
+Highway Patrol: Jackson County: 1
+Highway Patrol: Lake County: 1
+Calais: 2
+State Police: Kalamazoo County: 18
+Cedar Springs: 2
+Ransom County: 4
+Highway Patrol: Orange County: 26
+Highway Patrol: Palm Beach County Tp S: 2
+Highway Patrol: Volusia County: 5
+Highway Patrol: Marion County: 5
+Simmesport: 1
+Clearcreek Township: 3
+Highway Patrol: Polk County: 10
+Highway Patrol: St. Johns County: 5
+Highway Patrol: Brevard County: 6
+Highway Patrol: Sarasota County: 2
+Highway Patrol: Highlands County: 3
+Highway Patrol: Martin County: 1
+Bureau of Narcotics: Region 4: 5
+Shelter Island Town: 1
+State Police: Yates County (E): 2
+West Mead Township: 2
+County Detectives: Dauphin County: 4
+Obion County: 11
+Lakeview: 7
+Highway Patrol: Pinellas County: 9
+Highway Patrol: Alachua County: 2
+Highway Patrol: Hillsborough County: 7
+Highway Patrol: Lee County: 4
+Summerdale: 3
+Vadnais Heights: 2
+Catskill Village: 5
+State Park: Orange County: 1
+Basin: 1
+Highway Patrol: Pasco County: 1
+Highway Patrol: St. Lucie County: 1
+Highway Patrol: Desoto County: 3
+Highway Patrol: Leon County: 1
+Highway Patrol: Manatee County: 1
+University of Arkansas: Monticello: 1
+Winterset: 2
+Unadilla Township: 2
+Coeymans Town: 3
+Newcomerstown: 3
+Due West: 2
+Heber: 2
+Highway Patrol: Osceola County: 1
+Highway Patrol: Liberty County: 1
+Evansdale: 2
+Ringgold County: 2
+Hillview: 2
+Hodgenville: 2
+Lone Oak: 1
+West Tawakoni: 3
+Alpine/Highland: 1
+Highway Patrol: Franklin County: 1
+Grenada County: 11
+Kimball County: 1
+Lone Star: 3
+State Police: St. Albans: 16
+Gig Harbor: 3
+Benwood: 1
+Aventura: 11
+Thorsby: 1
+Department of Parks and Recreation: Northern Butte: 1
+San Bernardino Community College: 1
+Corydon: 2
+Eveleth: 3
+Avon-By-The-Sea: 1
+Wilmerding: 1
+Ranson: 3
+Highway Patrol: Broward County: 1
+Oak Park Heights: 2
+Parowan: 1
+East Dubuque: 2
+Brookport: 1
+Village of Pinecrest: 3
+San Ramon: 9
+Escalon: 2
+Lone Tree: 11
+West Brookfield: 2
+State Police: Branch County: 22
+Mendota Heights: 2
+Shannon County: 5
+Roseland: 2
+Park Hills: 7
+Ralpho Township: 1
+State Police: Princeton: 20
+State Police: Upperglade: 11
+Bryant: 4
+New Hampton: 1
+Bureau of Narcotics: Region 3: 8
+State Police: Union: 15
+State Police: Wayne: 26
+Sunny Isles Beach: 3
+Highway Patrol: Glades County: 1
+Sergeant Bluff: 2
+Gerrish Township: 1
+Waconia: 2
+East Pittsburgh: 6
+State Police: Bridgeport: 14
+University of La: Lafayette: 1
+French Settlement: 2
+Searsport: 2
+Zumbrota: 2
+Waseca: 2
+State Patrol: Dundy County: 1
+Everson: 3
+State Police: Moorefield: 7
+Elton: 1
+Colts Neck Township: 8
+Salamanca: 3
+Little Compton: 1
+Weimar: 3
+State Police: Hinton: 10
+Mingo Junction: 1
+German Township: 3
+Copley Township: 5
+Mcbee: 1
+Cross Plains: 2
+State Police: Hamlin: 20
+Coushatta: 3
+Eldon: 9
+Box Elder: 5
+Barron: 2
+Highway Patrol: Palm Beach County Lantana: 1
+Ridgely: 4
+Hamburg Township: 2
+Cuming County: 3
+State Patrol: Cuming County: 1
+State Patrol: Thurston County: 1
+Drug Task Force: 14th Judicial District: 5
+Colchester: 2
+State Police: Buckhannon: 6
+State Police: Harrisville: 9
+State Police: Logan: 21
+California State University: Sacramento: 1
+Brownville: 1
+Zuni Tribal: 9
+Upper Leacock Township: 4
+State Police: Spencer: 12
+Powder Springs: 12
+Arcade: 4
+Wellesley: 1
+Northbridge: 2
+State Police: Arenac County: 4
+Southaven: 35
+Yorkville Village: 1
+State Police: Clay: 19
+State Police: Martinsburg: 30
+Lake Arthur: 8
+Laguna Tribal: 6
+Ridgeville: 1
+Gramercy: 4
+Whately: 1
+State Patrol: Pierce County: 1
+Stanhope: 2
+Wappingers Falls Village: 1
+Napoleon: 5
+Bureau of Narcotics Investigation: Allegheny Count: 1
+West Newton: 1
+Prairie Grove: 3
+Hartwell: 7
+Southwick: 1
+Horn Lake: 32
+State Patrol: Loup County: 1
+State Patrol: Richardson County: 2
+State Patrol: York County: 2
+Grandview Heights: 4
+Center Hill: 2
+Howey-In-The-Hills: 1
+Oro Valley: 17
+Kansas Highway Patrol: 16
+East Grand Rapids: 1
+Platte City: 3
+Amite County: 4
+Campton: 3
+Queen City: 4
+Mccleary: 1
+Mabton: 1
+Department of Natural Resources: Wyoming County: 6
+State Police: Kearneysville: 7
+Powell County: 12
+State Police: Suffolk County (L): 6
+Henning: 4
+Atlantis: 1
+State Patrol: Douglas County: 1
+Port Authority of New York & New Jersey: 1
+Kittanning: 3
+Sheldon: 3
+Lakehurst: 2
+State Police: Nassau County (L): 9
+St. Helens: 4
+State Police: Franklin: 8
+Department of Law Enforcement: Duval County, Jacks: 4
+Highway Patrol: Okaloosa County: 1
+Lehman Township: 2
+University of Washington: 2
+Napavine: 1
+Department of Law Enforcement: Escambia County, Pe: 5
+Arma: 2
+Department of Natural Resources: Berkeley County: 11
+State Police: Welch: 16
+Bushnell: 2
+Department of Law Enforcement: Leon County,  Talla: 8
+Lake Clarke Shores: 3
+LA Transportation Services Bureau: 23
+Fairmount: 1
+Watkins Glen Village: 1
+Oilton: 1
+Birdsboro: 1
+Delphi: 3
+Kinsley: 1
+Pearl River: 2
+East Cocalico Township: 2
+Pigeon Forge: 8
+State Police: Petersburg: 9
+State Police: Parkersburg: 5
+State Police: Romney: 7
+State Police: South Charleston: 6
+State Police: Summersville: 9
+Cedaredge: 2
+Cripple Creek: 2
+Guilford: 5
+Ravenna: 4
+County Detectives: Lebanon County: 8
+Tellico Plains: 3
+Coeburn: 7
+Coulee Dam: 1
+Santa Clara Transit District: 12
+New Hartford Town & Village: 2
+Hohenwald: 4
+Chewelah: 2
+Moxee: 3
+Berry: 1
+Napa State Hospital Napa County: 3
+Pine Mountain: 1
+Brownsburg: 7
+Wheatland County: 1
+Rolesville: 4
+South Carolina St University: 2
+Dandridge: 1
+Mountain City: 2
+Tiptonville: 1
+Millersville: 2
+Nenana: 1
+University of California: San Diego: 2
+Department of Parks and Recreation: San Luis Obisp: 3
+Metter: 7
+Callaway County: 26
+Woodland Township: 2
+County Detectives: Cumberland: 3
+Benedict College: 1
+Ponchatoula: 9
+Maggie Valley: 6
+Sargent County: 1
+Minco: 1
+Mohnton: 1
+State Police: Berkeley Springs: 1
+Moorcroft: 2
+Richmond Hill: 6
+Kendallville: 3
+Division of Criminal Investigation: 94
+State Police: Lewisburg: 5
+Westmorland: 3
+Geddes Town: 2
+Waynoka: 1
+Pound: 3
+Belington: 1
+State Police: Teays Valley: 1
+Lemon Grove: 22
+Monett: 7
+Ralls County: 3
+State Patrol: Sheridan County: 1
+Branchburg Township: 3
+Montgomery Village: 1
+County Detectives: York County: 4
+Gruetli-Laager: 1
+Brazoria: 2
+Fellsmere: 6
+Metro Transit Police: 11
+Mcrae: 7
+Mcsherrystown: 1
+Trinity: 11
+Red Level: 1
+Cumming: 5
+Cresco: 3
+Swan's Island: 1
+Almont: 3
+Cape May: 1
+White Haven Borough: 1
+Eutawville: 2
+State Police: Keyser: 9
+Sturbridge: 6
+Sweet Grass County: 6
+Dundy County: 1
+State Police: Kingwood: 13
+Haines: 1
+Baker Hill: 1
+Pickensville: 1
+Troy State University: 1
+Glascock County: 2
+Grambling State University: 2
+State Police: Antrim County: 3
+Brookville: 4
+West Pikeland Township: 2
+Boscobel: 2
+Bernalillo: 12
+Solvay Village: 1
+Head of The Harbor Villa: 1
+Plumstead Township: 6
+Barrett Township: 2
+Lake Helen: 2
+Sellersburg: 1
+South Londonderry Township: 3
+Irwin: 1
+Deadwood: 1
+State Police: St. Marys: 1
+Rolling Hills: 1
+Sac County: 3
+Dent County: 18
+Rogersville: 6
+Attica: 3
+Hermann: 3
+Genoa Township: 3
+State Police: Philippi: 10
+State Police: Mecosta County: 2
+Holly Springs: 34
+State Patrol: Box Butte County: 5
+Onley: 2
+Southside Virginia Training Connecticut: 2
+Snohomish: 2
+Van Alstyne: 4
+State Police: Beckley: 13
+Oswego: 3
+Unadilla: 2
+Licking: 4
+Olive Branch: 34
+Henniker: 2
+Boonton Township: 1
+Clarinda: 1
+University of Massachusetts: Amherst: 1
+Lockwood: 1
+Monaca: 2
+Meyersdale: 1
+Drug Task Force: 31st Judicial District: 3
+University Place: 17
+State Police: Point Pleasant: 8
+Mcintosh: 4
+Redwood County: 3
+Lake Lure: 1
+Blanding: 1
+Biscayne Park: 1
+Towns County: 7
+Hailey: 2
+Scott City: 3
+State Police: Morris County: 2
+Westchester: Board of Water: 1
+Hudson Oaks: 4
+Department of Public Safety and Correctional Servi: 31
+Milo: 3
+Fowlerville: 5
+Willard: 6
+Henrietta: 1
+Pohatcong Township: 2
+Texico: 2
+Wellsville: 1
+Hawkins: 4
+State Police: Huntington: 11
+State Police: Williamson: 16
+Onawa: 1
+Walkerton: 1
+Haughton: 1
+University of Arizona: 5
+Centennial: 32
+Princess Anne: 6
+Bel-Nor: 1
+Pearl River County: 13
+North Carolina State University: Raleigh: 2
+Ridgetop: 1
+Grapeland: 2
+Fircrest: 1
+Fairmount Heights: 7
+Faison: 1
+New Johnsonville: 2
+State Police: Richwood: 5
+Hanna: 1
+Interlachen: 1
+Velda City: 6
+Ticonderoga Town: 3
+Perry Village: 3
+Mount Healthy: 8
+State Police: Fairmont: 2
+Olla: 2
+Potterville: 1
+Herculaneum: 2
+State Police: Elkins: 6
+Miami Lakes: 14
+North Branch: 2
+State Police: Iron County: 4
+South Heidelberg Township: 1
+Iva: 2
+Pamplico: 2
+Shepherd: 1
+Long Prairie: 5
+Leary: 2
+Hopedale: 2
+Spring Arbor Township: 3
+Blue Earth: 1
+Perryville: 8
+Conrad: 2
+Decherd: 4
+Hill Country Village: 2
+Black Diamond: 2
+State Police: Grantsville: 9
+Lake Placid: 3
+Kingston Township: 6
+Paint: 1
+Whitmire: 2
+State Police: Bradford: 6
+Lake Bluff: 1
+Charles City: 7
+Keweenaw: 1
+Lathrop: 3
+Plains: 3
+White Lake: 2
+State Police: Camden County: 4
+West Reading: 3
+Friendship: 2
+North Park: 2
+State Police: Ripley: 5
+Helen: 5
+Maumelle: 13
+Halifax: 4
+Sabattus: 2
+Montrose Township: 2
+El Dorado Springs: 5
+Hayti: 12
+Hardin: 1
+Dyersburg State Community College: 1
+Italy: 2
+Williams Bay: 1
+Louisville Metro: 1707
+Addis: 2
+Wilbraham: 1
+Seligman: 1
+South Williamsport: 1
+Granville Township: 2
+White Pine: 6
+Ransom Canyon: 2
+West Richland: 4
+Green Lake: 1
+State Police:  Weston: 7
+Lavonia: 4
+Hanson: 3
+Colbert: 4
+Southwest Ranches: 2
+Ellinwood: 1
+Ava: 1
+Merriam Woods: 1
+Deerfield: 7
+Jenkins Township: 1
+Kiowa: 1
+Scottville: 1
+Mountain Lake: 1
+Brecknock Township: 3
+Bureau of Forestry: Blair County: 2
+Miami Gardens: 375
+Yorkville: 2
+Department of Parks and Recreation: North Coast Re: 1
+Rigby: 3
+Eminence: 4
+Calvert City: 3
+Fredericktown: 6
+Miami-Dade County Public School: 3
+Palmetto Bay: 14
+Bradenton Beach: 3
+Stallion Springs: 2
+Idaho State Police: 66
+Desloge: 7
+State Police: Hillsborough County: 3
+Cameron County Park Rangers: 2
+State Police: Gilbert: 2
+Grant Joint Union High School: 1
+California State University: Channel Islands: 2
+Camdenton: 2
+Glacier County: 7
+State Police: Prince Edward County: 5
+State Police: Gauley Bridge: 3
+State Police: Leelanau County: 3
+Goodview: 2
+Pleasant Valley: 2
+University of North Carolina: Wilmington: 1
+New Jersey Transit Police: 5
+Spokane Valley: 55
+University of Maryland:  Balti County: 1
+Wright City: 4
+Towner County: 4
+State Police: Rockingham County: 4
+State Police: Buckeye: 8
+Greenland: 5
+State Police: Clare County: 2
+State Police: Oscoda County: 6
+Sanborn County: 2
+Crane: 2
+Highway Patrol: Collier County: 1
+Department of Parks and Recreation: Russian River: 2
+Boothbay Harbor: 4
+Waterloo Township: 2
+Earl Township: 3
+Department of Mental Health: 2
+Celina: 7
+Gates: 2
+Joshua: 1
+Kenmore: 6
+Lac Du Flambeau Tribal: 4
+Doral: 9
+Shepherdsville: 4
+Thayer: 3
+Bernie: 2
+Three Forks: 1
+Walton Village: 2
+State Park: Albany County: 1
+Bogata: 1
+Saranac Lake Village: 2
+Westworth: 2
+State Police: Colonial Heights: 4
+De Pere: 8
+Santa Fe Commun College: 1
+Mexico Beach: 1
+Gould: 2
+Goleta: 12
+Hurlock: 2
+Dixfield: 1
+Monroe Village: 1
+Rancho Santa Margarita: 4
+Cottonwood County: 2
+Camillus Town and Villag: 1
+Brimfield Township: 7
+Bell Acres: 1
+Northumberland: 2
+State Park Rangers: Tim's Ford: 1
+State Park Rangers: Warrior's Path: 1
+Texas Southern University: 2
+Maple Valley: 6
+University of Central Florida: 2
+Cottage City: 2
+Lansing Community College: 1
+Grantham: 2
+West Wildwood: 1
+Seiling: 1
+Drug Task Force: 3rd Judicial District: 1
+Granite Shoals: 4
+State Police: Sutton: 9
+Town and Country: 4
+State Patrol: Hitchcock County: 1
+Carthage Village: 1
+Forty Fort: 2
+Buellton: 2
+MBTA: Suffolk County: 10
+Sharkey County: 1
+New Lexington: 2
+Old Lycoming Township: 4
+Southwestern Regional: 6
+Willis City Police Department: 8
+Duval County Schools: 2
+Cut Bank: 2
+State Patrol: Cedar County: 5
+Solebury Township: 7
+Castroville Police Department: 3
+Yelm: 2
+State Police: Elizabeth: 3
+State Police: Morgantown: 18
+State Police: Oak Hill: 6
+Dundee: 2
+Stockbridge: 1
+Colebrook: 1
+Freedom: 4
+Hutto: 4
+Southern Regional Drug & Violent Crime Task Force: 1
+Afton: 1
+Oelwein: 1
+Grosse Pointe: 1
+Peculiar: 2
+Jasco Metropolitian: 1
+Pennridge Regional: 7
+Tampa International Airport: 2
+Stone Mountain Park: 1
+Dudley: 4
+St. James: 6
+New Vienna Police Department: 1
+West Pelzer: 1
+Rison: 1
+Steele: 5
+New York: Port Authority: 1
+Metropolitan Board of Parks & Recreation: 1
+Horseshoe Bay: 2
+Taylorsville City: 14
+Caruthersville: 11
+Mint Hill: 19
+Warwick Town: 4
+State Police: Paden City: 5
+Hoopeston: 1
+Eldora: 1
+Greenville-Spartanburg International Airport: 1
+Tennessee State University: 4
+North Bonneville: 1
+Fox Valley: 1
+Aliso Viejo: 8
+Bow: 1
+Robeson Township: 2
+Meadows Place: 3
+Department of Agriculture: 27
+Yountville: 1
+Lochbuie: 1
+St. Gabriel: 6
+Auxvasse: 2
+Trent Woods: 1
+Highway Patrol: Monroe County: 1
+Mccaysville: 1
+South Hutchinson: 2
+Ashburnham: 1
+Heidelberg: 2
+Chinook: 1
+Gassville: 3
+Mora County: 1
+Mayfield Village: 2
+Decaturville: 1
+Emmet County: 4
+Baldwin City: 11
+Port Gibson: 2
+Bern Township: 1
+Selmer: 3
+Nash: 3
+Oakesdale: 1
+Cherokee Village: 3
+Chikaming Township: 3
+Portageville: 1
+Walters: 1
+Wilsonville: 2
+Northwest Regional: 3
+State Police: Winfield: 3
+Swampscott: 1
+Hayneville: 2
+Solana Beach: 4
+Montgomery City: 2
+Champion Police Department: 2
+Patterson Area: 1
+Foster Township: 4
+Kewaskum: 2
+Ohatchee: 2
+Lakes Area: 1
+Doniphan: 5
+Advance: 3
+Cabool: 3
+East Newark: 1
+State Police: Glenville: 5
+Orofino: 2
+Letcher County: 2
+New Madrid: 5
+Liverpool Township Police Department: 2
+Church Hill: 3
+Jupiter Island: 2
+Laguna Woods: 6
+Cumberland Gap: 3
+Everest: 12
+Shepherd University: 2
+University of New Orleans: 1
+University of Mississippi: Oxford: 1
+Stallings: 6
+Conneaut Lake Regional: 1
+Neshannock Township: 1
+Dodgeville: 1
+State Police: Quincy: 7
+NYCMTA: Nassau County: 1
+NYCMTA: Suffolk County: 1
+Itasca: 1
+Elk Grove: 31
+Grundy Center: 1
+Preston: 6
+Eastern Michigan University: 1
+Austintown: 8
+Sullivans Island: 1
+Sullivan City: 1
+Coal City: 1
+American Canyon: 5
+Suwanee: 6
+Raymore: 4
+Glenn Heights: 6
+Goshen Village: 1
+Codington County: 2
+State Police: Wheeling: 3
+Sandy Spring: 62
+Boscawen: 2
+Bean Station: 5
+Ragland: 2
+Double Springs: 1
+Department of Parks and Recreation: Monterey Count: 1
+Edmonston: 3
+Bad Axe: 1
+Quay County: 1
+Nelsonville: 3
+University of Tennessee: Memphis: 1
+Lake Stevens: 6
+Harrison County Drug & Violent Crime Task Force: 1
+Schuylkill County Detective Bureau: 2
+Limestone: 2
+Marston: 1
+Menands Village: 1
+Achille Police Department: 1
+Lennox: 2
+University of Utah: 3
+Marco Island: 2
+Department of Parks and Recreation: Gold Fields Di: 1
+Howard City: 1
+Mattawan: 3
+Iberia: 1
+Department of Environmental Management: 1
+Millstadt: 1
+Calvert: 2
+Jonestown: 4
+Delaware State University: 1
+Lilbourn: 2
+Frankfort Town: 1
+Groveport: 2
+Kutztown: 2
+Bowman: 6
+University of Memphis: 1
+Baylor Health Care Syste: 1
+Purcellville: 1
+Loxley: 2
+Gower: 1
+Bella Villa: 2
+Moriarty: 1
+Algood: 1
+Tool: 1
+Crandon: 5
+East Troy: 3
+ST HWY PT: Bluefield: 1
+Snellville: 10
+Broussard: 13
+Nixa: 7
+State Police: Lee's Summit: 11
+Highlands Town: 1
+Pickerington: 3
+Pequea Township: 1
+Burrillville: 3
+California State University: Monterey Bay: 1
+Louisiana State University: Baton Roug: 3
+Monson: 1
+State Police: Macon: 43
+State Police: Poplar Bluff: 7
+Adams Township: 2
+Colonial Regional: 2
+North Braddock: 3
+Hatboro: 4
+Telford: 3
+Lower Windsor Township: 1
+Ralls: 2
+Bee Cave: 1
+State Police: Missaukee County: 2
+State Police: Montmorency County: 6
+Milton Township: 1
+Berks-Lehigh Regional: 2
+Cambridge Springs: 1
+Brookside Village: 1
+Waunakee: 2
+Atascadero State Hospital: 1
+Tisbury: 1
+Rosemount: 7
+Marionville: 6
+State Police: Craig County: 4
+Ward: 6
+Citrus Heights: 44
+Osawatomie: 1
+Poplarville: 1
+Buhler: 1
+Pine Creek Township: 1
+Faulk County: 1
+Marmaduke: 3
+Sahuarita: 3
+Upton: 1
+Knob Noster: 2
+Mountain Grove: 3
+Byhalia: 2
+Middlefield: 1
+Cambria Township: 2
+Floydada: 3
+Social Circle: 8
+State Police: Jefferson City: 9
+ST PRK: Long Island Reg: 1
+West Cocalico Township: 2
+Whitwell: 2
+State Police: Moundsville: 3
+Pennyrile Narcotics T F: 2
+Healdton: 1
+West Vincent Township Police Department: 1
+East Buffalo Township: 1
+York Springs-Latimore Tw: 1
+Bluff City: 3
+Gorman: 2
+Flatonia: 3
+University of Central Arkansas: 2
+Hatch: 1
+Utica Police Department: 2
+Alamo Community College District: 1
+Old Dominion University: 1
+Dekalb County School System: 1
+Olivia: 3
+Hermantown: 1
+State Police: St. Charles: 6
+Wolf Point: 2
+Alva: 1
+Port Deposit: 1
+Higginsville: 1
+Nichols Hills: 3
+Archbald: 2
+Parks and Recreation: 2
+Cave City Police Department: 1
+Highway Patrol: Fresno County: 1
+Highway Patrol: Placer County: 1
+Wildomar: 7
+Rancho Cordova: 60
+State Police Post 6: 20
+State Police Post 7: 87
+State Police Post 10: 46
+State Police Post 15: 67
+Mars Hill: 1
+Stigler: 2
+Eastern Adams Regional: 3
+Fort Lawn: 2
+Greeleyville: 1
+Sully County: 1
+Little Elm Police Department: 10
+State Police: Martinsville: 4
+State Police Post 4: 61
+State Police Post 5: 23
+Hornersville: 1
+Pataskala: 1
+Bucks County Detective Bureau: 11
+University of Houston: Central California: 1
+Granger: 2
+Shorter: 3
+State Police Post 2: 40
+State Police Post 8: 71
+State Police Post 9: 60
+Tilden Township: 2
+Dept of Correction Int A: 12
+Highway Patrol: Indian River County: 1
+Judsonia: 2
+Truckee: 4
+State Police Post 13: 70
+State Police Post 14: 31
+Highway Patrol: Greenville County: 1
+Sturtevant: 1
+Unknown: 1
+Whiting: 4
+State Police Post 11: 75
+State Police: Ontonagon County: 4
+Poland Township: 1
+Mooreland: 1
+Cresson Township: 1
+Fruitland Park: 5
+Whitestown: 4
+Lauderdale: 1
+Cole Camp: 3
+Slatington: 2
+Cibolo: 3
+WA: Tribal: 8
+Department of Parks and Recreation: Bay Area: 1
+Avondale Estates: 2
+State Police Post 3: 59
+Carencro Police Department: 9
+Croswell: 4
+Cannon Falls: 1
+Spruce Pine: 1
+Highway Patrol: Dorchester County: 2
+Coward: 1
+Twisp: 1
+Bearden: 1
+Ronan City: 1
+Bureau of Criminal Idnt & Inv: 1
+Collier Township: 3
+Annville Township: 1
+County Detectives: Lehigh County: 1
+Pittston: 4
+Munford: 5
+Parkersburg Nar & Violent Crime Task Force: 2
+Yale University: 1
+Mancelona: 1
+Noel: 1
+Banner Elk: 1
+Cayuga Heights Village: 2
+Lower Milford Township: 1
+US 119 (Logan County) Drug & Violent Crime Task Fo: 1
+State Police: West Union: 6
+University of Connecticut: Storrs: 1
+State Police Post 1: 50
+Lincoln Township: 2
+Mont Vernon: 1
+Acoma Tribal Police Department: 3
+Moorefield: 2
+Indian Shores: 1
+Evarts: 1
+Fort Benton: 2
+Mount Morris Village: 1
+Conoy Township: 1
+Pulaski Township (Lawrence County) Police Departme: 1
+Hanson County: 1
+Mosses: 1
+Fraser/Winter Park: 2
+New Carrollton: 11
+Colstrip: 2
+East Rochester: 1
+West Brandywine Township: 6
+Cottageville: 1
+Kirbyville: 2
+Kerens Police Department: 1
+Dignitary Protection: 4
+Leon: 1
+State Police Post 16: 14
+Upper Marlboro: 1
+Dewitt: 1
+Southwest City: 1
+Knightdale: 7
+Cactus: 1
+Chattahoochee Hills: 1
+State Police Post 12: 31
+Scott: 4
+North Newton: 1
+Lawson: 1
+Valentine: 2
+Hollidaysburg: 1
+Arkansas State University: 1
+Ganby: 3
+Tcikfaw: 1
+Oak Bluffs: 1
+D'Iberville: 14
+Gautier: 18
+Custer State Patrol: 1
+Kimball State Patrol: 1
+Essex Fells: 2
+Blanchard: 3
+Bridger: 1
+Burt County: 2
+Delanco Township: 1
+Sumas: 1
+Pioneer Village: 1
+Kinloch: 6
+Belfield: 2
+Brandywine Regional: 1
+Colorado Bureau of Investigation: 3
+Dunwoody: 20
+Norwell: 1
+Southwest Greensburg: 1
+Bruceville-Eddy: 2
+Allegany County Bur of Police: 2
+Kearney State Patrol: 1
+Hamlin County: 2
+Presque Isle State Police: 4
+Saltillo: 2
+Audubon Park: 1
+Allegheny Cnty Housing Auth: 17
+Cumberland City: 3
+Tucson Airport Authority: 2
+West Tisbury: 2
+Osage Beach: 1
+Parkesburg: 2
+Trumansburg Village: 1
+Mayesville: 2
+Hallowell: 1
+Lone Jack: 1
+Oneida Tribal: 16
+Holts Summit: 2
+Godfrey: 1
+Mount Arlington: 1
+Campobello: 1
+Sutter Creek: 1
+Limon: 1
+Kennebunk: 2
+Manistique: 3
+State Patrol: Jefferson Cnty: 1
+Pringle: 1
+Ashville: 5
+Braselton: 3
+Bolton: 1
+Eastvale: 9
+Fair Oaks Ranch: 1
+Enumclaw: 1
+Menifee: 30
+Hughes Springs: 1
+Kanab: 1
+State Fire Marshal: 24
+Weare: 2
+Univ Of South Alabama: 2
+Jurupa Valley: 70
+Cassville: 1
+Senath: 3
+Buckingham Township: 1
+State Police: Lincoln: 1
+Junction: 3
+Flowery Branch: 2
+Burns Harbor: 1
+Hebron: 1
+Bowie State University: 1
+Plattsburg: 1
+State Patrol: Sioux County: 1
+Waelder: 1
+Tuckerman: 2
+McCall: 1
+Shawnee Township: 2
+Bethesda: 1
+Olmsted Township: 1
+Southwest Regional: 2
+Royal City: 2
+Clever: 1
+Holly Ridge: 3
+Rutgers Un: Newark: 1
+Shavano Park: 2
+New Garden Township: 2
+St. Croix Tribal: 2
+Iowa: 4
+Thetford Township: 1
+Beulah: 1
+Sandown: 2
+County Det: Erie County: 3
+Quarryville: 1
+Department Of Safety: 11
+Attorney General: 1
+Central WV Drug Task Force: 1
+Bronson: 1
+Canfield: 1
+Hale Center: 1
+Marceline: 1
+Mccone County: 1
+Upper Uwchlan Township: 1
+Sandy Township: 2
+Early: 2
+Combes: 1
+Huntley: 3
+Burnside: 1
+Plainwell: 1
+Birch Tree: 1
+Mannford: 3
+Utah Highway Patrol: 33
+24th Jud Cir Drug & Vctf: 1
+Rooks County: 3
+State Patrol: Franklin County: 1
+Highspire: 2
+State Police: Rainelle: 6
+Maury City: 2
+Berwyn Heights: 1
+West Hills Regional: 3
+Point Marion: 1
+East Mountain: 1
+Sp Bci: Beckley: 2
+Brent: 5
+Magoffin County: 1
+La St U: Hsc, Shreveport: 1
+Iron Mountain Lake: 1
+Glen Echo Park: 1
+Mifflin Township: 4
+HP: Contra Costa County: 5
+Bella Vista: 3
+HP: Lake County: 2
+State Police: Springfield: 3
+River Edge: 3
+Cardington: 2
+Wildlife Resources: 3
+Kilmarnock: 2
+Mill Creek: 5
+HP: Tulare County: 1
+Valdosta State Universit: 1
+Prosecutor: Monmouth Cty: 1
+Montour Township: 1
+Mount Horeb: 1
+Atlanta Public Schools: 1
+Priest River: 1
+Antelope County: 2
+Helper: 7
+Ash Flat: 1
+Huerfano County: 4
+La Veta: 1
+Johns Creek: 11
+Salyersville: 1
+Sp: Mason County: 4
+Crosbyton: 1
+Univ Of Tx:Sw Medical Sc: 1
+El Portal: 1
+Colby: 1
+Clayton Township: 1
+Coastal Carolina Univers: 1
+Hp: Merced County: 1
+Cheney: 1
+Byram: 3
+Longwood University: 1
+Hp: San Bernardino Cnty: 4
+Puxico: 1
+East Fallowfield Townshi: 1
+Indian River Shores: 1
+Flippin: 2
+Georgia Perimeter Colleg: 1
+Fishers: 11
+Reserve Township: 1
+Surfside: 1
+Palm Beach Cnty Sch Dist: 2
+Sp: Benzie County: 2
+Rich Square: 1
+North Topsail Beach: 5
+Turbeville: 1
+Lady Lake: 2
+Patton State Hospital: 1
+Nyc Metro Trnsprtn Auth: 1
+Leetsdale: 1
+Lexington Cnty Medical C: 1
+Campbell Township: 2
+Plover: 7
+Savannah State Universit: 2
+Melissa: 2
+Isd: Katy: 1
+Lago Vista: 1
+Fgc: Brevard County: 1
+Old Town: 5
+Glouster: 1
+Wintersville: 1
+La Verkin: 1
+Muscogee County: 1
+Un Of Ma: Med Ctr, Worc: 1
+Carroll Valley: 3
+Palmhurst: 1
+Virginia State Universit: 1
+Newland: 3
+Mahanoy City: 3
+West Tn Violent Crime Tf: 1
+Ponder: 5
+St Ptrl: Garfield County: 1
+Russell Township: 1
+Northern Lancaster C Reg: 5
+Hp: Horry County: 1
+Schulenburg: 1
+Arcola: 2
+Sp: Hundred: 4
+Alaska State Troopers: 203
+St Hwy Ptrl:Willow Sprgs: 1
+Caddo Mills: 1
+Texas Christian Universi: 1
+Sartell: 1
+Struthers: 3
+Canby: 2
+Delaware County Park: 1
+Anthony: 2
+Prairie View: 7
+Carbon Hill: 2
+Cross City: 1
+Gypsum: 1
+Dale: 1
+Pine Ridge: 1
+Black Hawk: 1
+Alfred Village: 1
+Island Lake: 1
+Brook Haven: 25
+Armada: 1
+Lindon: 2
+Spanish Fort: 1
+Keenesburg: 1
+Cannon Beach: 1
+California: 2
+Ho-Ho-Kus: 1
+County Det: Berks County: 2
+Old Forge: 1
+Resa Regional: 1
+Sammamish: 9
+Pleasantville Village: 4
+Wyomissing: 3
+West Mahanoy Township: 1
+Susquehanna: 1
+Tusculum: 1
+Gouldsboro: 1
+West Branch: 1
+Clarkton: 1
+West Caln Township: 4
+Sp: Middlesex County: 2
+Reform: 1
+Navajo Nation: 135
+Dolores County: 2
+Lebanon Junction: 1
+Fryeburg: 2
+Bridgman: 2
+Commerce Township: 4
+Rochester Hills: 4
+Spencerville: 1
+Palmview: 10
+Duck: 1
+Hennessey: 1
+Verdigris: 2
+Millersville University: 1
+Vanderbilt University: 3
+Dunlap: 1
+Puyallup Tribal: 4
+Switzerland County: 2
+Salt River Tribal: 5
+Euharlee: 1
+Mille Lacs Tribal: 3
+Upper Macungine Township: 4
+Isle Of Palms: 1
+Bovina: 1
+Gila River Indian Comnty: 26
+Port Of San Diego Harbor: 1
+Hoisington: 4
+Iron River: 2
+Red River: 1
+Muskingum University: 1
+Renovo: 1
+Mahanoy Township: 2
+Illinois State Police: 133
+Atkins: 1
+Fort Apache Agency: 2
+Wilson's Mills: 1
+Obion: 1
+Stockbridge Munsee Tribl: 1
+Parachute: 1
+Hiram: 1
+Metcalfe County: 1
+Lower Sioux Tribal: 1
+St. Charles County PD: 12
+Kimberling City: 1
+Byram Township: 2
+Sagamore Hills: 1
+Salem Township: 1
+Univ Of Wi: Green Bay: 1
+Ulysses: 3
+Lac Qui Parle County: 1
+Choctaw Tribal: 11
+Crow Agency: 11
+West Siloam: 2
+Hobart-Lawrence: 4
+Plumsted Township: 1
+Tupper Lake Village: 2
+Cooperstown Village: 1
+Osage Nation: 6
+Hardwick: 1
+Jay County: 2
+Eastport: 1
+White Earth Tribal: 2
+Mount Gretna Borough: 1
+Chamberlain: 2
+Leander: 3
+Sp: Grafton: 3
+Alexander: 8
+West Fork: 2
+Northern Arizona Univ: 1
+Bear Valley: 1
+Moscow Mills: 1
+Fort Belknap Tribal: 1
+Clayton State University: 1
+Waukee: 2
+Sp: Midland County: 1
+East Range: 1
+Wardell: 1
+Miner: 3
+Winston-Salem State Univ: 1
+Cordell: 4
+Galeton: 1
+Hancock/Brooke/Wrtn Dtf: 2
+Wind River Agency: 5
+Univ Of Al: Tuscaloosa: 3
+Morrill County: 1
+Thomasboro: 1
+New Brockton: 1
+Un Of Ca: San Francisco: 2
+Lovelock Paiute Tribal: 1
+Geneseo Village: 2
+Geneva-On-The-Lake: 1
+Roland: 2
+Allegheny Cnty Port Auth: 1
+Lemhi County: 1
+Ft Pck Assiniboine&Sioux: 5
+O'neill: 1
+Sp: Ocean County: 1
+Hinckley Township: 3
+Colorado River Tribal: 2
+Washoe Tribal: 1
+Chagrin Falls: 1
+Oklahoma Highway Patrol: 49
+Sp: Hopewell: 2
+Fulton County Marshal: 1
+Homer Glen: 2
+Orion Township: 3
+Burgettstown: 1
+Pelican Bay: 1
+Lake Hallie: 3
+Stratton: 1
+Senoia: 1
+Fort Valley State Univer: 1
+Sibley: 1
+Three Affiliated Tribes: 21
+North Wales: 1
+West Greenwich: 1
+Beadle County: 1
+Howe: 3
+Bethel Heights: 1
+Twiggs Cnty Board Of Ed: 1
+St Prk: Genesee Region: 2
+Kenhorst: 1
+Bf: Dauphin County: 2
+Horizon City: 1
+Brilliant: 3
+Dle: Orange Co, Orlando: 5
+Stamps: 4
+Landover Hills: 2
+Rangeley: 1
+Fruitport: 3
+Lakeshire: 1
+Sp: Cheshire County: 5
+Western Nevada Agency: 1
+County Det: Luzerne Cnty: 1
+Timnath: 1
+Owensville: 1
+Lake Royale: 1
+Sinking Spring: 4
+Buffalo Township: 2
+Hemlock Township: 1
+Lancaster Co Detective: 4
+Mountville: 1
+Kline Township: 1
+Ala Law Enforce Agency: 7
+Belle Isle: 3
+Hp: Nevada County: 1
+Mead: 1
+Zionsville: 2
+Perkasie: 2
+West Earl Township: 1
+Utah Transit Authority: 1
+Rio: 1
+Brown Deer: 6
+Nokomis: 1
+Northern Cheyenne Agency: 7
+Nd Highway Patrol: 27
+Az Dept Of Public Safety: 3
+Stickney: 1
+Sp: Grafton County: 2
+Muscogee Nation Tribal: 7
+Sp: Spotsylvania County: 3
+Miccosukee Tribal: 1
+Cedarville: 1
+Bedford Park: 1
+Shiloh: 3
+Blackfeet Agency: 10
+Alstead: 1
+University Of Cincinnati: 1
+Citizen Potawatomi Natio: 1
+Nolensville: 1
+State Police: Westminster: 10
+Fort Lauderdale Airport: 5
+San Carlos Apache: 26
+Spring Grove: 1
+Monee: 2
+Caney: 1
+Leadwood: 1
+Mount Orab: 1
+Russells Point: 2
+Weathersfield: 2
+Frazer Township: 1
+Caddo Valley: 1
+Farrell: 2
+County Det: Monroe Cnty: 1
+County Det: Montgomery C: 1
+Buffalo Valley Regional: 1
+Sunset Valley: 1
+Yakama Nation: 7
+Hp: Humboldt County: 2
+Hp: Los Angeles County: 7
+Braidwood: 1
+Menifee County: 1
+Morrice: 1
+North Carolina A&T St Un: 2
+Eden Town: 1
+Susquehanna Regional: 1
+Prosper: 1
+Kalispel Tribal: 2
+Sp: Whitesville: 2
+Springfield Park Distric: 2
+Lake Metroparks: 1
+Prosperity: 1
+Sp: Rockingham County: 8
+Wellton: 6
+La Jolla Tribal: 1
+Kansas Highway Pratrol: Troop F: 3
+Upper Saucon Township: 1
+Tripp County: 1
+Aubrey: 4
+Lyford: 1
+Uintah And Ouray Tribal: 11
+Elberta: 2
+Univ Of Nevada:Las Vegas: 1
+Eastern Nevada Agency: 1
+Spr: Codorus: 1
+Argyle: 1
+Hampshire: 1
+Dpt Scl Srvcs St Tech At: 2
+Rocky Boy Tribal: 5
+Pound Ridge Town: 2
+Curwensville: 1
+Mount Washington: 3
+Lake Ozark: 5
+Ramah Navajo Tribal: 2
+Concho Agency: 2
+Mount Carmel Township: 1
+White Bluff: 1
+Puryear: 1
+Patton Village: 1
+Sp: Highland County: 1
+Eagle River: 1
+Univ Of Wi: Whitewater: 1
+Bad River Tribal: 2
+Sp: Parsons: 2
+Pascua Yaqui Tribal: 3
+Hualapai Tribal: 2
+Marin Community College: 1
+Clarkesville: 1
+Rock Valley: 1
+Bucksport: 1
+Fairport Village: 1
+East Coventry Township: 1
+Venus: 1
+Tx Tech Un: Lubbock: 1
+Sp: Westmoreland County: 1
+Blue Mounds: 1
+Tohono O'odham Nation: 2
+Central Marin: 1
+Palos Heights: 1
+Hainesville: 1
+Div Of Le Environmtl Pol: 1
+Brandon Township: 2
+Carl Junction: 1
+Cuyahoga County: 4
+Slate Belt Regional: 1
+Cheyenne River Tribal: 8
+Fate: 1
+Coaling: 1
+Hokes Bluff: 1
+County Det: Wayne County: 3
+Sp: Harrisonburg: 3
+Sp: Lake County: 1
+Adrian Township: 1
+Sleepy Eye: 1
+Colby-Abbotsford: 2
+Truxton Canon Agency: 1
+Fort Hall Tribal: 2
+Coushatta Tribal: 3
+SP: Princess Anne Barrack: 1
+Sp: Mercer County: 1
+Isleta Tribal: 2
+Gregory County: 1
+Pine Ridge Sioux Tribal: 23
+White Mountain Apache Tr: 16
+Hp: Mendocino County: 7
+Central Michigan Univ: 3
+Paynesville: 3
+Elsberry: 1
+Cloudcroft: 2
+Perrysburg Township: 2
+Metro Pol Auth Genesee County: 3
+Mackinac: 1
+Mescalero Tribal: 7
+Irvington Village: 1
+Suny: Binghamton: 1
+Delphos: 1
+Cornwall: 3
+Sonoma State University: 1
+Sp: Merrimack County: 5
+Seminole Natn Lighthorse: 4
+County Det: Beaver Cnty: 1
+Ashley: 1
+Isd: Santa Fe: 9
+Fox Crossing: 4
+Excel: 3
+South Beloit: 5
+Lutcher: 3
+Wales: 1
+West Boylston: 1
+Laingsburg: 1
+Crocker: 2
+Ohio Dept Of Natural Res: 6
+Kickapoo Tribal: 3
+Springdale Township: 1
+Poth: 2
+Hopi Tribal: 1
+Lake Villa: 1
+Mo State Highway Patrol: 56
+Rolette: 1
+Allegheny Co Da Cid: 1
+Hp: Darlington County: 1
+Bullard: 2
+Ysleta Del Sur Pueblo Tr: 1
+Sp: Bristol: 3
+Duvall: 1
+Hp: Sacramento County: 2
+Schley County: 5
+Moose Lake: 1
+Bates City: 1
+Hp: Colleton County: 1
+Sp: Nelson County: 2
+Ga Dept Of Public Safety: 2
+Ponca Tribal: 1
+Anadarko Agency: 1
+Central Bucks Regional: 1
+West Fallowfield Townshi: 1
+Ca St Un: Chico: 1
+Lindenhurst: 2
+Russell Springs: 1
+St Ptrl: Thayer County: 1
+Ohkay Owingeh Tribal: 1
+Bremond: 1
+Mantoloking: 1
+East Lyme: 2
+Cardwell: 1
+Calverton Park: 5
+Prosecutor: Burlington C: 1
+Ballston Spa Village: 2
+Swoyersville: 1
+Kansas Highway Pratrol: Troop H: 4
+Kinross Township: 1
+Ely Shoshone Tribal: 2
+Tunkhannock Township: 1
+Kohler: 2
+Harrington: 2
+Terre Du Lac: 1
+Holdrege: 2
+Thurmont: 1
+Wahpeton: 3
+Yankton Tribal: 9
+Hickory Creek: 1
+Marquette University: 4
+Gravette: 1
+Rockford Park District: 3
+Chitimacha Tribal: 2
+Univ Of Nc: Charlotte: 2
+Highway Patrol: 29
+Wisconsin Dells: 2
+Marshall Village: 2
+Marshall County Drug Task Force: 1
+Centerton: 2
+Sp: Coos County: 1
+Magdalena: 1
+Kiel: 2
+Fairfield Bay: 1
+Hp: Kern County: 10
+St Ptrl: Dawson County: 1
+Dept of Corrections: 4
+Tesuque Pueblo: 2
+Coitsville Township: 1
+Cache: 1
+Jonesborough: 1
+Quinault Indian Nation: 1
+Sp: Drug Enfrcmnt Area 2: 1
+Santa Clara Pueblo: 2
+Hp: York County: 1
+Hinesburg: 1
+Rome Town: 2
+Spooner: 1
+Ca St Un: Fullerton: 1
+Akron-Fairgrove: 1
+State Police County: 1
+Belleair Bluffs: 1
+Cook Co Forest Preserve: 1
+Kansas Highway Pratrol: Troop G: 2
+Rio Hondo: 1
+Colona: 2
+Sp: Charlevoix County: 2
+Elmer: 1
+Sisseton-Wahpeton Tribal: 3
+Austin Peay State Univ: 2
+Ganado: 3
+Dle:Lee Co, Fort Myers: 1
+Buffalo Grove: 6
+State Police, Peru: 1
+Mbta: Essex County: 1
+Hannahville Tribal: 3
+Colon: 2
+State Patrol: Oakdale: 7
+Univ Of Central Missouri: 1
+Fort Towson: 1
+Rogue River: 1
+Nekoosa: 2
+Indiana Univ: Gary: 1
+Bluegrass Narcotics Task Force: 1
+State Patrol: Rochester: 2
+State Patrol: Thf Rvr Fl: 1
+Hp: Riverside County: 6
+State Police, Lowell: 1
+Tompkinsville: 1
+Metropolitan Transit Commission: 5
+ISD: Houston: 1
+Sp: Richmond County: 1
+Lac Courte Oreilles Tribe: 4
+Indiana Gaming Commission: 1
+State Patrol: St. Cloud: 2
+State Patrol: Virginia: 2
+Stratham: 1
+Lawton Public Schools: 1
+Sp: Alexandria: 2
+West Virginia University: 1
+Harlan: 1
+State Patrol: District 7: 1
+Bonners Ferry: 1
+Linton: 1
+Northern Ky Narc Enforce: 1
+Perham: 1
+Hector: 1
+Webb: 1
+Sp: Belknap County: 1
+Sp: Sullivan County: 1
+Sperry: 1
+Penbrook: 4
+State Police, Newport: 2
+State Police, Somerset: 1
+Isd: Humble: 1
+Pentagon Force Protection Agency: 1
+Federal Bureau of Investigation: 122
+Hawley: 1
+New Lenox: 1
+Fennville: 1
+Derma: 3
+Winnebago Tribal: 2
+Texhoma: 1
+North Fond Du Lac: 1
+Dpr: Channel Coast: 1
+Greater Hardin Co Nar Tf: 5
+Mackinaw City: 1
+Tawas: 1
+Bay Springs: 1
+Cresskill: 1
+University Of Akron: 1
+Dpt Gm & Inland Fsh En D: 1
+Motor Veh Enforcement: 1
+State Patrol: Marshall: 4
+Snow Hill: 1
+Hemingway: 1
+Garden Ridge: 1
+Doddridge County: 1
+Wyoming Division of Crime: 33
+Windermere: 2
+Southern Arkansas Univ: 2
+Ellendale: 1
+Ports Authority Savannah: 1
+Lake Odessa: 1
+State Patrol: Detrt Lks: 4
+Morehouse: 1
+Turtle Mountain Agency: 2
+Dept Pub Safety Inv Div: 7
+Natalia: 1
+Amery: 1
+St. Croix Falls: 2
+Sp, Pkwy Auth:Raleigh Co: 3
+Jena: 1
+State Patrol: Duluth: 3
+Dnr: Monongalia County: 1
+Nez Perce Tribal: 1
+Sp: West Drug Enfrcmnt B: 1
+State Patrol: Mankato: 1
+Buda: 1
+State Patrol: Brainerd: 4
+Lavon: 1
+Bargersville: 3
+South Central Ky Drug Tf: 2
+Westby: 1
+Wisconsin State Patrol: 1
+Tunica: 2
+Ulster Reg Gng Enf Nrc T: 1
+State Police, Bedford: 4
+State Police, Lancaster: 2
+Crow Creek Tribal: 1
+Rosebud Tribal: 6
+Wortham: 2
+Rensselaer County State Police: 3
+Steuben County State Police: 2
+Sullivan County State Police: 5
+Nassau: 12
+Sycuan Tribal: 1
+Bear River Band: 3
+Metamora Township: 1
+Pojoaque Tribal: 1
+Siletz Tribal: 1
+State Police, New Castle: 1
+West Salem: 2
+Onondaga County State Police: 1
+Orange County State Police: 2
+Brandenburg: 1
+Fort Totten Agency: 1
+Belmont County Major Crimes: 1
+Cherokee Nation: 2
+State Police, Beaver: 1
+Tompkins County State Police: 1
+Montgomery County State Police: 1
+Herkimer County State Police: 5
+Broome County State Police: 1
+Margaret: 1
+Little Flock: 1
+McCordsville: 2
+Saginaw Chippewa Tribal: 4
+State Police, Ebensburg: 1
+Division of Criminal Inv: 1
+Chemung County State Police: 1
+Columbia County State Police: 1
+Alabama Dept of Corrections: 10
+Alabama Law Enforcement Agency: 3
+Frankford: 1
+Twin City: 2
+Remerton: 2
+Choctaw Nation: 2
+Warm Springs Tribal: 1
+State Police, Pittsburgh: 1
+Spink County: 1
+Trophy Club: 1
+Santa Clara/Ivins: 1
+Greene County State Police: 3
+Mineral Springs: 1
+Blades: 1
+Bancroft: 1
+Zia Pueblo: 1
+Chickasaw Nation: 7
+East Earl Township: 2
+State Police, Erie: 2
+State Police, Embreeville: 1
+State Police, Mercer: 1
+Allegany County State Police: 1
+Onondaga: 1
+Chautauqua County State Police: 1
+Cayuga: 2
+Erie County State Police: 1
+Empire: 1
+Larned: 3
+Red Lake Agency: 1
+Petroleum County: 1
+State Police, Avondale: 3
+State Police, Mansfield: 1
+Savoy: 1
+Narrows: 1
+Clinton County State Police: 1
+Bayfield: 1
+Springport Township: 1
+Renville: 1
+Wabasha: 1
+State Patrol: Golden Vly: 7
+Lower Brule Tribal: 2
+Montgomery County Consta: 1
+Chocolay Township: 1
+Dutchess County State Police: 2
+Oneida County State Police: 3
+Potawatomi Tribal: 1
+Jerauld County: 1
+Sp: Amherst County: 2
+Ledyard: 1
+Flatwoods: 1
+Beech Mountain: 1
+Orford: 1
+State Police, Reading: 1
+Essex County State Police: 1
+Suffolk County State Police: 1
+Angel Fire: 1
+Skiatook: 1
+State Police, Franklin: 1
+State Police, York County: 4
+Zavalla: 1
+Hp: Kings County: 4
+Schenectady County State Police: 2
+Alabama Drug Enforcement: 1
+Town Creek: 1
+Frisco City: 1
+Alabama Law Enforcement: 4
+Shannon Hills: 4
+Cocopah Tribal: 1
+Ak-Chin Tribal: 1
+Hp: Colusa County: 1
+Hp: El Dorado County: 1
+Hp: Imperial County: 1
+Hp: Madera County: 1
+Hp: Orange County: 1
+Hp: San Diego County: 1
+Hp: Siskiyou County: 1
+Hp: Solano County: 1
+Kremmling: 1
+Department of Veterans Affairs: 1
+Dewey Beach: 1
+Guyton: 1
+Hahira: 1
+Chicago Ridge: 1
+East Hazel Crest: 2
+Chicago State University: 1
+La Harpe: 1
+Basehor: 1
+Barren Co Drug Task Forc: 1
+Truro: 1
+Maryland State Police: 20
+Winter Harbor: 1
+Passamaquoddy Plsnt Pt T: 1
+Davison: 1
+Somerset Township: 1
+Blissfield: 1
+Raisin Township: 1
+Elko New Market: 1
+East Prairie: 1
+Tallahatchie County: 2
+Whispering Pines: 1
+State Capitol Police: 1
+Foster County: 1
+Carrington: 1
+Strafford: 1
+Monmouth County: 1
+De Baca County: 3
+HP: Northwestern: 1
+Niagara Frontier Transportation: 1
+Cambridge Village: 1
+Penn Yan Village: 1
+Sabina: 1
+Greater Cleveland Reg Ta: 1
+Green Township: 2
+Sheffield Village: 1
+Pomeroy: 1
+Quapaw Tribal: 1
+Nyssa: 1
+East Marlborough Townshi: 2
+County Det: Lackawanna C: 1
+West Penn Township: 2
+Smith Township: 1
+Chapin: 1
+Wagner: 1
+Kingsbury County: 1
+Dtf:19th Judicial Distri: 1
+Middle Tennessee State U: 1
+Josephine: 1
+Sp: Albemarle County: 5
+Sp: Botetourt County: 2
+Sp: Essex County: 1
+United States Air Force: 2
+Sp: Buena Vista: 1
+Sp: Charlottesville: 4
+Thetford: 1
+Buckley: 1
+Tulalip Tribal: 1
+Kronenwetter: 2
+Hartland: 3
